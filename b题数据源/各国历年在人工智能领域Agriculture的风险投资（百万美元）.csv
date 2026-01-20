@@ -1,0 +1,92 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Agriculture,VC,5.82,2012
+USA,United States,Agriculture,VC,16.595,2013
+USA,United States,Agriculture,VC,65.375,2014
+USA,United States,Agriculture,VC,112.61,2015
+USA,United States,Agriculture,VC,153.73,2016
+USA,United States,Agriculture,VC,518.945729,2017
+USA,United States,Agriculture,VC,529.096297,2018
+USA,United States,Agriculture,VC,470.519994,2019
+USA,United States,Agriculture,VC,1181.4630735,2020
+USA,United States,Agriculture,VC,1626.082168,2021
+USA,United States,Agriculture,VC,650.321031,2022
+USA,United States,Agriculture,VC,837.834555,2023
+USA,United States,Agriculture,VC,456.481904,2024
+USA,United States,Agriculture,VC,141.660255,2025
+CAN,Canada,Agriculture,VC,1.8,2012
+CAN,Canada,Agriculture,VC,1.42,2013
+CAN,Canada,Agriculture,VC,1.99,2015
+CAN,Canada,Agriculture,VC,21.84,2016
+CAN,Canada,Agriculture,VC,2.1680099999999998,2017
+CAN,Canada,Agriculture,VC,11.552533,2018
+CAN,Canada,Agriculture,VC,66.806523,2019
+CAN,Canada,Agriculture,VC,107.125686,2020
+CAN,Canada,Agriculture,VC,109.46473549999999,2021
+CAN,Canada,Agriculture,VC,45.759474999999995,2022
+CAN,Canada,Agriculture,VC,51.490089,2023
+CAN,Canada,Agriculture,VC,37.589778,2024
+CAN,Canada,Agriculture,VC,50.5,2025
+GBR,United Kingdom,Agriculture,VC,4.359726,2017
+GBR,United Kingdom,Agriculture,VC,28.345113,2018
+GBR,United Kingdom,Agriculture,VC,18.575801,2019
+GBR,United Kingdom,Agriculture,VC,59.983776,2020
+GBR,United Kingdom,Agriculture,VC,300.373309,2021
+GBR,United Kingdom,Agriculture,VC,14.701540000000001,2022
+GBR,United Kingdom,Agriculture,VC,4.777191,2023
+GBR,United Kingdom,Agriculture,VC,13.994774,2024
+GBR,United Kingdom,Agriculture,VC,28.134056,2025
+CHN,China (People's Republic of),Agriculture,VC,20,2014
+CHN,China (People's Republic of),Agriculture,VC,20,2015
+CHN,China (People's Republic of),Agriculture,VC,0.769199,2016
+CHN,China (People's Republic of),Agriculture,VC,0.442305,2017
+CHN,China (People's Republic of),Agriculture,VC,4.926163,2018
+CHN,China (People's Republic of),Agriculture,VC,46.57606,2019
+CHN,China (People's Republic of),Agriculture,VC,172.49979,2020
+CHN,China (People's Republic of),Agriculture,VC,54.194627000000004,2021
+CHN,China (People's Republic of),Agriculture,VC,44.928132500000004,2022
+CHN,China (People's Republic of),Agriculture,VC,4.429176,2023
+CHN,China (People's Republic of),Agriculture,VC,30.332805,2024
+CHN,China (People's Republic of),Agriculture,VC,17.39373,2025
+IND,India,Agriculture,VC,4.469169,2015
+IND,India,Agriculture,VC,0.42000000000000004,2016
+IND,India,Agriculture,VC,14.347033,2017
+IND,India,Agriculture,VC,3.472461,2018
+IND,India,Agriculture,VC,48.680453,2019
+IND,India,Agriculture,VC,5.728558,2020
+IND,India,Agriculture,VC,131.75996750000002,2021
+IND,India,Agriculture,VC,72.44166799999999,2022
+IND,India,Agriculture,VC,20.84965,2023
+IND,India,Agriculture,VC,47.678456,2024
+IND,India,Agriculture,VC,63.4493985,2025
+FRA,France,Agriculture,VC,0.60223,2012
+FRA,France,Agriculture,VC,1.57155,2013
+FRA,France,Agriculture,VC,2.828137,2016
+FRA,France,Agriculture,VC,3.041608,2017
+FRA,France,Agriculture,VC,11.704608,2018
+FRA,France,Agriculture,VC,9.776063,2019
+FRA,France,Agriculture,VC,16.145028,2020
+FRA,France,Agriculture,VC,29.718897000000002,2021
+FRA,France,Agriculture,VC,48.998095000000006,2022
+FRA,France,Agriculture,VC,7.496968,2023
+FRA,France,Agriculture,VC,23.278699999999997,2024
+FRA,France,Agriculture,VC,37.168065000000006,2025
+KOR,Korea,Agriculture,VC,1.679904,2020
+KOR,Korea,Agriculture,VC,3.0594505,2021
+KOR,Korea,Agriculture,VC,58.26813,2022
+KOR,Korea,Agriculture,VC,0.7692370000000001,2023
+KOR,Korea,Agriculture,VC,3.101127,2024
+KOR,Korea,Agriculture,VC,27.4300745,2025
+JPN,Japan,Agriculture,VC,0.866467,2015
+JPN,Japan,Agriculture,VC,0.55135,2017
+JPN,Japan,Agriculture,VC,1.6314825,2018
+JPN,Japan,Agriculture,VC,1.621352,2019
+JPN,Japan,Agriculture,VC,9.028287500000001,2020
+JPN,Japan,Agriculture,VC,1.928202,2021
+JPN,Japan,Agriculture,VC,27.323439999999998,2022
+JPN,Japan,Agriculture,VC,4.296371000000001,2023
+JPN,Japan,Agriculture,VC,39.108174,2024
+JPN,Japan,Agriculture,VC,0,2025
+ARE,United Arab Emirates,Agriculture,VC,1.1,2021
+ARE,United Arab Emirates,Agriculture,VC,0.3,2022
+ARE,United Arab Emirates,Agriculture,VC,3,2024
+ARE,United Arab Emirates,Agriculture,VC,0,2025

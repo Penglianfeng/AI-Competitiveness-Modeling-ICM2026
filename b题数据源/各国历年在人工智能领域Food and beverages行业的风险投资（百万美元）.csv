@@ -1,0 +1,74 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Food and beverages,VC,2.5999999999999996,2012
+USA,United States,Food and beverages,VC,4.82,2013
+USA,United States,Food and beverages,VC,33.92,2014
+USA,United States,Food and beverages,VC,102,2015
+USA,United States,Food and beverages,VC,53.83,2016
+USA,United States,Food and beverages,VC,9.7,2017
+USA,United States,Food and beverages,VC,145.74,2018
+USA,United States,Food and beverages,VC,3,2019
+USA,United States,Food and beverages,VC,12.2,2020
+USA,United States,Food and beverages,VC,65,2021
+USA,United States,Food and beverages,VC,46.4,2022
+USA,United States,Food and beverages,VC,57.93,2023
+USA,United States,Food and beverages,VC,3.8,2024
+USA,United States,Food and beverages,VC,3.999986,2025
+GBR,United Kingdom,Food and beverages,VC,0.190797,2016
+GBR,United Kingdom,Food and beverages,VC,7.792563,2017
+GBR,United Kingdom,Food and beverages,VC,19.602957,2018
+GBR,United Kingdom,Food and beverages,VC,1.7084730000000001,2019
+GBR,United Kingdom,Food and beverages,VC,10.763604,2020
+GBR,United Kingdom,Food and beverages,VC,40.507552000000004,2021
+GBR,United Kingdom,Food and beverages,VC,55.505607,2022
+GBR,United Kingdom,Food and beverages,VC,2.41951,2023
+GBR,United Kingdom,Food and beverages,VC,15,2024
+GBR,United Kingdom,Food and beverages,VC,13.583551,2025
+KOR,Korea,Food and beverages,VC,0.912693,2018
+KOR,Korea,Food and beverages,VC,4.135168,2019
+KOR,Korea,Food and beverages,VC,8.812198,2020
+KOR,Korea,Food and beverages,VC,18.0850955,2021
+KOR,Korea,Food and beverages,VC,39.962215,2022
+KOR,Korea,Food and beverages,VC,7.011772,2023
+KOR,Korea,Food and beverages,VC,17.9250975,2024
+KOR,Korea,Food and beverages,VC,9.2227105,2025
+CHN,China (People's Republic of),Food and beverages,VC,0.969916,2015
+CHN,China (People's Republic of),Food and beverages,VC,2.042975,2016
+CHN,China (People's Republic of),Food and beverages,VC,0,2019
+CHN,China (People's Republic of),Food and beverages,VC,4.551243,2020
+CHN,China (People's Republic of),Food and beverages,VC,47.598767,2021
+CHN,China (People's Republic of),Food and beverages,VC,0,2022
+CHN,China (People's Republic of),Food and beverages,VC,14.149631,2023
+CHN,China (People's Republic of),Food and beverages,VC,7.084720000000001,2024
+CHN,China (People's Republic of),Food and beverages,VC,6.9361,2025
+IND,India,Food and beverages,VC,0.472797,2014
+IND,India,Food and beverages,VC,0.768827,2015
+IND,India,Food and beverages,VC,0.203895,2017
+IND,India,Food and beverages,VC,0.380132,2018
+IND,India,Food and beverages,VC,1.056318,2019
+IND,India,Food and beverages,VC,0.737429,2020
+IND,India,Food and beverages,VC,1.857012,2021
+IND,India,Food and beverages,VC,2.554563,2022
+IND,India,Food and beverages,VC,2.245387,2023
+IND,India,Food and beverages,VC,23.527241,2024
+IND,India,Food and beverages,VC,5.00273,2025
+CAN,Canada,Food and beverages,VC,32.598601,2021
+CAN,Canada,Food and beverages,VC,2.086046,2022
+CAN,Canada,Food and beverages,VC,0.1,2025
+DEU,Germany,Food and beverages,VC,0,2019
+DEU,Germany,Food and beverages,VC,23,2023
+DEU,Germany,Food and beverages,VC,5.3,2025
+ARE,United Arab Emirates,Food and beverages,VC,1.44,2019
+ARE,United Arab Emirates,Food and beverages,VC,1.35,2020
+ARE,United Arab Emirates,Food and beverages,VC,10.15,2022
+ARE,United Arab Emirates,Food and beverages,VC,12,2024
+ARE,United Arab Emirates,Food and beverages,VC,0.5,2025
+JPN,Japan,Food and beverages,VC,0.136427,2019
+JPN,Japan,Food and beverages,VC,1.2905820000000001,2020
+JPN,Japan,Food and beverages,VC,2.531866,2021
+JPN,Japan,Food and beverages,VC,0.842249,2022
+JPN,Japan,Food and beverages,VC,1.801279,2023
+JPN,Japan,Food and beverages,VC,0.33218,2024
+FRA,France,Food and beverages,VC,0.057839,2012
+FRA,France,Food and beverages,VC,0.119575,2021
+FRA,France,Food and beverages,VC,0.823021,2023
+FRA,France,Food and beverages,VC,3.87068,2025

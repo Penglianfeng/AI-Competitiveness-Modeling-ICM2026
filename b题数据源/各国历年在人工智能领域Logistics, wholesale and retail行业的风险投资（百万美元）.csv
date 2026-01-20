@@ -1,0 +1,126 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,5,2012
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,30,2013
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,321.152661,2014
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,328.164125,2015
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,1888.2030325,2016
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,1795.154297,2017
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,3538.5830189999997,2018
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,4051.060656,2019
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,1413.144783,2020
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,1741.169772,2021
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,825.507353,2022
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,323.135903,2023
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,151.244728,2024
+CHN,China (People's Republic of),Logistics, wholesale and retail,VC,176.420363,2025
+USA,United States,Logistics, wholesale and retail,VC,97.09,2012
+USA,United States,Logistics, wholesale and retail,VC,23.571531,2013
+USA,United States,Logistics, wholesale and retail,VC,383.98794399999997,2014
+USA,United States,Logistics, wholesale and retail,VC,615.44115,2015
+USA,United States,Logistics, wholesale and retail,VC,741.24,2016
+USA,United States,Logistics, wholesale and retail,VC,514.100712,2017
+USA,United States,Logistics, wholesale and retail,VC,1343.118417,2018
+USA,United States,Logistics, wholesale and retail,VC,2228.9654,2019
+USA,United States,Logistics, wholesale and retail,VC,1236.932861,2020
+USA,United States,Logistics, wholesale and retail,VC,2042.6537819999999,2021
+USA,United States,Logistics, wholesale and retail,VC,1392.109432,2022
+USA,United States,Logistics, wholesale and retail,VC,1581.6255449999999,2023
+USA,United States,Logistics, wholesale and retail,VC,876.416409,2024
+USA,United States,Logistics, wholesale and retail,VC,949.4199475,2025
+IND,India,Logistics, wholesale and retail,VC,1.2,2012
+IND,India,Logistics, wholesale and retail,VC,1.475677,2013
+IND,India,Logistics, wholesale and retail,VC,6.871867,2014
+IND,India,Logistics, wholesale and retail,VC,43.601375,2015
+IND,India,Logistics, wholesale and retail,VC,90.698497,2016
+IND,India,Logistics, wholesale and retail,VC,100.671149,2017
+IND,India,Logistics, wholesale and retail,VC,176.91654,2018
+IND,India,Logistics, wholesale and retail,VC,349.267371,2019
+IND,India,Logistics, wholesale and retail,VC,394.6797815,2020
+IND,India,Logistics, wholesale and retail,VC,1818.438216,2021
+IND,India,Logistics, wholesale and retail,VC,538.623619,2022
+IND,India,Logistics, wholesale and retail,VC,316.129217,2023
+IND,India,Logistics, wholesale and retail,VC,134.335077,2024
+IND,India,Logistics, wholesale and retail,VC,216.8181355,2025
+DEU,Germany,Logistics, wholesale and retail,VC,0,2013
+DEU,Germany,Logistics, wholesale and retail,VC,34.561381,2015
+DEU,Germany,Logistics, wholesale and retail,VC,21.9211275,2016
+DEU,Germany,Logistics, wholesale and retail,VC,20,2017
+DEU,Germany,Logistics, wholesale and retail,VC,25.876123,2018
+DEU,Germany,Logistics, wholesale and retail,VC,209.2,2019
+DEU,Germany,Logistics, wholesale and retail,VC,135.143605,2020
+DEU,Germany,Logistics, wholesale and retail,VC,266.893144,2021
+DEU,Germany,Logistics, wholesale and retail,VC,269.358723,2022
+DEU,Germany,Logistics, wholesale and retail,VC,122.417541,2023
+DEU,Germany,Logistics, wholesale and retail,VC,41.933236,2024
+DEU,Germany,Logistics, wholesale and retail,VC,52.98306,2025
+KOR,Korea,Logistics, wholesale and retail,VC,1.859433,2012
+KOR,Korea,Logistics, wholesale and retail,VC,49.266736,2014
+KOR,Korea,Logistics, wholesale and retail,VC,0.177789,2015
+KOR,Korea,Logistics, wholesale and retail,VC,50.366121,2016
+KOR,Korea,Logistics, wholesale and retail,VC,31.007407,2017
+KOR,Korea,Logistics, wholesale and retail,VC,329.645291,2018
+KOR,Korea,Logistics, wholesale and retail,VC,13.3548025,2019
+KOR,Korea,Logistics, wholesale and retail,VC,23.581467,2020
+KOR,Korea,Logistics, wholesale and retail,VC,101.7203495,2021
+KOR,Korea,Logistics, wholesale and retail,VC,178.183841,2022
+KOR,Korea,Logistics, wholesale and retail,VC,45.921279,2023
+KOR,Korea,Logistics, wholesale and retail,VC,104.641153,2024
+KOR,Korea,Logistics, wholesale and retail,VC,16.833614,2025
+FRA,France,Logistics, wholesale and retail,VC,5.627986,2015
+FRA,France,Logistics, wholesale and retail,VC,32.59978,2016
+FRA,France,Logistics, wholesale and retail,VC,25.705230999999998,2018
+FRA,France,Logistics, wholesale and retail,VC,5.272432,2019
+FRA,France,Logistics, wholesale and retail,VC,95.54703599999999,2020
+FRA,France,Logistics, wholesale and retail,VC,34.653211999999996,2021
+FRA,France,Logistics, wholesale and retail,VC,506.267916,2022
+FRA,France,Logistics, wholesale and retail,VC,29.212296,2023
+FRA,France,Logistics, wholesale and retail,VC,11.341887,2024
+FRA,France,Logistics, wholesale and retail,VC,30.716285,2025
+CAN,Canada,Logistics, wholesale and retail,VC,0.1,2013
+CAN,Canada,Logistics, wholesale and retail,VC,3.5,2014
+CAN,Canada,Logistics, wholesale and retail,VC,17.884723,2015
+CAN,Canada,Logistics, wholesale and retail,VC,53.22,2016
+CAN,Canada,Logistics, wholesale and retail,VC,3.055,2018
+CAN,Canada,Logistics, wholesale and retail,VC,8,2019
+CAN,Canada,Logistics, wholesale and retail,VC,52.839597499999996,2020
+CAN,Canada,Logistics, wholesale and retail,VC,180.823926,2021
+CAN,Canada,Logistics, wholesale and retail,VC,178.15899499999998,2022
+CAN,Canada,Logistics, wholesale and retail,VC,69.25,2023
+CAN,Canada,Logistics, wholesale and retail,VC,70.408387,2024
+CAN,Canada,Logistics, wholesale and retail,VC,39.816479,2025
+GBR,United Kingdom,Logistics, wholesale and retail,VC,0.591002,2013
+GBR,United Kingdom,Logistics, wholesale and retail,VC,12.15,2014
+GBR,United Kingdom,Logistics, wholesale and retail,VC,5.506112,2015
+GBR,United Kingdom,Logistics, wholesale and retail,VC,3.477049,2016
+GBR,United Kingdom,Logistics, wholesale and retail,VC,20.172544000000002,2017
+GBR,United Kingdom,Logistics, wholesale and retail,VC,14.369757,2018
+GBR,United Kingdom,Logistics, wholesale and retail,VC,18.347056,2019
+GBR,United Kingdom,Logistics, wholesale and retail,VC,3.444172,2020
+GBR,United Kingdom,Logistics, wholesale and retail,VC,94.601333,2021
+GBR,United Kingdom,Logistics, wholesale and retail,VC,23.663239,2022
+GBR,United Kingdom,Logistics, wholesale and retail,VC,94.483182,2023
+GBR,United Kingdom,Logistics, wholesale and retail,VC,66.1360605,2024
+GBR,United Kingdom,Logistics, wholesale and retail,VC,175.512613,2025
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,11,2015
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,16,2016
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,44.2,2017
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,4.25,2018
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,44.6,2019
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,27.48,2020
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,15.3,2021
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,166,2022
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,2.56,2023
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,34.38,2024
+ARE,United Arab Emirates,Logistics, wholesale and retail,VC,8.053708,2025
+JPN,Japan,Logistics, wholesale and retail,VC,1.90465,2012
+JPN,Japan,Logistics, wholesale and retail,VC,2.428229,2013
+JPN,Japan,Logistics, wholesale and retail,VC,1.7785549999999999,2016
+JPN,Japan,Logistics, wholesale and retail,VC,2.9896719999999997,2017
+JPN,Japan,Logistics, wholesale and retail,VC,13.948446500000001,2018
+JPN,Japan,Logistics, wholesale and retail,VC,9.685191,2019
+JPN,Japan,Logistics, wholesale and retail,VC,1.856124,2020
+JPN,Japan,Logistics, wholesale and retail,VC,15.585038,2021
+JPN,Japan,Logistics, wholesale and retail,VC,26.68095,2022
+JPN,Japan,Logistics, wholesale and retail,VC,62.895231,2023
+JPN,Japan,Logistics, wholesale and retail,VC,17.124179,2024
+JPN,Japan,Logistics, wholesale and retail,VC,48.569368499999996,2025

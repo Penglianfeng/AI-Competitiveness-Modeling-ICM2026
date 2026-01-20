@@ -1,0 +1,342 @@
+Country destination,Country destination_label,Country source,Country source_label,Sum_of_deals,year
+USA,United States,USA,United States,196.740055,2012
+CAN,Canada,USA,United States,93.440137,2013
+USA,United States,USA,United States,318.498468,2013
+CAN,Canada,USA,United States,26.4862545,2014
+CHN,China (People's Republic of),USA,United States,0,2014
+EU27,EU27,USA,United States,0,2014
+USA,United States,USA,United States,280.54871299999996,2014
+CHN,China (People's Republic of),USA,United States,12.5,2015
+ISR,Israel,USA,United States,7.5,2015
+USA,United States,USA,United States,343.1483343333333,2015
+CAN,Canada,USA,United States,10.25,2016
+DEU,Germany,USA,United States,4.833333333333333,2016
+EU27,EU27,USA,United States,4.833333333333333,2016
+ISR,Israel,USA,United States,4,2016
+USA,United States,USA,United States,243.18256933333333,2016
+DEU,Germany,USA,United States,9.333333333333332,2017
+EU27,EU27,USA,United States,10.082044666666665,2017
+ISR,Israel,USA,United States,13.5,2017
+JPN,Japan,USA,United States,2.0212545,2017
+USA,United States,USA,United States,510.4949725,2017
+CHN,China (People's Republic of),USA,United States,4,2018
+CAN,Canada,USA,United States,7.5,2018
+DEU,Germany,USA,United States,11.166666666666666,2018
+EU27,EU27,USA,United States,11.644457666666666,2018
+GBR,United Kingdom,USA,United States,1.8878095,2018
+ISR,Israel,USA,United States,85.66666666666667,2018
+JPN,Japan,USA,United States,14.41281425,2018
+USA,United States,USA,United States,217.34759733333334,2018
+CAN,Canada,USA,United States,45.5943345,2019
+CHN,China (People's Republic of),USA,United States,5,2019
+EU27,EU27,USA,United States,2.18972,2019
+FRA,France,USA,United States,2.18972,2019
+JPN,Japan,USA,United States,7.783596,2019
+USA,United States,USA,United States,2104.1439843333333,2019
+CAN,Canada,USA,United States,14.2914815,2020
+CHN,China (People's Republic of),USA,United States,10,2020
+DEU,Germany,USA,United States,40.93518066666667,2020
+EU27,EU27,USA,United States,50.99511416666667,2020
+FRA,France,USA,United States,7.895117166666667,2020
+ISR,Israel,USA,United States,20.5,2020
+JPN,Japan,USA,United States,4.102753,2020
+USA,United States,USA,United States,670.5744973333334,2020
+DEU,Germany,USA,United States,184.33333333333334,2021
+EU27,EU27,USA,United States,244.82249666666664,2021
+FRA,France,USA,United States,50.44067716666666,2021
+CAN,Canada,USA,United States,57.5086315,2021
+GBR,United Kingdom,USA,United States,19.740752083333334,2021
+ISR,Israel,USA,United States,81.13333333333333,2021
+KOR,Korea,USA,United States,6.408305,2021
+USA,United States,USA,United States,2399.577769416667,2021
+CAN,Canada,USA,United States,4,2022
+CHN,China (People's Republic of),USA,United States,0,2022
+DEU,Germany,USA,United States,9.078315,2022
+EU27,EU27,USA,United States,118.69069300000001,2022
+FRA,France,USA,United States,74.796779,2022
+GBR,United Kingdom,USA,United States,115.022916,2022
+ISR,Israel,USA,United States,144.08333333333331,2022
+JPN,Japan,USA,United States,6.635848,2022
+USA,United States,USA,United States,915.1948699999999,2022
+ISR,Israel,USA,United States,108.2,2023
+CHN,China (People's Republic of),USA,United States,6.5,2023
+DEU,Germany,USA,United States,1.65,2023
+EU27,EU27,USA,United States,167.4673581,2023
+FRA,France,USA,United States,156.3400666,2023
+GBR,United Kingdom,USA,United States,22.599359833333335,2023
+CAN,Canada,USA,United States,32.758710666666666,2023
+JPN,Japan,USA,United States,5.5656085,2023
+USA,United States,USA,United States,11916.619169166666,2023
+ISR,Israel,USA,United States,124.65,2024
+CHN,China (People's Republic of),USA,United States,8.4912215,2024
+DEU,Germany,USA,United States,1.5,2024
+EU27,EU27,USA,United States,200.66098233333332,2024
+FRA,France,USA,United States,187.45073933333333,2024
+GBR,United Kingdom,USA,United States,135.1778835,2024
+CAN,Canada,USA,United States,134.77656516666667,2024
+JPN,Japan,USA,United States,0,2024
+KOR,Korea,USA,United States,3.17022625,2024
+USA,United States,USA,United States,6430.961536869047,2024
+CAN,Canada,USA,United States,82.0169855,2025
+CHN,China (People's Republic of),USA,United States,4.6235083333333336,2025
+DEU,Germany,USA,United States,10.25,2025
+EU27,EU27,USA,United States,509.16772296666664,2025
+FRA,France,USA,United States,383.2240593,2025
+GBR,United Kingdom,USA,United States,687.143611,2025
+ISR,Israel,USA,United States,200.66666666666666,2025
+JPN,Japan,USA,United States,3.40079,2025
+KOR,Korea,USA,United States,11.706658000000001,2025
+USA,United States,USA,United States,17641.421554333334,2025
+DEU,Germany,GBR,United Kingdom,1.8282685,2013
+EU27,EU27,GBR,United Kingdom,1.8282685,2013
+GBR,United Kingdom,GBR,United Kingdom,2.2794415,2013
+USA,United States,GBR,United Kingdom,12,2013
+GBR,United Kingdom,GBR,United Kingdom,6.51884,2014
+USA,United States,GBR,United Kingdom,35.57,2014
+GBR,United Kingdom,GBR,United Kingdom,0.491955,2015
+USA,United States,GBR,United Kingdom,350,2015
+DEU,Germany,GBR,United Kingdom,4.333333333333333,2016
+EU27,EU27,GBR,United Kingdom,4.333333333333333,2016
+GBR,United Kingdom,GBR,United Kingdom,2.666845,2016
+USA,United States,GBR,United Kingdom,6.755,2016
+USA,United States,GBR,United Kingdom,4,2017
+EU27,EU27,GBR,United Kingdom,9.333333333333332,2017
+GBR,United Kingdom,GBR,United Kingdom,9.686876,2017
+DEU,Germany,GBR,United Kingdom,9.333333333333332,2017
+DEU,Germany,GBR,United Kingdom,11.166666666666666,2018
+EU27,EU27,GBR,United Kingdom,11.166666666666666,2018
+GBR,United Kingdom,GBR,United Kingdom,7.191326,2018
+USA,United States,GBR,United Kingdom,39.60526883333333,2018
+DEU,Germany,GBR,United Kingdom,3.4103325,2019
+EU27,EU27,GBR,United Kingdom,3.4103325,2019
+GBR,United Kingdom,GBR,United Kingdom,9.972281,2019
+USA,United States,GBR,United Kingdom,326.66810666666663,2019
+DEU,Germany,GBR,United Kingdom,0.9351806666666667,2020
+EU27,EU27,GBR,United Kingdom,9.730697666666668,2020
+FRA,France,GBR,United Kingdom,6.630700666666667,2020
+GBR,United Kingdom,GBR,United Kingdom,10.679976,2020
+ISR,Israel,GBR,United Kingdom,4,2020
+USA,United States,GBR,United Kingdom,59.55283066666666,2020
+EU27,EU27,GBR,United Kingdom,50.137681,2021
+GBR,United Kingdom,GBR,United Kingdom,57.18939175,2021
+FRA,France,GBR,United Kingdom,45.037681,2021
+USA,United States,GBR,United Kingdom,917.5835197499999,2021
+DEU,Germany,GBR,United Kingdom,4.333333333333333,2021
+CAN,Canada,GBR,United Kingdom,3.1,2021
+DEU,Germany,GBR,United Kingdom,9.078315,2022
+EU27,EU27,GBR,United Kingdom,33.578315,2022
+FRA,France,GBR,United Kingdom,9.5,2022
+GBR,United Kingdom,GBR,United Kingdom,4.515345,2022
+ISR,Israel,GBR,United Kingdom,27.833333333333332,2022
+USA,United States,GBR,United Kingdom,129.46416666666664,2022
+CAN,Canada,GBR,United Kingdom,23.738664666666665,2023
+DEU,Germany,GBR,United Kingdom,0.356107,2023
+EU27,EU27,GBR,United Kingdom,157.4928001,2023
+FRA,France,GBR,United Kingdom,148.73669310000002,2023
+GBR,United Kingdom,GBR,United Kingdom,58.655198500000004,2023
+USA,United States,GBR,United Kingdom,185.6106585,2023
+CAN,Canada,GBR,United Kingdom,0.4666666666666666,2024
+CHN,China (People's Republic of),GBR,United Kingdom,6.7,2024
+EU27,EU27,GBR,United Kingdom,87.76830383333333,2024
+FRA,France,GBR,United Kingdom,85.25806083333333,2024
+GBR,United Kingdom,GBR,United Kingdom,55.8025735,2024
+ISR,Israel,GBR,United Kingdom,8.333333333333332,2024
+JPN,Japan,GBR,United Kingdom,1.0328935,2024
+USA,United States,GBR,United Kingdom,1892.5833135833334,2024
+CAN,Canada,GBR,United Kingdom,0.582565,2025
+CHN,China (People's Republic of),GBR,United Kingdom,0,2025
+DEU,Germany,GBR,United Kingdom,10.25,2025
+EU27,EU27,GBR,United Kingdom,503.37900049999996,2025
+FRA,France,GBR,United Kingdom,375.44176246666666,2025
+GBR,United Kingdom,GBR,United Kingdom,39.14344083333333,2025
+ISR,Israel,GBR,United Kingdom,93.33333333333333,2025
+JPN,Japan,GBR,United Kingdom,0.18048125,2025
+KOR,Korea,GBR,United Kingdom,60.3586165,2025
+USA,United States,GBR,United Kingdom,5098.663608666667,2025
+CAN,Canada,CAN,Canada,82.5,2013
+CAN,Canada,CAN,Canada,26.4862545,2014
+USA,United States,CAN,Canada,0.455,2014
+CAN,Canada,CAN,Canada,5,2015
+USA,United States,CAN,Canada,0.6,2015
+CAN,Canada,CAN,Canada,18.189660500000002,2016
+CAN,Canada,CAN,Canada,2.11602,2017
+CAN,Canada,CAN,Canada,59.18896,2018
+DEU,Germany,CAN,Canada,11.166666666666666,2018
+EU27,EU27,CAN,Canada,11.166666666666666,2018
+CAN,Canada,CAN,Canada,25.0499445,2019
+USA,United States,CAN,Canada,1.75,2019
+ISR,Israel,CAN,Canada,6,2020
+USA,United States,CAN,Canada,5,2020
+EU27,EU27,CAN,Canada,40,2020
+DEU,Germany,CAN,Canada,40,2020
+CAN,Canada,CAN,Canada,26.4499995,2020
+USA,United States,CAN,Canada,771.11831575,2021
+CAN,Canada,CAN,Canada,43.0460675,2021
+CAN,Canada,CAN,Canada,4,2022
+USA,United States,CAN,Canada,20.3,2022
+CAN,Canada,CAN,Canada,28.140844666666666,2023
+USA,United States,CAN,Canada,155.4773275,2023
+CAN,Canada,CAN,Canada,7.276565166666667,2024
+EU27,EU27,CAN,Canada,6,2024
+GBR,United Kingdom,CAN,Canada,10,2024
+USA,United States,CAN,Canada,1688.9845800357143,2024
+CAN,Canada,CAN,Canada,67.6417665,2025
+EU27,EU27,CAN,Canada,0.625,2025
+FRA,France,CAN,Canada,0.625,2025
+ISR,Israel,CAN,Canada,1.6666666666666665,2025
+USA,United States,CAN,Canada,1275.946858666667,2025
+USA,United States,ARE,United Arab Emirates,0.6,2013
+USA,United States,ARE,United Arab Emirates,39.995,2014
+USA,United States,ARE,United Arab Emirates,13.333333333333332,2018
+USA,United States,ARE,United Arab Emirates,8.253333333333334,2023
+USA,United States,ARE,United Arab Emirates,2877.494468285714,2024
+USA,United States,ARE,United Arab Emirates,1498.0110124999999,2025
+CHN,China (People's Republic of),CHN,China (People's Republic of),0,2014
+CHN,China (People's Republic of),CHN,China (People's Republic of),14.222674,2015
+CHN,China (People's Republic of),CHN,China (People's Republic of),0,2016
+CHN,China (People's Republic of),CHN,China (People's Republic of),21.494016,2017
+CHN,China (People's Republic of),CHN,China (People's Republic of),4,2018
+USA,United States,CHN,China (People's Republic of),4.566666666666666,2018
+CHN,China (People's Republic of),CHN,China (People's Republic of),5,2019
+ISR,Israel,CHN,China (People's Republic of),4.25,2019
+USA,United States,CHN,China (People's Republic of),7.25,2019
+USA,United States,CHN,China (People's Republic of),0.95,2020
+ISR,Israel,CHN,China (People's Republic of),18,2020
+FRA,France,CHN,China (People's Republic of),2.929588,2020
+EU27,EU27,CHN,China (People's Republic of),2.929588,2020
+CHN,China (People's Republic of),CHN,China (People's Republic of),10,2020
+USA,United States,CHN,China (People's Republic of),16.104166666666664,2021
+JPN,Japan,CHN,China (People's Republic of),4.7354255,2021
+CHN,China (People's Republic of),CHN,China (People's Republic of),75.524565,2021
+CHN,China (People's Republic of),CHN,China (People's Republic of),64.4369185,2022
+USA,United States,CHN,China (People's Republic of),10.279166666666667,2022
+CHN,China (People's Republic of),CHN,China (People's Republic of),336.801163,2023
+EU27,EU27,CHN,China (People's Republic of),0.9,2023
+GBR,United Kingdom,CHN,China (People's Republic of),7.130752333333333,2023
+USA,United States,CHN,China (People's Republic of),31.409916666666668,2023
+CHN,China (People's Republic of),CHN,China (People's Republic of),1658.7558755000002,2024
+USA,United States,CHN,China (People's Republic of),104.773304,2024
+CHN,China (People's Republic of),CHN,China (People's Republic of),960.6325683333334,2025
+JPN,Japan,CHN,China (People's Republic of),0.18048125,2025
+USA,United States,CHN,China (People's Republic of),23.137929083333333,2025
+USA,United States,KOR,Korea,2.75,2014
+KOR,Korea,KOR,Korea,1.7189649999999999,2016
+USA,United States,KOR,Korea,0.9,2016
+KOR,Korea,KOR,Korea,4.557892,2017
+USA,United States,KOR,Korea,2,2017
+KOR,Korea,KOR,Korea,41.99396675,2018
+USA,United States,KOR,Korea,0.55,2018
+KOR,Korea,KOR,Korea,32.2105495,2019
+KOR,Korea,KOR,Korea,42.416215,2020
+USA,United States,KOR,Korea,3.5,2020
+KOR,Korea,KOR,Korea,146.201663,2021
+USA,United States,KOR,Korea,3.5,2021
+USA,United States,KOR,Korea,36.478048,2022
+KOR,Korea,KOR,Korea,94.6889355,2022
+KOR,Korea,KOR,Korea,160.95484799999997,2023
+USA,United States,KOR,Korea,41.798861333333335,2023
+EU27,EU27,KOR,Korea,75.4344765,2024
+FRA,France,KOR,Korea,72.406257,2024
+ISR,Israel,KOR,Korea,4.800000000000001,2024
+JPN,Japan,KOR,Korea,0.783,2024
+KOR,Korea,KOR,Korea,166.6537565,2024
+USA,United States,KOR,Korea,14.55,2024
+EU27,EU27,KOR,Korea,5.36,2025
+FRA,France,KOR,Korea,5.36,2025
+ISR,Israel,KOR,Korea,8,2025
+JPN,Japan,KOR,Korea,8.4327535,2025
+KOR,Korea,KOR,Korea,224.123592,2025
+USA,United States,KOR,Korea,7.999986,2025
+FRA,France,FRA,France,3.999381,2014
+FRA,France,FRA,France,1.029643,2016
+USA,United States,FRA,France,3.439236,2016
+FRA,France,FRA,France,5.136698,2017
+FRA,France,FRA,France,8.497604,2018
+USA,United States,FRA,France,6.6375,2018
+FRA,France,FRA,France,9.6517335,2019
+USA,United States,FRA,France,60.7,2019
+FRA,France,FRA,France,13.548024166666668,2020
+FRA,France,FRA,France,20.85075416666667,2021
+FRA,France,FRA,France,10.276128,2022
+USA,United States,FRA,France,3.1475,2022
+FRA,France,FRA,France,108.32100060000002,2023
+USA,United States,FRA,France,17.30992033333333,2023
+DEU,Germany,FRA,France,7.9829135,2024
+FRA,France,FRA,France,103.92816783333333,2024
+GBR,United Kingdom,FRA,France,10,2024
+ISR,Israel,FRA,France,4.800000000000001,2024
+KOR,Korea,FRA,France,31.42967475,2024
+USA,United States,FRA,France,38.33333333333333,2024
+FRA,France,FRA,France,388.5096923,2025
+GBR,United Kingdom,FRA,France,5.333333333333333,2025
+ISR,Israel,FRA,France,8,2025
+KOR,Korea,FRA,France,60.3586165,2025
+USA,United States,FRA,France,2.2129995,2025
+JPN,Japan,JPN,Japan,4.320961,2013
+JPN,Japan,JPN,Japan,1.954311,2014
+JPN,Japan,JPN,Japan,28.227581999999998,2015
+USA,United States,JPN,Japan,1.1783333333333332,2015
+JPN,Japan,JPN,Japan,2.824641,2016
+JPN,Japan,JPN,Japan,143.15512049999998,2017
+USA,United States,JPN,Japan,0.77,2017
+ISR,Israel,JPN,Japan,6.166666666666666,2018
+JPN,Japan,JPN,Japan,23.56886275,2018
+USA,United States,JPN,Japan,5.5,2018
+JPN,Japan,JPN,Japan,39.027171,2019
+USA,United States,JPN,Japan,1.9166666666666665,2019
+USA,United States,JPN,Japan,15.85,2020
+JPN,Japan,JPN,Japan,26.782287,2020
+ISR,Israel,JPN,Japan,12,2020
+JPN,Japan,JPN,Japan,74.9596315,2021
+USA,United States,JPN,Japan,7.046666666666667,2021
+JPN,Japan,JPN,Japan,44.732673000000005,2022
+USA,United States,JPN,Japan,22,2022
+CAN,Canada,JPN,Japan,2.55,2023
+JPN,Japan,JPN,Japan,38.675902,2023
+USA,United States,JPN,Japan,22.65833333333333,2023
+ISR,Israel,JPN,Japan,4.800000000000001,2024
+JPN,Japan,JPN,Japan,146.93008849999998,2024
+KOR,Korea,JPN,Japan,31.42967475,2024
+USA,United States,JPN,Japan,59.78924833333333,2024
+ISR,Israel,JPN,Japan,8,2025
+JPN,Japan,JPN,Japan,33.016366,2025
+USA,United States,JPN,Japan,28.959533,2025
+DEU,Germany,DEU,Germany,1.8282685,2013
+USA,United States,DEU,Germany,2.5,2013
+USA,United States,DEU,Germany,6.325,2015
+DEU,Germany,DEU,Germany,4.333333333333333,2016
+USA,United States,DEU,Germany,5.333333333333333,2016
+DEU,Germany,DEU,Germany,9.333333333333332,2017
+GBR,United Kingdom,DEU,Germany,0.887209,2017
+ISR,Israel,DEU,Germany,11,2017
+DEU,Germany,DEU,Germany,2.0234959999999997,2018
+ISR,Israel,DEU,Germany,10.25,2018
+DEU,Germany,DEU,Germany,0,2019
+FRA,France,DEU,Germany,1.1397625,2019
+USA,United States,DEU,Germany,6.25,2019
+USA,United States,DEU,Germany,13,2020
+ISR,Israel,DEU,Germany,6.5,2020
+DEU,Germany,DEU,Germany,1.5864663333333333,2020
+DEU,Germany,DEU,Germany,5.9757826666666665,2021
+USA,United States,DEU,Germany,112.16,2021
+DEU,Germany,DEU,Germany,19.3513425,2022
+USA,United States,DEU,Germany,16.725,2022
+DEU,Germany,DEU,Germany,10.0580675,2023
+FRA,France,DEU,Germany,101.50649910000001,2023
+USA,United States,DEU,Germany,10.465995,2023
+DEU,Germany,DEU,Germany,3.179922,2024
+FRA,France,DEU,Germany,73.97625699999999,2024
+GBR,United Kingdom,DEU,Germany,8.247308,2024
+USA,United States,DEU,Germany,48.0414935,2024
+CHN,China (People's Republic of),DEU,Germany,300,2025
+DEU,Germany,DEU,Germany,10.25,2025
+GBR,United Kingdom,DEU,Germany,1,2025
+USA,United States,DEU,Germany,15.666666666666666,2025
+USA,United States,IND,India,53,2014
+USA,United States,IND,India,7.5,2020
+USA,United States,IND,India,7.572115333333333,2021
+USA,United States,IND,India,38.14999999999999,2022
+USA,United States,IND,India,50.209928000000005,2023
+USA,United States,IND,India,87.04656575,2024
+USA,United States,IND,India,435.56666666666666,2025
+JPN,Japan,IND,India,5.0319635,2025

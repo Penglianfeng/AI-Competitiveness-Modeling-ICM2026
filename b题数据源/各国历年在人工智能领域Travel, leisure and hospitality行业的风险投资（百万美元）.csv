@@ -1,0 +1,107 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,68.240657,2013
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,167.0893005,2014
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,664.050945,2015
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,666.315141,2016
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,136.282039,2017
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,82.295586,2018
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,261.612449,2019
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,62.964205,2020
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,144.87948749999998,2021
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,32.7957405,2022
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,58.719648,2023
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,22.317773000000003,2024
+CHN,China (People's Republic of),Travel, leisure and hospitality,VC,42.128883,2025
+USA,United States,Travel, leisure and hospitality,VC,30.35,2012
+USA,United States,Travel, leisure and hospitality,VC,2.25,2013
+USA,United States,Travel, leisure and hospitality,VC,36.692019,2014
+USA,United States,Travel, leisure and hospitality,VC,89.34,2015
+USA,United States,Travel, leisure and hospitality,VC,66.802221,2016
+USA,United States,Travel, leisure and hospitality,VC,45.94,2017
+USA,United States,Travel, leisure and hospitality,VC,154.877011,2018
+USA,United States,Travel, leisure and hospitality,VC,232.15,2019
+USA,United States,Travel, leisure and hospitality,VC,64.909226,2020
+USA,United States,Travel, leisure and hospitality,VC,142.77,2021
+USA,United States,Travel, leisure and hospitality,VC,423.008875,2022
+USA,United States,Travel, leisure and hospitality,VC,144.663583,2023
+USA,United States,Travel, leisure and hospitality,VC,187.306106,2024
+USA,United States,Travel, leisure and hospitality,VC,290.7371545,2025
+DEU,Germany,Travel, leisure and hospitality,VC,2.145676,2014
+DEU,Germany,Travel, leisure and hospitality,VC,35.726451,2015
+DEU,Germany,Travel, leisure and hospitality,VC,22.371963,2016
+DEU,Germany,Travel, leisure and hospitality,VC,1.560258,2017
+DEU,Germany,Travel, leisure and hospitality,VC,38.487122,2018
+DEU,Germany,Travel, leisure and hospitality,VC,93.236153,2019
+DEU,Germany,Travel, leisure and hospitality,VC,49.202121,2020
+DEU,Germany,Travel, leisure and hospitality,VC,178.432072,2021
+DEU,Germany,Travel, leisure and hospitality,VC,107.507463,2022
+DEU,Germany,Travel, leisure and hospitality,VC,2.138496,2023
+DEU,Germany,Travel, leisure and hospitality,VC,33.154624999999996,2024
+DEU,Germany,Travel, leisure and hospitality,VC,51.601106,2025
+GBR,United Kingdom,Travel, leisure and hospitality,VC,0.538728,2014
+GBR,United Kingdom,Travel, leisure and hospitality,VC,3.9010124999999998,2016
+GBR,United Kingdom,Travel, leisure and hospitality,VC,1.111516,2017
+GBR,United Kingdom,Travel, leisure and hospitality,VC,6.509091,2018
+GBR,United Kingdom,Travel, leisure and hospitality,VC,3.840113,2019
+GBR,United Kingdom,Travel, leisure and hospitality,VC,4.013706,2020
+GBR,United Kingdom,Travel, leisure and hospitality,VC,82.576621,2021
+GBR,United Kingdom,Travel, leisure and hospitality,VC,44.872116,2022
+GBR,United Kingdom,Travel, leisure and hospitality,VC,14.194759999999999,2023
+GBR,United Kingdom,Travel, leisure and hospitality,VC,374.740629,2024
+GBR,United Kingdom,Travel, leisure and hospitality,VC,75.114889,2025
+IND,India,Travel, leisure and hospitality,VC,0.38,2012
+IND,India,Travel, leisure and hospitality,VC,6.211901,2015
+IND,India,Travel, leisure and hospitality,VC,11.06303,2016
+IND,India,Travel, leisure and hospitality,VC,12.400638,2017
+IND,India,Travel, leisure and hospitality,VC,12.521688,2018
+IND,India,Travel, leisure and hospitality,VC,6.867281,2019
+IND,India,Travel, leisure and hospitality,VC,14.637675000000002,2020
+IND,India,Travel, leisure and hospitality,VC,139.3404245,2021
+IND,India,Travel, leisure and hospitality,VC,7.671778,2022
+IND,India,Travel, leisure and hospitality,VC,34.535114,2023
+IND,India,Travel, leisure and hospitality,VC,21.9987645,2024
+IND,India,Travel, leisure and hospitality,VC,16.7163215,2025
+FRA,France,Travel, leisure and hospitality,VC,0.107672,2014
+FRA,France,Travel, leisure and hospitality,VC,0.354431,2015
+FRA,France,Travel, leisure and hospitality,VC,1.288971,2016
+FRA,France,Travel, leisure and hospitality,VC,0.786823,2017
+FRA,France,Travel, leisure and hospitality,VC,6.203748,2018
+FRA,France,Travel, leisure and hospitality,VC,0.632274,2019
+FRA,France,Travel, leisure and hospitality,VC,13.40077,2020
+FRA,France,Travel, leisure and hospitality,VC,36.368535,2021
+FRA,France,Travel, leisure and hospitality,VC,8.999888,2022
+FRA,France,Travel, leisure and hospitality,VC,1.5804515,2023
+FRA,France,Travel, leisure and hospitality,VC,65.08141599999999,2024
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,0.1,2014
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,0.8,2015
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,2,2016
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,4.15,2018
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,5.35,2020
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,10,2021
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,6.95,2022
+ARE,United Arab Emirates,Travel, leisure and hospitality,VC,71.95221,2025
+KOR,Korea,Travel, leisure and hospitality,VC,2.581432,2016
+KOR,Korea,Travel, leisure and hospitality,VC,0.437556,2017
+KOR,Korea,Travel, leisure and hospitality,VC,1.824065,2018
+KOR,Korea,Travel, leisure and hospitality,VC,4.7538,2019
+KOR,Korea,Travel, leisure and hospitality,VC,3.359808,2020
+KOR,Korea,Travel, leisure and hospitality,VC,13.742563,2021
+KOR,Korea,Travel, leisure and hospitality,VC,9.544592999999999,2022
+KOR,Korea,Travel, leisure and hospitality,VC,18.846933,2023
+KOR,Korea,Travel, leisure and hospitality,VC,13.920889,2024
+KOR,Korea,Travel, leisure and hospitality,VC,14.221269,2025
+JPN,Japan,Travel, leisure and hospitality,VC,1.387188,2016
+JPN,Japan,Travel, leisure and hospitality,VC,1.6490010000000002,2018
+JPN,Japan,Travel, leisure and hospitality,VC,2.447813,2019
+JPN,Japan,Travel, leisure and hospitality,VC,1.518089,2020
+JPN,Japan,Travel, leisure and hospitality,VC,4.379816,2021
+JPN,Japan,Travel, leisure and hospitality,VC,8.316585,2022
+JPN,Japan,Travel, leisure and hospitality,VC,7.922339,2023
+JPN,Japan,Travel, leisure and hospitality,VC,1.648042,2024
+JPN,Japan,Travel, leisure and hospitality,VC,7.130995,2025
+CAN,Canada,Travel, leisure and hospitality,VC,1.2,2012
+CAN,Canada,Travel, leisure and hospitality,VC,5,2013
+CAN,Canada,Travel, leisure and hospitality,VC,0.24,2016
+CAN,Canada,Travel, leisure and hospitality,VC,2,2017
+CAN,Canada,Travel, leisure and hospitality,VC,7,2021
+CAN,Canada,Travel, leisure and hospitality,VC,8.6,2025

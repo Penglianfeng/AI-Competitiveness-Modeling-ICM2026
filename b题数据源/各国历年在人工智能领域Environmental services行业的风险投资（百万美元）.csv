@@ -1,0 +1,76 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Environmental services,VC,38.005722,2012
+USA,United States,Environmental services,VC,97.574861,2013
+USA,United States,Environmental services,VC,26.740000000000002,2014
+USA,United States,Environmental services,VC,46.18,2015
+USA,United States,Environmental services,VC,72.18,2016
+USA,United States,Environmental services,VC,71.00999999999999,2017
+USA,United States,Environmental services,VC,188.78,2018
+USA,United States,Environmental services,VC,165.36,2019
+USA,United States,Environmental services,VC,110.79,2020
+USA,United States,Environmental services,VC,238.459986,2021
+USA,United States,Environmental services,VC,369.530424,2022
+USA,United States,Environmental services,VC,204.019877,2023
+USA,United States,Environmental services,VC,224.604883,2024
+USA,United States,Environmental services,VC,115.596619,2025
+CHN,China (People's Republic of),Environmental services,VC,2.5,2014
+CHN,China (People's Republic of),Environmental services,VC,0,2015
+CHN,China (People's Republic of),Environmental services,VC,39.402206,2016
+CHN,China (People's Republic of),Environmental services,VC,214.401296,2017
+CHN,China (People's Republic of),Environmental services,VC,9,2018
+CHN,China (People's Republic of),Environmental services,VC,25.808861,2019
+CHN,China (People's Republic of),Environmental services,VC,20.828781999999997,2020
+CHN,China (People's Republic of),Environmental services,VC,76.25649200000001,2021
+CHN,China (People's Republic of),Environmental services,VC,34.1995985,2022
+CHN,China (People's Republic of),Environmental services,VC,153.813721,2023
+CHN,China (People's Republic of),Environmental services,VC,2.807932,2024
+CHN,China (People's Republic of),Environmental services,VC,0.555053,2025
+GBR,United Kingdom,Environmental services,VC,0.01,2017
+GBR,United Kingdom,Environmental services,VC,0.605063,2018
+GBR,United Kingdom,Environmental services,VC,2.7440935,2019
+GBR,United Kingdom,Environmental services,VC,11.717116,2020
+GBR,United Kingdom,Environmental services,VC,32.603235,2021
+GBR,United Kingdom,Environmental services,VC,29.875688,2022
+GBR,United Kingdom,Environmental services,VC,73.964498,2023
+GBR,United Kingdom,Environmental services,VC,42.615475,2024
+GBR,United Kingdom,Environmental services,VC,13.325241,2025
+FRA,France,Environmental services,VC,8.711719,2012
+FRA,France,Environmental services,VC,0.79484,2015
+FRA,France,Environmental services,VC,2.222071,2016
+FRA,France,Environmental services,VC,12.6749,2021
+FRA,France,Environmental services,VC,136.5784975,2022
+FRA,France,Environmental services,VC,6.256038,2023
+FRA,France,Environmental services,VC,13.018684,2024
+FRA,France,Environmental services,VC,12.966863,2025
+DEU,Germany,Environmental services,VC,2.7,2021
+DEU,Germany,Environmental services,VC,8.943935,2022
+DEU,Germany,Environmental services,VC,9.277021999999999,2023
+DEU,Germany,Environmental services,VC,58.405288,2024
+DEU,Germany,Environmental services,VC,4.4,2025
+IND,India,Environmental services,VC,1.6,2013
+IND,India,Environmental services,VC,0.658398,2014
+IND,India,Environmental services,VC,0.670838,2016
+IND,India,Environmental services,VC,2.6,2017
+IND,India,Environmental services,VC,0.645162,2019
+IND,India,Environmental services,VC,0.815742,2020
+IND,India,Environmental services,VC,0.812201,2021
+IND,India,Environmental services,VC,13.806213,2022
+IND,India,Environmental services,VC,1.362018,2023
+IND,India,Environmental services,VC,10.059313,2024
+IND,India,Environmental services,VC,36.2835945,2025
+CAN,Canada,Environmental services,VC,1.4071,2019
+CAN,Canada,Environmental services,VC,10.340779,2021
+CAN,Canada,Environmental services,VC,34.847193000000004,2023
+CAN,Canada,Environmental services,VC,19.1,2025
+KOR,Korea,Environmental services,VC,0.177789,2015
+KOR,Korea,Environmental services,VC,1.827468,2018
+KOR,Korea,Environmental services,VC,0.88626,2019
+KOR,Korea,Environmental services,VC,2.098109,2020
+KOR,Korea,Environmental services,VC,17.608676,2021
+KOR,Korea,Environmental services,VC,20.397137999999998,2022
+KOR,Korea,Environmental services,VC,0,2023
+KOR,Korea,Environmental services,VC,3.5169745,2024
+KOR,Korea,Environmental services,VC,14.684654,2025
+ARE,United Arab Emirates,Environmental services,VC,2.999998,2024
+JPN,Japan,Environmental services,VC,1.979164,2024
+JPN,Japan,Environmental services,VC,0,2025

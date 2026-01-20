@@ -1,0 +1,135 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,IT infrastructure and hosting,VC,1288.206025,2012
+USA,United States,IT infrastructure and hosting,VC,2326.889598,2013
+USA,United States,IT infrastructure and hosting,VC,3455.241274,2014
+USA,United States,IT infrastructure and hosting,VC,3510.252261,2015
+USA,United States,IT infrastructure and hosting,VC,2047.474205,2016
+USA,United States,IT infrastructure and hosting,VC,2337.774375,2017
+USA,United States,IT infrastructure and hosting,VC,4551.602371,2018
+USA,United States,IT infrastructure and hosting,VC,3705.46461,2019
+USA,United States,IT infrastructure and hosting,VC,5559.7341075,2020
+USA,United States,IT infrastructure and hosting,VC,13060.175377,2021
+USA,United States,IT infrastructure and hosting,VC,8663.751703,2022
+USA,United States,IT infrastructure and hosting,VC,13484.427654,2023
+USA,United States,IT infrastructure and hosting,VC,38194.607014,2024
+USA,United States,IT infrastructure and hosting,VC,96240.102742,2025
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,43.44004,2012
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,157.679089,2013
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,552.1142335000001,2014
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,436.376537,2015
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,1289.1106245,2016
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,1557.505276,2017
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,3296.166783,2018
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,1329.681971,2019
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,1615.011456,2020
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,2252.970478,2021
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,1539.6097305,2022
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,2949.063749,2023
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,2507.8420855,2024
+CHN,China (People's Republic of),IT infrastructure and hosting,VC,2784.694597,2025
+GBR,United Kingdom,IT infrastructure and hosting,VC,127.3703225,2012
+GBR,United Kingdom,IT infrastructure and hosting,VC,76.333414,2013
+GBR,United Kingdom,IT infrastructure and hosting,VC,21.667864,2014
+GBR,United Kingdom,IT infrastructure and hosting,VC,37.256931,2015
+GBR,United Kingdom,IT infrastructure and hosting,VC,24.184917,2016
+GBR,United Kingdom,IT infrastructure and hosting,VC,22.9143055,2017
+GBR,United Kingdom,IT infrastructure and hosting,VC,42.697966,2018
+GBR,United Kingdom,IT infrastructure and hosting,VC,57.4718195,2019
+GBR,United Kingdom,IT infrastructure and hosting,VC,83.557655,2020
+GBR,United Kingdom,IT infrastructure and hosting,VC,549.3105855,2021
+GBR,United Kingdom,IT infrastructure and hosting,VC,462.214234,2022
+GBR,United Kingdom,IT infrastructure and hosting,VC,209.553311,2023
+GBR,United Kingdom,IT infrastructure and hosting,VC,845.4978205,2024
+GBR,United Kingdom,IT infrastructure and hosting,VC,2281.131232,2025
+FRA,France,IT infrastructure and hosting,VC,21.105297999999998,2012
+FRA,France,IT infrastructure and hosting,VC,9.205242,2013
+FRA,France,IT infrastructure and hosting,VC,14.286612,2014
+FRA,France,IT infrastructure and hosting,VC,11.505247,2015
+FRA,France,IT infrastructure and hosting,VC,9.583432,2016
+FRA,France,IT infrastructure and hosting,VC,7.405791499999999,2017
+FRA,France,IT infrastructure and hosting,VC,32.440315,2018
+FRA,France,IT infrastructure and hosting,VC,32.997204,2019
+FRA,France,IT infrastructure and hosting,VC,22.3994915,2020
+FRA,France,IT infrastructure and hosting,VC,100.0665305,2021
+FRA,France,IT infrastructure and hosting,VC,216.317204,2022
+FRA,France,IT infrastructure and hosting,VC,662.538581,2023
+FRA,France,IT infrastructure and hosting,VC,948.987568,2024
+FRA,France,IT infrastructure and hosting,VC,2300.0964989999998,2025
+CAN,Canada,IT infrastructure and hosting,VC,22.517507000000002,2012
+CAN,Canada,IT infrastructure and hosting,VC,21.9316535,2013
+CAN,Canada,IT infrastructure and hosting,VC,32.89359,2014
+CAN,Canada,IT infrastructure and hosting,VC,13.192268,2015
+CAN,Canada,IT infrastructure and hosting,VC,12.007551,2016
+CAN,Canada,IT infrastructure and hosting,VC,126.9038525,2017
+CAN,Canada,IT infrastructure and hosting,VC,68.231083,2018
+CAN,Canada,IT infrastructure and hosting,VC,205.80450249999998,2019
+CAN,Canada,IT infrastructure and hosting,VC,22.187363,2020
+CAN,Canada,IT infrastructure and hosting,VC,230.3391185,2021
+CAN,Canada,IT infrastructure and hosting,VC,348.875152,2022
+CAN,Canada,IT infrastructure and hosting,VC,449.29948099999996,2023
+CAN,Canada,IT infrastructure and hosting,VC,1291.226717,2024
+CAN,Canada,IT infrastructure and hosting,VC,1047.8867950000001,2025
+KOR,Korea,IT infrastructure and hosting,VC,0.439781,2012
+KOR,Korea,IT infrastructure and hosting,VC,5.195777,2013
+KOR,Korea,IT infrastructure and hosting,VC,19.611000999999998,2014
+KOR,Korea,IT infrastructure and hosting,VC,13.575393,2015
+KOR,Korea,IT infrastructure and hosting,VC,6.5178905,2016
+KOR,Korea,IT infrastructure and hosting,VC,66.251176,2017
+KOR,Korea,IT infrastructure and hosting,VC,191.837736,2018
+KOR,Korea,IT infrastructure and hosting,VC,51.9326065,2019
+KOR,Korea,IT infrastructure and hosting,VC,215.137042,2020
+KOR,Korea,IT infrastructure and hosting,VC,386.075563,2021
+KOR,Korea,IT infrastructure and hosting,VC,558.204373,2022
+KOR,Korea,IT infrastructure and hosting,VC,457.096775,2023
+KOR,Korea,IT infrastructure and hosting,VC,594.3428315,2024
+KOR,Korea,IT infrastructure and hosting,VC,249.0099695,2025
+DEU,Germany,IT infrastructure and hosting,VC,10.888489,2012
+DEU,Germany,IT infrastructure and hosting,VC,14,2013
+DEU,Germany,IT infrastructure and hosting,VC,15.017052,2014
+DEU,Germany,IT infrastructure and hosting,VC,46.3915525,2015
+DEU,Germany,IT infrastructure and hosting,VC,28,2016
+DEU,Germany,IT infrastructure and hosting,VC,56.934134,2017
+DEU,Germany,IT infrastructure and hosting,VC,95.429915,2018
+DEU,Germany,IT infrastructure and hosting,VC,13.552912,2019
+DEU,Germany,IT infrastructure and hosting,VC,109.86039000000001,2020
+DEU,Germany,IT infrastructure and hosting,VC,254.489229,2021
+DEU,Germany,IT infrastructure and hosting,VC,399.3500315,2022
+DEU,Germany,IT infrastructure and hosting,VC,256.741675,2023
+DEU,Germany,IT infrastructure and hosting,VC,729.2702955,2024
+DEU,Germany,IT infrastructure and hosting,VC,635.226634,2025
+IND,India,IT infrastructure and hosting,VC,0.98403,2012
+IND,India,IT infrastructure and hosting,VC,22.41497,2013
+IND,India,IT infrastructure and hosting,VC,5.643668,2014
+IND,India,IT infrastructure and hosting,VC,74.005556,2015
+IND,India,IT infrastructure and hosting,VC,32.560661,2016
+IND,India,IT infrastructure and hosting,VC,12.438744,2017
+IND,India,IT infrastructure and hosting,VC,31.659326,2018
+IND,India,IT infrastructure and hosting,VC,33.707291,2019
+IND,India,IT infrastructure and hosting,VC,87.7454025,2020
+IND,India,IT infrastructure and hosting,VC,118.4426645,2021
+IND,India,IT infrastructure and hosting,VC,164.118001,2022
+IND,India,IT infrastructure and hosting,VC,132.9908835,2023
+IND,India,IT infrastructure and hosting,VC,245.5708075,2024
+IND,India,IT infrastructure and hosting,VC,322.6905515,2025
+JPN,Japan,IT infrastructure and hosting,VC,17.820961,2013
+JPN,Japan,IT infrastructure and hosting,VC,11.917988999999999,2014
+JPN,Japan,IT infrastructure and hosting,VC,29.145507000000002,2015
+JPN,Japan,IT infrastructure and hosting,VC,11.752231,2016
+JPN,Japan,IT infrastructure and hosting,VC,123.73886699999998,2017
+JPN,Japan,IT infrastructure and hosting,VC,27.3168845,2018
+JPN,Japan,IT infrastructure and hosting,VC,17.599652000000003,2019
+JPN,Japan,IT infrastructure and hosting,VC,62.1748095,2020
+JPN,Japan,IT infrastructure and hosting,VC,38.882145,2021
+JPN,Japan,IT infrastructure and hosting,VC,58.407485,2022
+JPN,Japan,IT infrastructure and hosting,VC,37.0906,2023
+JPN,Japan,IT infrastructure and hosting,VC,225.77206950000001,2024
+JPN,Japan,IT infrastructure and hosting,VC,20.101824,2025
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,1.5,2017
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,7.300000000000001,2018
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,1.8,2019
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,1.35,2020
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,26.5,2021
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,200,2022
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,4.985,2023
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,14.5,2024
+ARE,United Arab Emirates,IT infrastructure and hosting,VC,34.1,2025

@@ -1,0 +1,115 @@
+Country,Country_label,INDUSTRY,Quarter,STAGE,Sum_of_deals
+USA,United States,-- All industries --,2012,VC,226.63089300000001
+USA,United States,-- All industries --,2013,VC,352.318468
+USA,United States,-- All industries --,2014,VC,450.968543
+USA,United States,-- All industries --,2015,VC,713.210001
+USA,United States,-- All industries --,2016,VC,298.968472
+USA,United States,-- All industries --,2017,VC,596.584945
+USA,United States,-- All industries --,2018,VC,438.437684
+USA,United States,-- All industries --,2019,VC,2621.928106
+USA,United States,-- All industries --,2020,VC,1100.916507
+USA,United States,-- All industries --,2021,VC,5479.309022
+USA,United States,-- All industries --,2022,VC,1566.4366559999999
+USA,United States,-- All industries --,2023,VC,13141.831763000002
+USA,United States,-- All industries --,2024,VC,20755.727132999997
+USA,United States,-- All industries --,2025,VC,29158.1841325
+CHN,China (People's Republic of),-- All industries --,2014,VC,0
+CHN,China (People's Republic of),-- All industries --,2015,VC,26.722674
+CHN,China (People's Republic of),-- All industries --,2016,VC,0
+CHN,China (People's Republic of),-- All industries --,2017,VC,21.494016
+CHN,China (People's Republic of),-- All industries --,2018,VC,8
+CHN,China (People's Republic of),-- All industries --,2019,VC,10
+CHN,China (People's Republic of),-- All industries --,2020,VC,20
+CHN,China (People's Republic of),-- All industries --,2021,VC,114.024565
+CHN,China (People's Republic of),-- All industries --,2022,VC,215.51730750000002
+CHN,China (People's Republic of),-- All industries --,2023,VC,597.38889
+CHN,China (People's Republic of),-- All industries --,2024,VC,1987.869571
+CHN,China (People's Republic of),-- All industries --,2025,VC,1285.4371629999998
+FRA,France,-- All industries --,2014,VC,3.999381
+FRA,France,-- All industries --,2016,VC,1.029643
+FRA,France,-- All industries --,2017,VC,6.69774
+FRA,France,-- All industries --,2018,VC,19.033162
+FRA,France,-- All industries --,2019,VC,12.981216
+FRA,France,-- All industries --,2020,VC,31.391967
+FRA,France,-- All industries --,2021,VC,125.846275
+FRA,France,-- All industries --,2022,VC,111.62654649999999
+FRA,France,-- All industries --,2023,VC,639.166771
+FRA,France,-- All industries --,2024,VC,746.356873
+FRA,France,-- All industries --,2025,VC,1913.11236
+GBR,United Kingdom,-- All industries --,2012,VC,0.223135
+GBR,United Kingdom,-- All industries --,2013,VC,2.2794415
+GBR,United Kingdom,-- All industries --,2014,VC,6.832416
+GBR,United Kingdom,-- All industries --,2015,VC,1.6119629999999998
+GBR,United Kingdom,-- All industries --,2016,VC,5.853453999999999
+GBR,United Kingdom,-- All industries --,2017,VC,13.737844
+GBR,United Kingdom,-- All industries --,2018,VC,10.48876
+GBR,United Kingdom,-- All industries --,2019,VC,11.042573
+GBR,United Kingdom,-- All industries --,2020,VC,17.066911
+GBR,United Kingdom,-- All industries --,2021,VC,83.2310075
+GBR,United Kingdom,-- All industries --,2022,VC,129.47684199999998
+GBR,United Kingdom,-- All industries --,2023,VC,157.718644
+GBR,United Kingdom,-- All industries --,2024,VC,285.823849
+GBR,United Kingdom,-- All industries --,2025,VC,755.310217
+KOR,Korea,-- All industries --,2016,VC,1.7189649999999999
+KOR,Korea,-- All industries --,2017,VC,4.557892
+KOR,Korea,-- All industries --,2018,VC,43.5961715
+KOR,Korea,-- All industries --,2019,VC,32.3840215
+KOR,Korea,-- All industries --,2020,VC,42.416214999999994
+KOR,Korea,-- All industries --,2021,VC,153.122825
+KOR,Korea,-- All industries --,2022,VC,121.17951
+KOR,Korea,-- All industries --,2023,VC,163.63228099999998
+KOR,Korea,-- All industries --,2024,VC,298.3609845
+KOR,Korea,-- All industries --,2025,VC,416.9060995
+CAN,Canada,-- All industries --,2012,VC,4.330255
+CAN,Canada,-- All industries --,2013,VC,175.940137
+CAN,Canada,-- All industries --,2014,VC,108.687697
+CAN,Canada,-- All industries --,2015,VC,5
+CAN,Canada,-- All industries --,2016,VC,32.649321
+CAN,Canada,-- All industries --,2017,VC,6.61602
+CAN,Canada,-- All industries --,2018,VC,66.68896000000001
+CAN,Canada,-- All industries --,2019,VC,70.644279
+CAN,Canada,-- All industries --,2020,VC,52.741481
+CAN,Canada,-- All industries --,2021,VC,103.654699
+CAN,Canada,-- All industries --,2022,VC,8
+CAN,Canada,-- All industries --,2023,VC,87.18821999999999
+CAN,Canada,-- All industries --,2024,VC,142.519797
+CAN,Canada,-- All industries --,2025,VC,206.05439
+JPN,Japan,-- All industries --,2013,VC,4.320961
+JPN,Japan,-- All industries --,2014,VC,1.954311
+JPN,Japan,-- All industries --,2015,VC,29.386400000000002
+JPN,Japan,-- All industries --,2016,VC,4.344574
+JPN,Japan,-- All industries --,2017,VC,145.176375
+JPN,Japan,-- All industries --,2018,VC,38.556411999999995
+JPN,Japan,-- All industries --,2019,VC,46.810767
+JPN,Japan,-- All industries --,2020,VC,35.052746
+JPN,Japan,-- All industries --,2021,VC,88.11243999999999
+JPN,Japan,-- All industries --,2022,VC,56.65567
+JPN,Japan,-- All industries --,2023,VC,50.547306
+JPN,Japan,-- All industries --,2024,VC,149.212129
+JPN,Japan,-- All industries --,2025,VC,54.17108900000001
+DEU,Germany,-- All industries --,2013,VC,3.656537
+DEU,Germany,-- All industries --,2016,VC,14
+DEU,Germany,-- All industries --,2017,VC,28
+DEU,Germany,-- All industries --,2018,VC,36.298235
+DEU,Germany,-- All industries --,2019,VC,6.820665
+DEU,Germany,-- All industries --,2020,VC,87.564941
+DEU,Germany,-- All industries --,2021,VC,221.30911600000002
+DEU,Germany,-- All industries --,2022,VC,96.88205549999999
+DEU,Germany,-- All industries --,2023,VC,23.243449000000002
+DEU,Germany,-- All industries --,2024,VC,16.994462
+DEU,Germany,-- All industries --,2025,VC,47.366567
+IND,India,-- All industries --,2015,VC,0.078767
+IND,India,-- All industries --,2016,VC,0.877559
+IND,India,-- All industries --,2017,VC,2.331795
+IND,India,-- All industries --,2018,VC,3.7317329999999997
+IND,India,-- All industries --,2019,VC,5.23909
+IND,India,-- All industries --,2020,VC,13.969883
+IND,India,-- All industries --,2021,VC,44.104305
+IND,India,-- All industries --,2022,VC,70.078609
+IND,India,-- All industries --,2023,VC,79.407968
+IND,India,-- All industries --,2024,VC,69.389439
+IND,India,-- All industries --,2025,VC,43.833501
+ARE,United Arab Emirates,-- All industries --,2022,VC,1.1
+ARE,United Arab Emirates,-- All industries --,2023,VC,1.78
+ARE,United Arab Emirates,-- All industries --,2024,VC,3.4000000000000004
+ARE,United Arab Emirates,-- All industries --,2025,VC,16

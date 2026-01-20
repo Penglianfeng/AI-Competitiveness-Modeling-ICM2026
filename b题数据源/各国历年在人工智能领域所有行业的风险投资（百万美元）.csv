@@ -1,0 +1,141 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,-- All industries --,VC,6603.6319,2012
+USA,United States,-- All industries --,VC,8782.442176,2013
+USA,United States,-- All industries --,VC,21354.59305,2014
+USA,United States,-- All industries --,VC,26432.718354,2015
+USA,United States,-- All industries --,VC,20297.234634,2016
+USA,United States,-- All industries --,VC,30720.361849,2017
+USA,United States,-- All industries --,VC,45112.851551,2018
+USA,United States,-- All industries --,VC,52159.5508395,2019
+USA,United States,-- All industries --,VC,62871.0791505,2020
+USA,United States,-- All industries --,VC,139274.912796,2021
+USA,United States,-- All industries --,VC,76731.1734885,2022
+USA,United States,-- All industries --,VC,71776.363503,2023
+USA,United States,-- All industries --,VC,98397.492219,2024
+USA,United States,-- All industries --,VC,194115.5306695,2025
+CHN,China (People's Republic of),-- All industries --,VC,209.974781,2012
+CHN,China (People's Republic of),-- All industries --,VC,559.976001,2013
+CHN,China (People's Republic of),-- All industries --,VC,3096.61153,2014
+CHN,China (People's Republic of),-- All industries --,VC,11264.310697500001,2015
+CHN,China (People's Republic of),-- All industries --,VC,19325.2535635,2016
+CHN,China (People's Republic of),-- All industries --,VC,33142.854728,2017
+CHN,China (People's Republic of),-- All industries --,VC,37776.7768685,2018
+CHN,China (People's Republic of),-- All industries --,VC,24701.242865,2019
+CHN,China (People's Republic of),-- All industries --,VC,32607.247347,2020
+CHN,China (People's Republic of),-- All industries --,VC,53109.878356,2021
+CHN,China (People's Republic of),-- All industries --,VC,25078.5079305,2022
+CHN,China (People's Republic of),-- All industries --,VC,21182.585681,2023
+CHN,China (People's Republic of),-- All industries --,VC,17622.696957,2024
+CHN,China (People's Republic of),-- All industries --,VC,13852.906799,2025
+GBR,United Kingdom,-- All industries --,VC,243.231645,2012
+GBR,United Kingdom,-- All industries --,VC,277.6219415,2013
+GBR,United Kingdom,-- All industries --,VC,324.343601,2014
+GBR,United Kingdom,-- All industries --,VC,837.3419705,2015
+GBR,United Kingdom,-- All industries --,VC,970.9711965,2016
+GBR,United Kingdom,-- All industries --,VC,2150.300806,2017
+GBR,United Kingdom,-- All industries --,VC,2362.266765,2018
+GBR,United Kingdom,-- All industries --,VC,3874.54296,2019
+GBR,United Kingdom,-- All industries --,VC,3321.7409075,2020
+GBR,United Kingdom,-- All industries --,VC,9313.5829815,2021
+GBR,United Kingdom,-- All industries --,VC,8470.925668,2022
+GBR,United Kingdom,-- All industries --,VC,4169.242878,2023
+GBR,United Kingdom,-- All industries --,VC,5370.017098,2024
+GBR,United Kingdom,-- All industries --,VC,13823.334549,2025
+DEU,Germany,-- All industries --,VC,43.906384,2012
+DEU,Germany,-- All industries --,VC,127.745227,2013
+DEU,Germany,-- All industries --,VC,203.81716649999998,2014
+DEU,Germany,-- All industries --,VC,585.064856,2015
+DEU,Germany,-- All industries --,VC,312.9451555,2016
+DEU,Germany,-- All industries --,VC,628.716472,2017
+DEU,Germany,-- All industries --,VC,976.571362,2018
+DEU,Germany,-- All industries --,VC,2172.0122045,2019
+DEU,Germany,-- All industries --,VC,1956.3006745,2020
+DEU,Germany,-- All industries --,VC,6257.891012,2021
+DEU,Germany,-- All industries --,VC,4766.069039,2022
+DEU,Germany,-- All industries --,VC,3285.671525,2023
+DEU,Germany,-- All industries --,VC,4046.372384,2024
+DEU,Germany,-- All industries --,VC,3946.601733,2025
+CAN,Canada,-- All industries --,VC,260.13649200000003,2012
+CAN,Canada,-- All industries --,VC,364.909866,2013
+CAN,Canada,-- All industries --,VC,478.4451465,2014
+CAN,Canada,-- All industries --,VC,404.40362700000003,2015
+CAN,Canada,-- All industries --,VC,762.557715,2016
+CAN,Canada,-- All industries --,VC,936.97452,2017
+CAN,Canada,-- All industries --,VC,1491.8593855,2018
+CAN,Canada,-- All industries --,VC,2133.3330300000002,2019
+CAN,Canada,-- All industries --,VC,1884.753329,2020
+CAN,Canada,-- All industries --,VC,5999.4766035,2021
+CAN,Canada,-- All industries --,VC,3715.266656,2022
+CAN,Canada,-- All industries --,VC,2317.441103,2023
+CAN,Canada,-- All industries --,VC,3379.034562,2024
+CAN,Canada,-- All industries --,VC,3078.095409,2025
+IND,India,-- All industries --,VC,176.27556800000002,2012
+IND,India,-- All industries --,VC,126.160888,2013
+IND,India,-- All industries --,VC,124.87995350000001,2014
+IND,India,-- All industries --,VC,612.077055,2015
+IND,India,-- All industries --,VC,405.113905,2016
+IND,India,-- All industries --,VC,500.5541965,2017
+IND,India,-- All industries --,VC,1194.401323,2018
+IND,India,-- All industries --,VC,1530.792518,2019
+IND,India,-- All industries --,VC,2221.6302325,2020
+IND,India,-- All industries --,VC,5752.975737,2021
+IND,India,-- All industries --,VC,5592.901159,2022
+IND,India,-- All industries --,VC,2073.27828,2023
+IND,India,-- All industries --,VC,2094.4277325,2024
+IND,India,-- All industries --,VC,2508.2482875,2025
+KOR,Korea,-- All industries --,VC,98.02950500000001,2012
+KOR,Korea,-- All industries --,VC,18.968802,2013
+KOR,Korea,-- All industries --,VC,110.937348,2014
+KOR,Korea,-- All industries --,VC,113.529272,2015
+KOR,Korea,-- All industries --,VC,192.0928965,2016
+KOR,Korea,-- All industries --,VC,726.610554,2017
+KOR,Korea,-- All industries --,VC,1112.881818,2018
+KOR,Korea,-- All industries --,VC,1030.9651405,2019
+KOR,Korea,-- All industries --,VC,1186.855876,2020
+KOR,Korea,-- All industries --,VC,4657.724409,2021
+KOR,Korea,-- All industries --,VC,4091.239307,2022
+KOR,Korea,-- All industries --,VC,2386.220883,2023
+KOR,Korea,-- All industries --,VC,2735.898693,2024
+KOR,Korea,-- All industries --,VC,2055.6845785,2025
+FRA,France,-- All industries --,VC,125.069968,2012
+FRA,France,-- All industries --,VC,64.604345,2013
+FRA,France,-- All industries --,VC,96.940375,2014
+FRA,France,-- All industries --,VC,234.0296655,2015
+FRA,France,-- All industries --,VC,239.87877550000002,2016
+FRA,France,-- All industries --,VC,477.3129455,2017
+FRA,France,-- All industries --,VC,781.7167465,2018
+FRA,France,-- All industries --,VC,996.2286305,2019
+FRA,France,-- All industries --,VC,1316.3309335,2020
+FRA,France,-- All industries --,VC,3023.1367545000003,2021
+FRA,France,-- All industries --,VC,3271.2744455,2022
+FRA,France,-- All industries --,VC,2285.972016,2023
+FRA,France,-- All industries --,VC,2512.4775455,2024
+FRA,France,-- All industries --,VC,3607.7211479999996,2025
+JPN,Japan,-- All industries --,VC,22.7969295,2012
+JPN,Japan,-- All industries --,VC,82.583055,2013
+JPN,Japan,-- All industries --,VC,151.66716449999998,2014
+JPN,Japan,-- All industries --,VC,257.44825249999997,2015
+JPN,Japan,-- All industries --,VC,332.398028,2016
+JPN,Japan,-- All industries --,VC,689.3025765,2017
+JPN,Japan,-- All industries --,VC,1347.189929,2018
+JPN,Japan,-- All industries --,VC,1474.3282045,2019
+JPN,Japan,-- All industries --,VC,1358.436796,2020
+JPN,Japan,-- All industries --,VC,1942.238435,2021
+JPN,Japan,-- All industries --,VC,2207.423608,2022
+JPN,Japan,-- All industries --,VC,1970.2796759999999,2023
+JPN,Japan,-- All industries --,VC,1753.9020985,2024
+JPN,Japan,-- All industries --,VC,1674.4816355,2025
+ARE,United Arab Emirates,-- All industries --,VC,0.3,2012
+ARE,United Arab Emirates,-- All industries --,VC,1.2,2013
+ARE,United Arab Emirates,-- All industries --,VC,0.1,2014
+ARE,United Arab Emirates,-- All industries --,VC,12.2,2015
+ARE,United Arab Emirates,-- All industries --,VC,18,2016
+ARE,United Arab Emirates,-- All industries --,VC,61.616775,2017
+ARE,United Arab Emirates,-- All industries --,VC,19.460873,2018
+ARE,United Arab Emirates,-- All industries --,VC,74.14,2019
+ARE,United Arab Emirates,-- All industries --,VC,73.37,2020
+ARE,United Arab Emirates,-- All industries --,VC,169.635731,2021
+ARE,United Arab Emirates,-- All industries --,VC,494.668063,2022
+ARE,United Arab Emirates,-- All industries --,VC,114.015,2023
+ARE,United Arab Emirates,-- All industries --,VC,346.843047,2024
+ARE,United Arab Emirates,-- All industries --,VC,732.884756,2025

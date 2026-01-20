@@ -1,0 +1,122 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Digital security,VC,700.15569,2012
+USA,United States,Digital security,VC,452.505,2013
+USA,United States,Digital security,VC,987.63,2014
+USA,United States,Digital security,VC,2023.930433,2015
+USA,United States,Digital security,VC,914.3084709999999,2016
+USA,United States,Digital security,VC,1599.663357,2017
+USA,United States,Digital security,VC,1923.154356,2018
+USA,United States,Digital security,VC,2878.756013,2019
+USA,United States,Digital security,VC,3449.5393895,2020
+USA,United States,Digital security,VC,7420.031788,2021
+USA,United States,Digital security,VC,3975.653829,2022
+USA,United States,Digital security,VC,3246.077635,2023
+USA,United States,Digital security,VC,4330.117365,2024
+USA,United States,Digital security,VC,10409.578629,2025
+CHN,China (People's Republic of),Digital security,VC,10.044145,2012
+CHN,China (People's Republic of),Digital security,VC,10,2013
+CHN,China (People's Republic of),Digital security,VC,1.627212,2014
+CHN,China (People's Republic of),Digital security,VC,75.0421975,2015
+CHN,China (People's Republic of),Digital security,VC,64.1533025,2016
+CHN,China (People's Republic of),Digital security,VC,223.578985,2017
+CHN,China (People's Republic of),Digital security,VC,86.96324200000001,2018
+CHN,China (People's Republic of),Digital security,VC,515.776272,2019
+CHN,China (People's Republic of),Digital security,VC,373.767016,2020
+CHN,China (People's Republic of),Digital security,VC,915.145844,2021
+CHN,China (People's Republic of),Digital security,VC,180.88942450000002,2022
+CHN,China (People's Republic of),Digital security,VC,87.980757,2023
+CHN,China (People's Republic of),Digital security,VC,20.853003,2024
+CHN,China (People's Republic of),Digital security,VC,11.386026,2025
+CAN,Canada,Digital security,VC,24.600898,2012
+CAN,Canada,Digital security,VC,13.780137,2013
+CAN,Canada,Digital security,VC,42.472509,2014
+CAN,Canada,Digital security,VC,57.45,2015
+CAN,Canada,Digital security,VC,123.23,2016
+CAN,Canada,Digital security,VC,9.797513,2017
+CAN,Canada,Digital security,VC,141.197904,2018
+CAN,Canada,Digital security,VC,101.019985,2019
+CAN,Canada,Digital security,VC,26.101297999999996,2020
+CAN,Canada,Digital security,VC,564.060459,2021
+CAN,Canada,Digital security,VC,87.260169,2022
+CAN,Canada,Digital security,VC,90.003847,2023
+CAN,Canada,Digital security,VC,47.033322999999996,2024
+CAN,Canada,Digital security,VC,67.346175,2025
+GBR,United Kingdom,Digital security,VC,0.8580445,2013
+GBR,United Kingdom,Digital security,VC,7.0052579999999995,2014
+GBR,United Kingdom,Digital security,VC,52.191265,2015
+GBR,United Kingdom,Digital security,VC,78.893687,2016
+GBR,United Kingdom,Digital security,VC,92.601677,2017
+GBR,United Kingdom,Digital security,VC,114.581376,2018
+GBR,United Kingdom,Digital security,VC,9.650807,2019
+GBR,United Kingdom,Digital security,VC,46.68868,2020
+GBR,United Kingdom,Digital security,VC,41.237802,2021
+GBR,United Kingdom,Digital security,VC,79.40612200000001,2022
+GBR,United Kingdom,Digital security,VC,75.461448,2023
+GBR,United Kingdom,Digital security,VC,353.455972,2024
+GBR,United Kingdom,Digital security,VC,238.732583,2025
+KOR,Korea,Digital security,VC,3.607185,2012
+KOR,Korea,Digital security,VC,2.131341,2013
+KOR,Korea,Digital security,VC,1.398836,2014
+KOR,Korea,Digital security,VC,3.458866,2015
+KOR,Korea,Digital security,VC,9.965394,2016
+KOR,Korea,Digital security,VC,11.833285,2017
+KOR,Korea,Digital security,VC,9.489099,2018
+KOR,Korea,Digital security,VC,53.8485255,2019
+KOR,Korea,Digital security,VC,23.625541,2020
+KOR,Korea,Digital security,VC,65.7236325,2021
+KOR,Korea,Digital security,VC,60.270476,2022
+KOR,Korea,Digital security,VC,482.07494999999994,2023
+KOR,Korea,Digital security,VC,27.4741995,2024
+KOR,Korea,Digital security,VC,40.389501,2025
+IND,India,Digital security,VC,0.401225,2012
+IND,India,Digital security,VC,1.122625,2013
+IND,India,Digital security,VC,3.35271,2015
+IND,India,Digital security,VC,3.5480589999999994,2016
+IND,India,Digital security,VC,3.041777,2017
+IND,India,Digital security,VC,6.834377,2018
+IND,India,Digital security,VC,6.130751,2019
+IND,India,Digital security,VC,43.920596,2020
+IND,India,Digital security,VC,20.937955,2021
+IND,India,Digital security,VC,19.147252,2022
+IND,India,Digital security,VC,129.3158975,2023
+IND,India,Digital security,VC,85.7449585,2024
+IND,India,Digital security,VC,72.272397,2025
+FRA,France,Digital security,VC,2.131071,2012
+FRA,France,Digital security,VC,0.737618,2013
+FRA,France,Digital security,VC,3.0024140000000004,2014
+FRA,France,Digital security,VC,0.9284020000000001,2015
+FRA,France,Digital security,VC,0.848375,2016
+FRA,France,Digital security,VC,17.512096,2017
+FRA,France,Digital security,VC,1.244264,2018
+FRA,France,Digital security,VC,1.218616,2019
+FRA,France,Digital security,VC,42.068822,2020
+FRA,France,Digital security,VC,32.925163000000005,2021
+FRA,France,Digital security,VC,49.1227965,2022
+FRA,France,Digital security,VC,69.9821575,2023
+FRA,France,Digital security,VC,39.972832000000004,2024
+FRA,France,Digital security,VC,74.559348,2025
+DEU,Germany,Digital security,VC,0,2012
+DEU,Germany,Digital security,VC,5,2013
+DEU,Germany,Digital security,VC,1.2976705000000002,2015
+DEU,Germany,Digital security,VC,0.834384,2018
+DEU,Germany,Digital security,VC,21.6443515,2019
+DEU,Germany,Digital security,VC,14.498141,2020
+DEU,Germany,Digital security,VC,36.2188,2021
+DEU,Germany,Digital security,VC,117.68208700000001,2022
+DEU,Germany,Digital security,VC,27.067868,2023
+DEU,Germany,Digital security,VC,17.164383,2024
+DEU,Germany,Digital security,VC,24.101043,2025
+JPN,Japan,Digital security,VC,0.8265,2016
+JPN,Japan,Digital security,VC,0.462283,2017
+JPN,Japan,Digital security,VC,3.5134815,2018
+JPN,Japan,Digital security,VC,3.599992,2019
+JPN,Japan,Digital security,VC,5.528588,2020
+JPN,Japan,Digital security,VC,2.702327,2021
+JPN,Japan,Digital security,VC,27.477165999999997,2022
+JPN,Japan,Digital security,VC,3.341509,2023
+JPN,Japan,Digital security,VC,11.142171,2024
+JPN,Japan,Digital security,VC,17.305684,2025
+ARE,United Arab Emirates,Digital security,VC,0.5,2020
+ARE,United Arab Emirates,Digital security,VC,4.6,2021
+ARE,United Arab Emirates,Digital security,VC,9,2023
+ARE,United Arab Emirates,Digital security,VC,24.5,2025

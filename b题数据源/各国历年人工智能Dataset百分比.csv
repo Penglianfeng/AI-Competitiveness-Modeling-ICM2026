@@ -1,0 +1,123 @@
+ai_concept,Country/territory,Country/territory_label,impact_level,pub_type,publications,year
+All AI research,USA,United States,All works,Dataset,50,2001
+All AI research,USA,United States,All works,Dataset,100,2002
+All AI research,USA,United States,All works,Dataset,0,2003
+All AI research,USA,United States,All works,Dataset,66.66666666666667,2004
+All AI research,USA,United States,All works,Dataset,25,2005
+All AI research,USA,United States,All works,Dataset,60,2006
+All AI research,USA,United States,All works,Dataset,39.28571403482739,2007
+All AI research,USA,United States,All works,Dataset,14.285714164072155,2008
+All AI research,USA,United States,All works,Dataset,54.54545454545455,2009
+All AI research,USA,United States,All works,Dataset,45.83333348510442,2010
+All AI research,USA,United States,All works,Dataset,25,2011
+All AI research,USA,United States,All works,Dataset,43.75,2012
+All AI research,USA,United States,All works,Dataset,15.873015920321146,2013
+All AI research,USA,United States,All works,Dataset,13.333333233992258,2014
+All AI research,USA,United States,All works,Dataset,9.285714351096932,2015
+All AI research,USA,United States,All works,Dataset,56.25000007916242,2016
+All AI research,USA,United States,All works,Dataset,15.972222229695799,2017
+All AI research,USA,United States,All works,Dataset,13.328882948370017,2018
+All AI research,USA,United States,All works,Dataset,22.516365791863187,2019
+All AI research,USA,United States,All works,Dataset,14.988095209583252,2020
+All AI research,USA,United States,All works,Dataset,14.828259168695869,2021
+All AI research,USA,United States,All works,Dataset,12.051618545407848,2022
+All AI research,USA,United States,All works,Dataset,14.827249495875215,2023
+All AI research,USA,United States,All works,Dataset,23.976608127970152,2024
+All AI research,FRA,France,All works,Dataset,100,2000
+All AI research,FRA,France,All works,Dataset,25,2003
+All AI research,FRA,France,All works,Dataset,21.4285710788503,2007
+All AI research,FRA,France,All works,Dataset,42.85714291796392,2008
+All AI research,FRA,France,All works,Dataset,18.181818181818183,2009
+All AI research,FRA,France,All works,Dataset,16.666666666666668,2011
+All AI research,FRA,France,All works,Dataset,7.8125,2012
+All AI research,FRA,France,All works,Dataset,4.761904761904762,2013
+All AI research,FRA,France,All works,Dataset,0.2777777860562007,2014
+All AI research,FRA,France,All works,Dataset,5.357142845738907,2015
+All AI research,FRA,France,All works,Dataset,2.499999986961484,2016
+All AI research,FRA,France,All works,Dataset,14.58333327986852,2017
+All AI research,FRA,France,All works,Dataset,13.726635476331404,2018
+All AI research,FRA,France,All works,Dataset,12.957317048532605,2019
+All AI research,FRA,France,All works,Dataset,8.857142839454063,2020
+All AI research,FRA,France,All works,Dataset,8.128415277215412,2021
+All AI research,FRA,France,All works,Dataset,9.488188954303721,2022
+All AI research,FRA,France,All works,Dataset,7.960888557670803,2023
+All AI research,FRA,France,All works,Dataset,9.064327589261712,2024
+All AI research,DEU,Germany,All works,Dataset,10,2001
+All AI research,DEU,Germany,All works,Dataset,14.285714194482686,2007
+All AI research,DEU,Germany,All works,Dataset,9.090909090909092,2009
+All AI research,DEU,Germany,All works,Dataset,23.611111189296217,2010
+All AI research,DEU,Germany,All works,Dataset,11.11111111111111,2011
+All AI research,DEU,Germany,All works,Dataset,12.5,2012
+All AI research,DEU,Germany,All works,Dataset,35.714285643327806,2013
+All AI research,DEU,Germany,All works,Dataset,22.222222238779068,2014
+All AI research,DEU,Germany,All works,Dataset,21.428571382955628,2015
+All AI research,DEU,Germany,All works,Dataset,7.499999960884452,2016
+All AI research,DEU,Germany,All works,Dataset,19.03935184988764,2017
+All AI research,DEU,Germany,All works,Dataset,18.2428423963942,2018
+All AI research,DEU,Germany,All works,Dataset,10.712305987777217,2019
+All AI research,DEU,Germany,All works,Dataset,20.392290235093895,2020
+All AI research,DEU,Germany,All works,Dataset,20.110590635109933,2021
+All AI research,DEU,Germany,All works,Dataset,16.75087489685504,2022
+All AI research,DEU,Germany,All works,Dataset,12.673877115120272,2023
+All AI research,DEU,Germany,All works,Dataset,0.8771929790163525,2024
+All AI research,GBR,United Kingdom,All works,Dataset,20,2001
+All AI research,GBR,United Kingdom,All works,Dataset,25,2005
+All AI research,GBR,United Kingdom,All works,Dataset,20,2006
+All AI research,GBR,United Kingdom,All works,Dataset,14.285714589819614,2008
+All AI research,GBR,United Kingdom,All works,Dataset,9.090909090909092,2009
+All AI research,GBR,United Kingdom,All works,Dataset,22.222221964671288,2010
+All AI research,GBR,United Kingdom,All works,Dataset,22.22222222222222,2011
+All AI research,GBR,United Kingdom,All works,Dataset,6.25,2012
+All AI research,GBR,United Kingdom,All works,Dataset,7.142857142857143,2013
+All AI research,GBR,United Kingdom,All works,Dataset,9.444444378217062,2014
+All AI research,GBR,United Kingdom,All works,Dataset,32.142857074433444,2015
+All AI research,GBR,United Kingdom,All works,Dataset,1.249999993480742,2016
+All AI research,GBR,United Kingdom,All works,Dataset,7.349537058547522,2017
+All AI research,GBR,United Kingdom,All works,Dataset,9.14552731952249,2018
+All AI research,GBR,United Kingdom,All works,Dataset,6.08304297024961,2019
+All AI research,GBR,United Kingdom,All works,Dataset,9.147959191221496,2020
+All AI research,GBR,United Kingdom,All works,Dataset,4.57650271503312,2021
+All AI research,GBR,United Kingdom,All works,Dataset,3.343175860762024,2022
+All AI research,GBR,United Kingdom,All works,Dataset,6.2713924766367395,2023
+All AI research,GBR,United Kingdom,All works,Dataset,19.005848000685447,2024
+All AI research,CHN,China (People's Republic of),All works,Dataset,1.785714281912969,2015
+All AI research,CHN,China (People's Republic of),All works,Dataset,2.5000000614672895,2016
+All AI research,CHN,China (People's Republic of),All works,Dataset,5.208333318673626,2017
+All AI research,CHN,China (People's Republic of),All works,Dataset,0.8010680957335125,2018
+All AI research,CHN,China (People's Republic of),All works,Dataset,5.538617898582184,2019
+All AI research,CHN,China (People's Republic of),All works,Dataset,0.8214285687866564,2020
+All AI research,CHN,China (People's Republic of),All works,Dataset,3.577933975409112,2021
+All AI research,CHN,China (People's Republic of),All works,Dataset,3.7050056269857867,2022
+All AI research,CHN,China (People's Republic of),All works,Dataset,6.298633024925832,2023
+All AI research,CHN,China (People's Republic of),All works,Dataset,6.140350853114467,2024
+All AI research,CAN,Canada,All works,Dataset,7.936508031118484,2013
+All AI research,CAN,Canada,All works,Dataset,0.694444443869554,2017
+All AI research,CAN,Canada,All works,Dataset,2.8816199431068794,2018
+All AI research,CAN,Canada,All works,Dataset,5.3353658468093546,2019
+All AI research,CAN,Canada,All works,Dataset,1.4285714369343252,2020
+All AI research,CAN,Canada,All works,Dataset,1.6120218508536885,2021
+All AI research,CAN,Canada,All works,Dataset,2.4999999930700803,2022
+All AI research,CAN,Canada,All works,Dataset,2.468454258543197,2023
+All AI research,JPN,Japan,All works,Dataset,1.6666666666666667,2014
+All AI research,JPN,Japan,All works,Dataset,2.499999986961484,2016
+All AI research,JPN,Japan,All works,Dataset,6.249999994825986,2017
+All AI research,JPN,Japan,All works,Dataset,0.9345794357382187,2018
+All AI research,JPN,Japan,All works,Dataset,0.9146341443885115,2019
+All AI research,JPN,Japan,All works,Dataset,1.761904756135208,2020
+All AI research,JPN,Japan,All works,Dataset,3.825136601042547,2021
+All AI research,JPN,Japan,All works,Dataset,1.3123359579706042,2022
+All AI research,JPN,Japan,All works,Dataset,2.830331245319646,2023
+All AI research,IND,India,All works,Dataset,4.166666642521267,2017
+All AI research,IND,India,All works,Dataset,1.765316725102603,2018
+All AI research,IND,India,All works,Dataset,0.5487804902675365,2019
+All AI research,IND,India,All works,Dataset,1.5623583001393457,2020
+All AI research,IND,India,All works,Dataset,0.6921675805837969,2021
+All AI research,IND,India,All works,Dataset,0.787401572435723,2022
+All AI research,IND,India,All works,Dataset,1.7385208512592858,2023
+All AI research,IND,India,All works,Dataset,0.8771929790163525,2024
+All AI research,KOR,Korea,All works,Dataset,0.6230529757272375,2018
+All AI research,KOR,Korea,All works,Dataset,1.575203250183449,2019
+All AI research,KOR,Korea,All works,Dataset,1.349206348432007,2020
+All AI research,KOR,Korea,All works,Dataset,0.5464480858632209,2021
+All AI research,KOR,Korea,All works,Dataset,0.670347001586908,2023
+All AI research,ARE,United Arab Emirates,All works,Dataset,0.10515247397094987,2023

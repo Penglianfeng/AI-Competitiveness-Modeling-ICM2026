@@ -1,0 +1,132 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Healthcare, drugs and biotechnology,VC,531.16,2012
+USA,United States,Healthcare, drugs and biotechnology,VC,730.215,2013
+USA,United States,Healthcare, drugs and biotechnology,VC,1779.464989,2014
+USA,United States,Healthcare, drugs and biotechnology,VC,2268.153308,2015
+USA,United States,Healthcare, drugs and biotechnology,VC,1694.565053,2016
+USA,United States,Healthcare, drugs and biotechnology,VC,6276.421407,2017
+USA,United States,Healthcare, drugs and biotechnology,VC,4581.106189,2018
+USA,United States,Healthcare, drugs and biotechnology,VC,4666.894166,2019
+USA,United States,Healthcare, drugs and biotechnology,VC,10095.5594395,2020
+USA,United States,Healthcare, drugs and biotechnology,VC,15938.169144,2021
+USA,United States,Healthcare, drugs and biotechnology,VC,11136.4164535,2022
+USA,United States,Healthcare, drugs and biotechnology,VC,8035.750349,2023
+USA,United States,Healthcare, drugs and biotechnology,VC,7980.754831,2024
+USA,United States,Healthcare, drugs and biotechnology,VC,12533.725111,2025
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,15.011249999999999,2012
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,32.798486,2013
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,260.0956465,2014
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,746.1185365,2015
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,1273.2704975000001,2016
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,835.519033,2017
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,2277.259337,2018
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,1031.827857,2019
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,3465.268719,2020
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,3941.276945,2021
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,1801.129434,2022
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,1279.411128,2023
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,959.5765055,2024
+CHN,China (People's Republic of),Healthcare, drugs and biotechnology,VC,1065.18202,2025
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,6.811585,2012
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,11.462237,2013
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,29.606704,2014
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,108.831369,2015
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,87.291448,2016
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,202.164284,2017
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,332.516562,2018
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,962.375469,2019
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,345.321233,2020
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,2317.910609,2021
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,757.784898,2022
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,604.739614,2023
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,767.11412,2024
+GBR,United Kingdom,Healthcare, drugs and biotechnology,VC,1577.305774,2025
+KOR,Korea,Healthcare, drugs and biotechnology,VC,0.890082,2012
+KOR,Korea,Healthcare, drugs and biotechnology,VC,5.677446,2014
+KOR,Korea,Healthcare, drugs and biotechnology,VC,20.531444999999998,2015
+KOR,Korea,Healthcare, drugs and biotechnology,VC,28.4273365,2016
+KOR,Korea,Healthcare, drugs and biotechnology,VC,54.511419000000004,2017
+KOR,Korea,Healthcare, drugs and biotechnology,VC,161.6858375,2018
+KOR,Korea,Healthcare, drugs and biotechnology,VC,369.4026785,2019
+KOR,Korea,Healthcare, drugs and biotechnology,VC,335.897716,2020
+KOR,Korea,Healthcare, drugs and biotechnology,VC,844.7892175,2021
+KOR,Korea,Healthcare, drugs and biotechnology,VC,467.785303,2022
+KOR,Korea,Healthcare, drugs and biotechnology,VC,301.58625,2023
+KOR,Korea,Healthcare, drugs and biotechnology,VC,357.0501825,2024
+KOR,Korea,Healthcare, drugs and biotechnology,VC,310.094015,2025
+CAN,Canada,Healthcare, drugs and biotechnology,VC,8.143951000000001,2012
+CAN,Canada,Healthcare, drugs and biotechnology,VC,45.21,2013
+CAN,Canada,Healthcare, drugs and biotechnology,VC,21.033674,2014
+CAN,Canada,Healthcare, drugs and biotechnology,VC,30.115000000000002,2015
+CAN,Canada,Healthcare, drugs and biotechnology,VC,62.432102,2016
+CAN,Canada,Healthcare, drugs and biotechnology,VC,52.6364085,2017
+CAN,Canada,Healthcare, drugs and biotechnology,VC,94.839285,2018
+CAN,Canada,Healthcare, drugs and biotechnology,VC,62.443673,2019
+CAN,Canada,Healthcare, drugs and biotechnology,VC,480.400666,2020
+CAN,Canada,Healthcare, drugs and biotechnology,VC,206.1554035,2021
+CAN,Canada,Healthcare, drugs and biotechnology,VC,432.148298,2022
+CAN,Canada,Healthcare, drugs and biotechnology,VC,107.624238,2023
+CAN,Canada,Healthcare, drugs and biotechnology,VC,172.073813,2024
+CAN,Canada,Healthcare, drugs and biotechnology,VC,312.948488,2025
+DEU,Germany,Healthcare, drugs and biotechnology,VC,12.985174,2012
+DEU,Germany,Healthcare, drugs and biotechnology,VC,39.246065,2013
+DEU,Germany,Healthcare, drugs and biotechnology,VC,6.776622,2014
+DEU,Germany,Healthcare, drugs and biotechnology,VC,33.9476845,2015
+DEU,Germany,Healthcare, drugs and biotechnology,VC,7.709998,2016
+DEU,Germany,Healthcare, drugs and biotechnology,VC,112.461432,2017
+DEU,Germany,Healthcare, drugs and biotechnology,VC,36.203903999999994,2018
+DEU,Germany,Healthcare, drugs and biotechnology,VC,147.898486,2019
+DEU,Germany,Healthcare, drugs and biotechnology,VC,299.4779965,2020
+DEU,Germany,Healthcare, drugs and biotechnology,VC,324.129347,2021
+DEU,Germany,Healthcare, drugs and biotechnology,VC,162.815179,2022
+DEU,Germany,Healthcare, drugs and biotechnology,VC,92.1039585,2023
+DEU,Germany,Healthcare, drugs and biotechnology,VC,172.075956,2024
+DEU,Germany,Healthcare, drugs and biotechnology,VC,173.47727700000002,2025
+JPN,Japan,Healthcare, drugs and biotechnology,VC,0.333847,2014
+JPN,Japan,Healthcare, drugs and biotechnology,VC,7.2510125,2015
+JPN,Japan,Healthcare, drugs and biotechnology,VC,1.90909,2016
+JPN,Japan,Healthcare, drugs and biotechnology,VC,62.784718999999996,2017
+JPN,Japan,Healthcare, drugs and biotechnology,VC,132.30443499999998,2018
+JPN,Japan,Healthcare, drugs and biotechnology,VC,60.870983,2019
+JPN,Japan,Healthcare, drugs and biotechnology,VC,115.040858,2020
+JPN,Japan,Healthcare, drugs and biotechnology,VC,131.135023,2021
+JPN,Japan,Healthcare, drugs and biotechnology,VC,121.033916,2022
+JPN,Japan,Healthcare, drugs and biotechnology,VC,193.929307,2023
+JPN,Japan,Healthcare, drugs and biotechnology,VC,308.24800899999997,2024
+JPN,Japan,Healthcare, drugs and biotechnology,VC,300.77128500000003,2025
+IND,India,Healthcare, drugs and biotechnology,VC,0.407041,2012
+IND,India,Healthcare, drugs and biotechnology,VC,4.592891,2013
+IND,India,Healthcare, drugs and biotechnology,VC,5.901597,2014
+IND,India,Healthcare, drugs and biotechnology,VC,22.706203,2015
+IND,India,Healthcare, drugs and biotechnology,VC,2.8927435,2016
+IND,India,Healthcare, drugs and biotechnology,VC,64.238767,2017
+IND,India,Healthcare, drugs and biotechnology,VC,47.726169999999996,2018
+IND,India,Healthcare, drugs and biotechnology,VC,91.235703,2019
+IND,India,Healthcare, drugs and biotechnology,VC,134.9138585,2020
+IND,India,Healthcare, drugs and biotechnology,VC,246.730111,2021
+IND,India,Healthcare, drugs and biotechnology,VC,365.177145,2022
+IND,India,Healthcare, drugs and biotechnology,VC,133.187177,2023
+IND,India,Healthcare, drugs and biotechnology,VC,169.1805755,2024
+IND,India,Healthcare, drugs and biotechnology,VC,98.819045,2025
+FRA,France,Healthcare, drugs and biotechnology,VC,3.529765,2012
+FRA,France,Healthcare, drugs and biotechnology,VC,4.680794,2013
+FRA,France,Healthcare, drugs and biotechnology,VC,27.686026,2014
+FRA,France,Healthcare, drugs and biotechnology,VC,29.596138,2015
+FRA,France,Healthcare, drugs and biotechnology,VC,24.04644,2016
+FRA,France,Healthcare, drugs and biotechnology,VC,13.250781,2017
+FRA,France,Healthcare, drugs and biotechnology,VC,41.705976,2018
+FRA,France,Healthcare, drugs and biotechnology,VC,62.257501000000005,2019
+FRA,France,Healthcare, drugs and biotechnology,VC,63.5290515,2020
+FRA,France,Healthcare, drugs and biotechnology,VC,71.86581149999999,2021
+FRA,France,Healthcare, drugs and biotechnology,VC,263.066971,2022
+FRA,France,Healthcare, drugs and biotechnology,VC,171.297149,2023
+FRA,France,Healthcare, drugs and biotechnology,VC,224.4061845,2024
+FRA,France,Healthcare, drugs and biotechnology,VC,288.156051,2025
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,0.4,2015
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,0.6499999999999999,2017
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,0.97,2020
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,1.1,2021
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,1.65,2022
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,47.48,2023
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,4.3,2024
+ARE,United Arab Emirates,Healthcare, drugs and biotechnology,VC,259.17990299999997,2025

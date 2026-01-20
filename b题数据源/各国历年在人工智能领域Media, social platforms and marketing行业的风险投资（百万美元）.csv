@@ -1,0 +1,134 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Media, social platforms and marketing,VC,1234.404647,2012
+USA,United States,Media, social platforms and marketing,VC,1520.662263,2013
+USA,United States,Media, social platforms and marketing,VC,2773.73691,2014
+USA,United States,Media, social platforms and marketing,VC,3364.419246,2015
+USA,United States,Media, social platforms and marketing,VC,1831.573196,2016
+USA,United States,Media, social platforms and marketing,VC,2401.746562,2017
+USA,United States,Media, social platforms and marketing,VC,4195.148149,2018
+USA,United States,Media, social platforms and marketing,VC,4305.3911925,2019
+USA,United States,Media, social platforms and marketing,VC,4415.2074945,2020
+USA,United States,Media, social platforms and marketing,VC,12597.177661,2021
+USA,United States,Media, social platforms and marketing,VC,6475.918712,2022
+USA,United States,Media, social platforms and marketing,VC,13259.370961,2023
+USA,United States,Media, social platforms and marketing,VC,11805.166305,2024
+USA,United States,Media, social platforms and marketing,VC,27833.07622,2025
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,41.330947,2012
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,40.792016000000004,2013
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,756.7876995,2014
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,1297.252399,2015
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,672.675255,2016
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,5376.929231,2017
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,5116.867375,2018
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,880.7257519999999,2019
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,1073.554666,2020
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,1000.249109,2021
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,985.850549,2022
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,581.458335,2023
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,1111.597875,2024
+CHN,China (People's Republic of),Media, social platforms and marketing,VC,874.389704,2025
+IND,India,Media, social platforms and marketing,VC,101.348477,2012
+IND,India,Media, social platforms and marketing,VC,29.962688,2013
+IND,India,Media, social platforms and marketing,VC,39.35824,2014
+IND,India,Media, social platforms and marketing,VC,175.306238,2015
+IND,India,Media, social platforms and marketing,VC,91.2522805,2016
+IND,India,Media, social platforms and marketing,VC,20.874929,2017
+IND,India,Media, social platforms and marketing,VC,132.227812,2018
+IND,India,Media, social platforms and marketing,VC,188.759699,2019
+IND,India,Media, social platforms and marketing,VC,434.9143565,2020
+IND,India,Media, social platforms and marketing,VC,1155.2300285,2021
+IND,India,Media, social platforms and marketing,VC,1617.751464,2022
+IND,India,Media, social platforms and marketing,VC,147.940614,2023
+IND,India,Media, social platforms and marketing,VC,99.20858299999999,2024
+IND,India,Media, social platforms and marketing,VC,100.4441665,2025
+GBR,United Kingdom,Media, social platforms and marketing,VC,43.2017285,2012
+GBR,United Kingdom,Media, social platforms and marketing,VC,38.332101,2013
+GBR,United Kingdom,Media, social platforms and marketing,VC,95.66266399999999,2014
+GBR,United Kingdom,Media, social platforms and marketing,VC,156.691236,2015
+GBR,United Kingdom,Media, social platforms and marketing,VC,251.3957415,2016
+GBR,United Kingdom,Media, social platforms and marketing,VC,93.751402,2017
+GBR,United Kingdom,Media, social platforms and marketing,VC,265.34899,2018
+GBR,United Kingdom,Media, social platforms and marketing,VC,230.81620999999998,2019
+GBR,United Kingdom,Media, social platforms and marketing,VC,273.694577,2020
+GBR,United Kingdom,Media, social platforms and marketing,VC,544.795333,2021
+GBR,United Kingdom,Media, social platforms and marketing,VC,803.284202,2022
+GBR,United Kingdom,Media, social platforms and marketing,VC,297.741737,2023
+GBR,United Kingdom,Media, social platforms and marketing,VC,289.6439085,2024
+GBR,United Kingdom,Media, social platforms and marketing,VC,271.564529,2025
+CAN,Canada,Media, social platforms and marketing,VC,49.3,2012
+CAN,Canada,Media, social platforms and marketing,VC,13.332453000000001,2013
+CAN,Canada,Media, social platforms and marketing,VC,37.479867500000005,2014
+CAN,Canada,Media, social platforms and marketing,VC,83.169858,2015
+CAN,Canada,Media, social platforms and marketing,VC,229.303253,2016
+CAN,Canada,Media, social platforms and marketing,VC,58.350448,2017
+CAN,Canada,Media, social platforms and marketing,VC,282.96200799999997,2018
+CAN,Canada,Media, social platforms and marketing,VC,264.047952,2019
+CAN,Canada,Media, social platforms and marketing,VC,175.5551625,2020
+CAN,Canada,Media, social platforms and marketing,VC,482.9908955,2021
+CAN,Canada,Media, social platforms and marketing,VC,620.696493,2022
+CAN,Canada,Media, social platforms and marketing,VC,94.81889,2023
+CAN,Canada,Media, social platforms and marketing,VC,192.832555,2024
+CAN,Canada,Media, social platforms and marketing,VC,113.531934,2025
+KOR,Korea,Media, social platforms and marketing,VC,3.004116,2012
+KOR,Korea,Media, social platforms and marketing,VC,4.637378,2013
+KOR,Korea,Media, social platforms and marketing,VC,20.313961,2014
+KOR,Korea,Media, social platforms and marketing,VC,23.441578,2015
+KOR,Korea,Media, social platforms and marketing,VC,31.408780999999998,2016
+KOR,Korea,Media, social platforms and marketing,VC,29.910418999999997,2017
+KOR,Korea,Media, social platforms and marketing,VC,63.236271,2018
+KOR,Korea,Media, social platforms and marketing,VC,118.5637535,2019
+KOR,Korea,Media, social platforms and marketing,VC,123.107423,2020
+KOR,Korea,Media, social platforms and marketing,VC,500.24535649999996,2021
+KOR,Korea,Media, social platforms and marketing,VC,792.03043,2022
+KOR,Korea,Media, social platforms and marketing,VC,252.916592,2023
+KOR,Korea,Media, social platforms and marketing,VC,210.674698,2024
+KOR,Korea,Media, social platforms and marketing,VC,326.6052505,2025
+JPN,Japan,Media, social platforms and marketing,VC,5.5800125000000005,2012
+JPN,Japan,Media, social platforms and marketing,VC,31.642471,2013
+JPN,Japan,Media, social platforms and marketing,VC,63.48884149999999,2014
+JPN,Japan,Media, social platforms and marketing,VC,39.390261,2015
+JPN,Japan,Media, social platforms and marketing,VC,47.217089,2016
+JPN,Japan,Media, social platforms and marketing,VC,81.0742115,2017
+JPN,Japan,Media, social platforms and marketing,VC,91.9015425,2018
+JPN,Japan,Media, social platforms and marketing,VC,181.07427299999998,2019
+JPN,Japan,Media, social platforms and marketing,VC,99.18930950000001,2020
+JPN,Japan,Media, social platforms and marketing,VC,392.927574,2021
+JPN,Japan,Media, social platforms and marketing,VC,183.639744,2022
+JPN,Japan,Media, social platforms and marketing,VC,113.983455,2023
+JPN,Japan,Media, social platforms and marketing,VC,292.273508,2024
+JPN,Japan,Media, social platforms and marketing,VC,263.165641,2025
+DEU,Germany,Media, social platforms and marketing,VC,4.52,2012
+DEU,Germany,Media, social platforms and marketing,VC,9.395909,2013
+DEU,Germany,Media, social platforms and marketing,VC,46.653867000000005,2014
+DEU,Germany,Media, social platforms and marketing,VC,25.3665485,2015
+DEU,Germany,Media, social platforms and marketing,VC,36.539668,2016
+DEU,Germany,Media, social platforms and marketing,VC,40.741776,2017
+DEU,Germany,Media, social platforms and marketing,VC,87.791299,2018
+DEU,Germany,Media, social platforms and marketing,VC,305.54364250000003,2019
+DEU,Germany,Media, social platforms and marketing,VC,136.74911,2020
+DEU,Germany,Media, social platforms and marketing,VC,499.67143599999997,2021
+DEU,Germany,Media, social platforms and marketing,VC,291.63817,2022
+DEU,Germany,Media, social platforms and marketing,VC,134.682216,2023
+DEU,Germany,Media, social platforms and marketing,VC,85.167452,2024
+DEU,Germany,Media, social platforms and marketing,VC,157.16255999999998,2025
+FRA,France,Media, social platforms and marketing,VC,11.300916,2012
+FRA,France,Media, social platforms and marketing,VC,6.510285,2013
+FRA,France,Media, social platforms and marketing,VC,9.076734,2014
+FRA,France,Media, social platforms and marketing,VC,60.149747,2015
+FRA,France,Media, social platforms and marketing,VC,28.464164999999998,2016
+FRA,France,Media, social platforms and marketing,VC,69.147445,2017
+FRA,France,Media, social platforms and marketing,VC,150.844834,2018
+FRA,France,Media, social platforms and marketing,VC,199.65018449999997,2019
+FRA,France,Media, social platforms and marketing,VC,158.194404,2020
+FRA,France,Media, social platforms and marketing,VC,95.887664,2021
+FRA,France,Media, social platforms and marketing,VC,334.4567025,2022
+FRA,France,Media, social platforms and marketing,VC,133.477929,2023
+FRA,France,Media, social platforms and marketing,VC,109.169838,2024
+FRA,France,Media, social platforms and marketing,VC,87.907251,2025
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,0.060873,2018
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,6,2019
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,4.4,2021
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,5.4,2022
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,0.75,2023
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,26.099999999999998,2024
+ARE,United Arab Emirates,Media, social platforms and marketing,VC,16.5,2025

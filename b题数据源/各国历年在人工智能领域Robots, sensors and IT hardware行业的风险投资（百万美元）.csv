@@ -1,0 +1,120 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,32.360913000000004,2012
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,52.818047,2013
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,320.821072,2014
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,630.753791,2015
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,1732.104017,2016
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,2250.727031,2017
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,5038.40318,2018
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,2674.241754,2019
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,4864.9260189999995,2020
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,7694.8672385,2021
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,5405.9745505,2022
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,3541.568298,2023
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,2710.596381,2024
+CHN,China (People's Republic of),Robots, sensors and IT hardware,VC,3266.559713,2025
+USA,United States,Robots, sensors and IT hardware,VC,211.777028,2012
+USA,United States,Robots, sensors and IT hardware,VC,324.66499699999997,2013
+USA,United States,Robots, sensors and IT hardware,VC,618.95525,2014
+USA,United States,Robots, sensors and IT hardware,VC,481.341721,2015
+USA,United States,Robots, sensors and IT hardware,VC,595.19,2016
+USA,United States,Robots, sensors and IT hardware,VC,917.097204,2017
+USA,United States,Robots, sensors and IT hardware,VC,1284.752958,2018
+USA,United States,Robots, sensors and IT hardware,VC,1103.042074,2019
+USA,United States,Robots, sensors and IT hardware,VC,1814.001505,2020
+USA,United States,Robots, sensors and IT hardware,VC,3433.536262,2021
+USA,United States,Robots, sensors and IT hardware,VC,2538.9133970000003,2022
+USA,United States,Robots, sensors and IT hardware,VC,1784.484866,2023
+USA,United States,Robots, sensors and IT hardware,VC,4332.711784,2024
+USA,United States,Robots, sensors and IT hardware,VC,4402.2388905,2025
+KOR,Korea,Robots, sensors and IT hardware,VC,4.468370999999999,2013
+KOR,Korea,Robots, sensors and IT hardware,VC,1.163266,2014
+KOR,Korea,Robots, sensors and IT hardware,VC,3.1421145,2015
+KOR,Korea,Robots, sensors and IT hardware,VC,14.150792,2016
+KOR,Korea,Robots, sensors and IT hardware,VC,26.878521,2017
+KOR,Korea,Robots, sensors and IT hardware,VC,107.8964545,2018
+KOR,Korea,Robots, sensors and IT hardware,VC,67.617814,2019
+KOR,Korea,Robots, sensors and IT hardware,VC,80.562375,2020
+KOR,Korea,Robots, sensors and IT hardware,VC,311.786532,2021
+KOR,Korea,Robots, sensors and IT hardware,VC,304.073397,2022
+KOR,Korea,Robots, sensors and IT hardware,VC,341.60961,2023
+KOR,Korea,Robots, sensors and IT hardware,VC,701.926793,2024
+KOR,Korea,Robots, sensors and IT hardware,VC,576.984297,2025
+CAN,Canada,Robots, sensors and IT hardware,VC,2.5,2013
+CAN,Canada,Robots, sensors and IT hardware,VC,8.742278,2014
+CAN,Canada,Robots, sensors and IT hardware,VC,3.223948,2015
+CAN,Canada,Robots, sensors and IT hardware,VC,0.85,2016
+CAN,Canada,Robots, sensors and IT hardware,VC,120.61601999999999,2017
+CAN,Canada,Robots, sensors and IT hardware,VC,27.692797,2018
+CAN,Canada,Robots, sensors and IT hardware,VC,47.46265,2019
+CAN,Canada,Robots, sensors and IT hardware,VC,84.70745600000001,2020
+CAN,Canada,Robots, sensors and IT hardware,VC,314.2114075,2021
+CAN,Canada,Robots, sensors and IT hardware,VC,335.486302,2022
+CAN,Canada,Robots, sensors and IT hardware,VC,172.883175,2023
+CAN,Canada,Robots, sensors and IT hardware,VC,785.392743,2024
+CAN,Canada,Robots, sensors and IT hardware,VC,162.941925,2025
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,1.524824,2014
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,1.677685,2015
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,35.939726,2016
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,88.311499,2017
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,234.768278,2018
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,26.900519000000003,2019
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,407.410829,2020
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,539.72262,2021
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,62.388472,2022
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,50.316527,2023
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,116.94753800000001,2024
+GBR,United Kingdom,Robots, sensors and IT hardware,VC,113.345774,2025
+JPN,Japan,Robots, sensors and IT hardware,VC,11.95274,2014
+JPN,Japan,Robots, sensors and IT hardware,VC,18.0397505,2015
+JPN,Japan,Robots, sensors and IT hardware,VC,33.792558,2016
+JPN,Japan,Robots, sensors and IT hardware,VC,36.186748,2017
+JPN,Japan,Robots, sensors and IT hardware,VC,59.110439,2018
+JPN,Japan,Robots, sensors and IT hardware,VC,111.22762,2019
+JPN,Japan,Robots, sensors and IT hardware,VC,60.830794,2020
+JPN,Japan,Robots, sensors and IT hardware,VC,185.939166,2021
+JPN,Japan,Robots, sensors and IT hardware,VC,118.349717,2022
+JPN,Japan,Robots, sensors and IT hardware,VC,151.023348,2023
+JPN,Japan,Robots, sensors and IT hardware,VC,106.9069145,2024
+JPN,Japan,Robots, sensors and IT hardware,VC,77.041026,2025
+DEU,Germany,Robots, sensors and IT hardware,VC,0.781733,2013
+DEU,Germany,Robots, sensors and IT hardware,VC,8.157784,2015
+DEU,Germany,Robots, sensors and IT hardware,VC,1,2016
+DEU,Germany,Robots, sensors and IT hardware,VC,5.312308,2017
+DEU,Germany,Robots, sensors and IT hardware,VC,12.5,2018
+DEU,Germany,Robots, sensors and IT hardware,VC,2.756692,2019
+DEU,Germany,Robots, sensors and IT hardware,VC,2.417919,2020
+DEU,Germany,Robots, sensors and IT hardware,VC,111.426155,2021
+DEU,Germany,Robots, sensors and IT hardware,VC,41.622386,2022
+DEU,Germany,Robots, sensors and IT hardware,VC,152.6350815,2023
+DEU,Germany,Robots, sensors and IT hardware,VC,188.295938,2024
+DEU,Germany,Robots, sensors and IT hardware,VC,116.492171,2025
+FRA,France,Robots, sensors and IT hardware,VC,43.471256,2012
+FRA,France,Robots, sensors and IT hardware,VC,15.276448999999998,2013
+FRA,France,Robots, sensors and IT hardware,VC,8.717184,2014
+FRA,France,Robots, sensors and IT hardware,VC,3.791126,2015
+FRA,France,Robots, sensors and IT hardware,VC,2.635465,2016
+FRA,France,Robots, sensors and IT hardware,VC,15.839202,2017
+FRA,France,Robots, sensors and IT hardware,VC,25.261385999999998,2018
+FRA,France,Robots, sensors and IT hardware,VC,5.455863,2019
+FRA,France,Robots, sensors and IT hardware,VC,29.787949,2020
+FRA,France,Robots, sensors and IT hardware,VC,53.6055345,2021
+FRA,France,Robots, sensors and IT hardware,VC,68.229985,2022
+FRA,France,Robots, sensors and IT hardware,VC,108.596667,2023
+FRA,France,Robots, sensors and IT hardware,VC,37.266416,2024
+FRA,France,Robots, sensors and IT hardware,VC,138.361749,2025
+IND,India,Robots, sensors and IT hardware,VC,0.980598,2012
+IND,India,Robots, sensors and IT hardware,VC,0.283974,2013
+IND,India,Robots, sensors and IT hardware,VC,2.345761,2015
+IND,India,Robots, sensors and IT hardware,VC,9.951694999999999,2016
+IND,India,Robots, sensors and IT hardware,VC,7.714764000000001,2017
+IND,India,Robots, sensors and IT hardware,VC,10.860606,2018
+IND,India,Robots, sensors and IT hardware,VC,3.9166670000000003,2019
+IND,India,Robots, sensors and IT hardware,VC,2.584794,2020
+IND,India,Robots, sensors and IT hardware,VC,60.68398,2021
+IND,India,Robots, sensors and IT hardware,VC,38.891878,2022
+IND,India,Robots, sensors and IT hardware,VC,39.0823775,2023
+IND,India,Robots, sensors and IT hardware,VC,38.9076625,2024
+IND,India,Robots, sensors and IT hardware,VC,51.37339,2025
+ARE,United Arab Emirates,Robots, sensors and IT hardware,VC,85,2024
+ARE,United Arab Emirates,Robots, sensors and IT hardware,VC,10,2025

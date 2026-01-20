@@ -1,0 +1,134 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Business processes and support services,VC,904.207717,2012
+USA,United States,Business processes and support services,VC,924.090606,2013
+USA,United States,Business processes and support services,VC,2187.984823,2014
+USA,United States,Business processes and support services,VC,1930.543245,2015
+USA,United States,Business processes and support services,VC,1467.40474,2016
+USA,United States,Business processes and support services,VC,2518.743491,2017
+USA,United States,Business processes and support services,VC,4164.3492830000005,2018
+USA,United States,Business processes and support services,VC,5670.078153,2019
+USA,United States,Business processes and support services,VC,3862.788369,2020
+USA,United States,Business processes and support services,VC,11832.17352,2021
+USA,United States,Business processes and support services,VC,6954.199174,2022
+USA,United States,Business processes and support services,VC,3522.329242,2023
+USA,United States,Business processes and support services,VC,6739.335655,2024
+USA,United States,Business processes and support services,VC,12779.51024,2025
+CHN,China (People's Republic of),Business processes and support services,VC,3,2012
+CHN,China (People's Republic of),Business processes and support services,VC,29.692055,2013
+CHN,China (People's Republic of),Business processes and support services,VC,277.4358985,2014
+CHN,China (People's Republic of),Business processes and support services,VC,667.421211,2015
+CHN,China (People's Republic of),Business processes and support services,VC,521.7809075,2016
+CHN,China (People's Republic of),Business processes and support services,VC,779.640798,2017
+CHN,China (People's Republic of),Business processes and support services,VC,2668.6979499999998,2018
+CHN,China (People's Republic of),Business processes and support services,VC,1412.122397,2019
+CHN,China (People's Republic of),Business processes and support services,VC,1739.867839,2020
+CHN,China (People's Republic of),Business processes and support services,VC,3333.729248,2021
+CHN,China (People's Republic of),Business processes and support services,VC,1419.430254,2022
+CHN,China (People's Republic of),Business processes and support services,VC,534.8568329999999,2023
+CHN,China (People's Republic of),Business processes and support services,VC,279.244629,2024
+CHN,China (People's Republic of),Business processes and support services,VC,587.796066,2025
+GBR,United Kingdom,Business processes and support services,VC,26.927439,2012
+GBR,United Kingdom,Business processes and support services,VC,7.4196795,2013
+GBR,United Kingdom,Business processes and support services,VC,49.827057,2014
+GBR,United Kingdom,Business processes and support services,VC,118.964427,2015
+GBR,United Kingdom,Business processes and support services,VC,122.077919,2016
+GBR,United Kingdom,Business processes and support services,VC,640.326551,2017
+GBR,United Kingdom,Business processes and support services,VC,231.7897115,2018
+GBR,United Kingdom,Business processes and support services,VC,356.5370685,2019
+GBR,United Kingdom,Business processes and support services,VC,552.778847,2020
+GBR,United Kingdom,Business processes and support services,VC,520.4890515,2021
+GBR,United Kingdom,Business processes and support services,VC,877.919541,2022
+GBR,United Kingdom,Business processes and support services,VC,335.991784,2023
+GBR,United Kingdom,Business processes and support services,VC,345.1007605,2024
+GBR,United Kingdom,Business processes and support services,VC,1608.92303,2025
+DEU,Germany,Business processes and support services,VC,6.262721000000001,2012
+DEU,Germany,Business processes and support services,VC,10.737285,2013
+DEU,Germany,Business processes and support services,VC,35.90637,2014
+DEU,Germany,Business processes and support services,VC,14.587281,2015
+DEU,Germany,Business processes and support services,VC,48.048053,2016
+DEU,Germany,Business processes and support services,VC,119.879449,2017
+DEU,Germany,Business processes and support services,VC,232.1257965,2018
+DEU,Germany,Business processes and support services,VC,357.140442,2019
+DEU,Germany,Business processes and support services,VC,198.4194975,2020
+DEU,Germany,Business processes and support services,VC,1373.332307,2021
+DEU,Germany,Business processes and support services,VC,1283.349797,2022
+DEU,Germany,Business processes and support services,VC,690.4287495,2023
+DEU,Germany,Business processes and support services,VC,399.8642155,2024
+DEU,Germany,Business processes and support services,VC,426.010867,2025
+CAN,Canada,Business processes and support services,VC,19.575,2012
+CAN,Canada,Business processes and support services,VC,207.965314,2013
+CAN,Canada,Business processes and support services,VC,170.72737,2014
+CAN,Canada,Business processes and support services,VC,21.545,2015
+CAN,Canada,Business processes and support services,VC,37.94,2016
+CAN,Canada,Business processes and support services,VC,177.399319,2017
+CAN,Canada,Business processes and support services,VC,134.454355,2018
+CAN,Canada,Business processes and support services,VC,273.542489,2019
+CAN,Canada,Business processes and support services,VC,175.3778305,2020
+CAN,Canada,Business processes and support services,VC,808.3497120000001,2021
+CAN,Canada,Business processes and support services,VC,341.607325,2022
+CAN,Canada,Business processes and support services,VC,284.836856,2023
+CAN,Canada,Business processes and support services,VC,305.526492,2024
+CAN,Canada,Business processes and support services,VC,748.642113,2025
+JPN,Japan,Business processes and support services,VC,3.631317,2012
+JPN,Japan,Business processes and support services,VC,3.8093,2013
+JPN,Japan,Business processes and support services,VC,19.559514999999998,2014
+JPN,Japan,Business processes and support services,VC,26.111209,2015
+JPN,Japan,Business processes and support services,VC,87.6146,2016
+JPN,Japan,Business processes and support services,VC,35.823151,2017
+JPN,Japan,Business processes and support services,VC,234.6179835,2018
+JPN,Japan,Business processes and support services,VC,102.76586900000001,2019
+JPN,Japan,Business processes and support services,VC,252.286643,2020
+JPN,Japan,Business processes and support services,VC,373.693524,2021
+JPN,Japan,Business processes and support services,VC,375.350927,2022
+JPN,Japan,Business processes and support services,VC,645.652932,2023
+JPN,Japan,Business processes and support services,VC,234.68196650000002,2024
+JPN,Japan,Business processes and support services,VC,333.0530695,2025
+FRA,France,Business processes and support services,VC,4.26945,2012
+FRA,France,Business processes and support services,VC,0.8742000000000001,2013
+FRA,France,Business processes and support services,VC,2.358797,2014
+FRA,France,Business processes and support services,VC,3.986489,2015
+FRA,France,Business processes and support services,VC,21.3921485,2016
+FRA,France,Business processes and support services,VC,45.826828,2017
+FRA,France,Business processes and support services,VC,81.176094,2018
+FRA,France,Business processes and support services,VC,90.14636,2019
+FRA,France,Business processes and support services,VC,171.41795949999997,2020
+FRA,France,Business processes and support services,VC,550.900838,2021
+FRA,France,Business processes and support services,VC,761.8865725,2022
+FRA,France,Business processes and support services,VC,327.7009095,2023
+FRA,France,Business processes and support services,VC,207.205063,2024
+FRA,France,Business processes and support services,VC,158.626886,2025
+IND,India,Business processes and support services,VC,38.854861,2012
+IND,India,Business processes and support services,VC,29.455712499999997,2013
+IND,India,Business processes and support services,VC,59.050116,2014
+IND,India,Business processes and support services,VC,166.830006,2015
+IND,India,Business processes and support services,VC,37.1636075,2016
+IND,India,Business processes and support services,VC,112.948255,2017
+IND,India,Business processes and support services,VC,45.268996,2018
+IND,India,Business processes and support services,VC,86.99705,2019
+IND,India,Business processes and support services,VC,68.639069,2020
+IND,India,Business processes and support services,VC,194.55548,2021
+IND,India,Business processes and support services,VC,402.53497600000003,2022
+IND,India,Business processes and support services,VC,188.807926,2023
+IND,India,Business processes and support services,VC,447.8006555,2024
+IND,India,Business processes and support services,VC,411.4380305,2025
+KOR,Korea,Business processes and support services,VC,0.180387,2012
+KOR,Korea,Business processes and support services,VC,1.461119,2014
+KOR,Korea,Business processes and support services,VC,13.4657945,2015
+KOR,Korea,Business processes and support services,VC,10.3007695,2016
+KOR,Korea,Business processes and support services,VC,11.087299,2017
+KOR,Korea,Business processes and support services,VC,42.926467,2018
+KOR,Korea,Business processes and support services,VC,75.2662345,2019
+KOR,Korea,Business processes and support services,VC,87.70279500000001,2020
+KOR,Korea,Business processes and support services,VC,183.309143,2021
+KOR,Korea,Business processes and support services,VC,254.047418,2022
+KOR,Korea,Business processes and support services,VC,98.80581600000001,2023
+KOR,Korea,Business processes and support services,VC,175.436522,2024
+KOR,Korea,Business processes and support services,VC,176.6729325,2025
+ARE,United Arab Emirates,Business processes and support services,VC,3.816775,2017
+ARE,United Arab Emirates,Business processes and support services,VC,8.5,2019
+ARE,United Arab Emirates,Business processes and support services,VC,5.5,2020
+ARE,United Arab Emirates,Business processes and support services,VC,50.035731,2021
+ARE,United Arab Emirates,Business processes and support services,VC,30.1,2022
+ARE,United Arab Emirates,Business processes and support services,VC,1.78,2023
+ARE,United Arab Emirates,Business processes and support services,VC,70.95,2024
+ARE,United Arab Emirates,Business processes and support services,VC,141.977935,2025

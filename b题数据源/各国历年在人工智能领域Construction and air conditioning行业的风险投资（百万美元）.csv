@@ -1,0 +1,67 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Construction and air conditioning,VC,65.57000000000001,2012
+USA,United States,Construction and air conditioning,VC,193.84,2013
+USA,United States,Construction and air conditioning,VC,44.08,2014
+USA,United States,Construction and air conditioning,VC,150,2015
+USA,United States,Construction and air conditioning,VC,59.769999999999996,2016
+USA,United States,Construction and air conditioning,VC,200.9,2017
+USA,United States,Construction and air conditioning,VC,837.5600000000001,2018
+USA,United States,Construction and air conditioning,VC,46.82,2019
+USA,United States,Construction and air conditioning,VC,318.082499,2020
+USA,United States,Construction and air conditioning,VC,270.8,2021
+USA,United States,Construction and air conditioning,VC,120.03,2022
+USA,United States,Construction and air conditioning,VC,84.81549700000001,2023
+USA,United States,Construction and air conditioning,VC,104.85,2024
+USA,United States,Construction and air conditioning,VC,424.071242,2025
+CHN,China (People's Republic of),Construction and air conditioning,VC,1.604757,2015
+CHN,China (People's Republic of),Construction and air conditioning,VC,3.69584,2016
+CHN,China (People's Republic of),Construction and air conditioning,VC,27.214641,2017
+CHN,China (People's Republic of),Construction and air conditioning,VC,0,2019
+CHN,China (People's Republic of),Construction and air conditioning,VC,20.296194,2020
+CHN,China (People's Republic of),Construction and air conditioning,VC,2.109918,2021
+CHN,China (People's Republic of),Construction and air conditioning,VC,0,2022
+CHN,China (People's Republic of),Construction and air conditioning,VC,61.858877,2023
+CHN,China (People's Republic of),Construction and air conditioning,VC,2.780762,2024
+CHN,China (People's Republic of),Construction and air conditioning,VC,3,2025
+CAN,Canada,Construction and air conditioning,VC,6.125,2012
+CAN,Canada,Construction and air conditioning,VC,2,2015
+CAN,Canada,Construction and air conditioning,VC,1.677372,2016
+CAN,Canada,Construction and air conditioning,VC,3.05801,2017
+CAN,Canada,Construction and air conditioning,VC,11.971529,2019
+CAN,Canada,Construction and air conditioning,VC,6.996453,2020
+CAN,Canada,Construction and air conditioning,VC,21.0322785,2021
+CAN,Canada,Construction and air conditioning,VC,0.454668,2022
+CAN,Canada,Construction and air conditioning,VC,12.090087,2023
+CAN,Canada,Construction and air conditioning,VC,1,2025
+GBR,United Kingdom,Construction and air conditioning,VC,0.25,2012
+GBR,United Kingdom,Construction and air conditioning,VC,0.016501,2014
+GBR,United Kingdom,Construction and air conditioning,VC,21.045876,2022
+GBR,United Kingdom,Construction and air conditioning,VC,6.787566,2023
+GBR,United Kingdom,Construction and air conditioning,VC,23.134297,2025
+DEU,Germany,Construction and air conditioning,VC,5.9019390000000005,2021
+DEU,Germany,Construction and air conditioning,VC,6.495144,2023
+DEU,Germany,Construction and air conditioning,VC,26.610636,2024
+DEU,Germany,Construction and air conditioning,VC,9.898021,2025
+JPN,Japan,Construction and air conditioning,VC,0.137901,2016
+JPN,Japan,Construction and air conditioning,VC,0.835049,2017
+JPN,Japan,Construction and air conditioning,VC,0.812133,2019
+JPN,Japan,Construction and air conditioning,VC,5.307126,2020
+JPN,Japan,Construction and air conditioning,VC,9.880259,2021
+JPN,Japan,Construction and air conditioning,VC,0.834884,2022
+JPN,Japan,Construction and air conditioning,VC,12.379009,2023
+JPN,Japan,Construction and air conditioning,VC,3.058915,2024
+JPN,Japan,Construction and air conditioning,VC,0.393608,2025
+KOR,Korea,Construction and air conditioning,VC,3.0592595,2021
+KOR,Korea,Construction and air conditioning,VC,1.76636,2022
+KOR,Korea,Construction and air conditioning,VC,3.211859,2023
+KOR,Korea,Construction and air conditioning,VC,14.388540500000001,2025
+IND,India,Construction and air conditioning,VC,0.415674,2018
+IND,India,Construction and air conditioning,VC,1.534114,2019
+IND,India,Construction and air conditioning,VC,2.243553,2020
+IND,India,Construction and air conditioning,VC,3.427753,2022
+IND,India,Construction and air conditioning,VC,5.092009,2023
+IND,India,Construction and air conditioning,VC,1.446365,2025
+FRA,France,Construction and air conditioning,VC,0.148121,2021
+FRA,France,Construction and air conditioning,VC,0.104736,2023
+FRA,France,Construction and air conditioning,VC,2.713451,2025
+ARE,United Arab Emirates,Construction and air conditioning,VC,0.75,2024

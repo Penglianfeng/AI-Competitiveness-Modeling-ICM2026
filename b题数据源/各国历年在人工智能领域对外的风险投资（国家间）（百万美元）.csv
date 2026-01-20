@@ -1,0 +1,1049 @@
+Country destination,Country destination_label,Country source,Country source_label,Sum_of_deals,year
+CAN,Canada,USA,United States,94,2012
+CHN,China (People's Republic of),USA,United States,13,2012
+DEU,Germany,USA,United States,2,2012
+EU27,EU27,USA,United States,45,2012
+FRA,France,USA,United States,25,2012
+GBR,United Kingdom,USA,United States,69,2012
+IND,India,USA,United States,96,2012
+ISR,Israel,USA,United States,117,2012
+KOR,Korea,USA,United States,1,2012
+USA,United States,USA,United States,4895,2012
+CAN,Canada,USA,United States,142,2013
+CHN,China (People's Republic of),USA,United States,83,2013
+DEU,Germany,USA,United States,12,2013
+EU27,EU27,USA,United States,41,2013
+FRA,France,USA,United States,2,2013
+GBR,United Kingdom,USA,United States,80,2013
+IND,India,USA,United States,31,2013
+ISR,Israel,USA,United States,51,2013
+KOR,Korea,USA,United States,0,2013
+USA,United States,USA,United States,6315,2013
+CAN,Canada,USA,United States,191,2014
+CHN,China (People's Republic of),USA,United States,587,2014
+DEU,Germany,USA,United States,15,2014
+EU27,EU27,USA,United States,207,2014
+FRA,France,USA,United States,17,2014
+GBR,United Kingdom,USA,United States,55,2014
+IND,India,USA,United States,93,2014
+ISR,Israel,USA,United States,123,2014
+KOR,Korea,USA,United States,44,2014
+USA,United States,USA,United States,14228,2014
+CAN,Canada,USA,United States,145,2015
+CHN,China (People's Republic of),USA,United States,2588,2015
+DEU,Germany,USA,United States,293,2015
+EU27,EU27,USA,United States,544,2015
+FRA,France,USA,United States,27,2015
+GBR,United Kingdom,USA,United States,207,2015
+IND,India,USA,United States,283,2015
+ISR,Israel,USA,United States,177,2015
+KOR,Korea,USA,United States,20,2015
+USA,United States,USA,United States,14843,2015
+CAN,Canada,USA,United States,315,2016
+CHN,China (People's Republic of),USA,United States,2002,2016
+DEU,Germany,USA,United States,51,2016
+EU27,EU27,USA,United States,224,2016
+FRA,France,USA,United States,23,2016
+GBR,United Kingdom,USA,United States,284,2016
+IND,India,USA,United States,116,2016
+ISR,Israel,USA,United States,238,2016
+KOR,Korea,USA,United States,8,2016
+USA,United States,USA,United States,11516,2016
+CAN,Canada,USA,United States,237,2017
+CHN,China (People's Republic of),USA,United States,6847,2017
+DEU,Germany,USA,United States,106,2017
+EU27,EU27,USA,United States,449,2017
+FRA,France,USA,United States,46,2017
+GBR,United Kingdom,USA,United States,424,2017
+IND,India,USA,United States,150,2017
+ISR,Israel,USA,United States,338,2017
+KOR,Korea,USA,United States,160,2017
+USA,United States,USA,United States,17584,2017
+KOR,Korea,USA,United States,211,2018
+USA,United States,USA,United States,23336,2018
+ISR,Israel,USA,United States,403,2018
+IND,India,USA,United States,363,2018
+GBR,United Kingdom,USA,United States,452,2018
+FRA,France,USA,United States,117,2018
+EU27,EU27,USA,United States,872,2018
+DEU,Germany,USA,United States,254,2018
+CHN,China (People's Republic of),USA,United States,5406,2018
+CAN,Canada,USA,United States,640,2018
+KOR,Korea,USA,United States,37,2019
+ISR,Israel,USA,United States,523,2019
+IND,India,USA,United States,476,2019
+GBR,United Kingdom,USA,United States,825,2019
+FRA,France,USA,United States,125,2019
+EU27,EU27,USA,United States,1524,2019
+DEU,Germany,USA,United States,665,2019
+CHN,China (People's Republic of),USA,United States,1439,2019
+USA,United States,USA,United States,32260,2019
+CAN,Canada,USA,United States,946,2019
+CAN,Canada,USA,United States,708,2020
+CHN,China (People's Republic of),USA,United States,2404,2020
+DEU,Germany,USA,United States,490,2020
+EU27,EU27,USA,United States,1373,2020
+FRA,France,USA,United States,221,2020
+GBR,United Kingdom,USA,United States,697,2020
+IND,India,USA,United States,631,2020
+ISR,Israel,USA,United States,829,2020
+KOR,Korea,USA,United States,43,2020
+USA,United States,USA,United States,37319,2020
+CAN,Canada,USA,United States,2927,2021
+CHN,China (People's Republic of),USA,United States,7207,2021
+DEU,Germany,USA,United States,2275,2021
+EU27,EU27,USA,United States,5495,2021
+FRA,France,USA,United States,698,2021
+GBR,United Kingdom,USA,United States,2616,2021
+IND,India,USA,United States,1657,2021
+ISR,Israel,USA,United States,1843,2021
+KOR,Korea,USA,United States,1138,2021
+USA,United States,USA,United States,88711,2021
+CAN,Canada,USA,United States,1570,2022
+CHN,China (People's Republic of),USA,United States,2363,2022
+DEU,Germany,USA,United States,947,2022
+EU27,EU27,USA,United States,3481,2022
+FRA,France,USA,United States,770,2022
+GBR,United Kingdom,USA,United States,2027,2022
+IND,India,USA,United States,1726,2022
+ISR,Israel,USA,United States,1862,2022
+KOR,Korea,USA,United States,165,2022
+USA,United States,USA,United States,50347,2022
+CAN,Canada,USA,United States,659,2023
+CHN,China (People's Republic of),USA,United States,818,2023
+DEU,Germany,USA,United States,1011,2023
+EU27,EU27,USA,United States,1925,2023
+FRA,France,USA,United States,394,2023
+GBR,United Kingdom,USA,United States,1117,2023
+IND,India,USA,United States,383,2023
+ISR,Israel,USA,United States,631,2023
+KOR,Korea,USA,United States,82,2023
+USA,United States,USA,United States,46185,2023
+CAN,Canada,USA,United States,1078,2024
+CHN,China (People's Republic of),USA,United States,1250,2024
+DEU,Germany,USA,United States,553,2024
+EU27,EU27,USA,United States,2403,2024
+FRA,France,USA,United States,429,2024
+GBR,United Kingdom,USA,United States,1944,2024
+IND,India,USA,United States,439,2024
+ISR,Israel,USA,United States,742,2024
+KOR,Korea,USA,United States,148,2024
+USA,United States,USA,United States,52340,2024
+CAN,Canada,USA,United States,1681,2025
+CHN,China (People's Republic of),USA,United States,335,2025
+DEU,Germany,USA,United States,977,2025
+EU27,EU27,USA,United States,4218,2025
+FRA,France,USA,United States,777,2025
+GBR,United Kingdom,USA,United States,3110,2025
+IND,India,USA,United States,483,2025
+ISR,Israel,USA,United States,1349,2025
+KOR,Korea,USA,United States,124,2025
+USA,United States,USA,United States,110442,2025
+CHN,China (People's Republic of),CHN,China (People's Republic of),165,2012
+ISR,Israel,CHN,China (People's Republic of),8,2012
+KOR,Korea,CHN,China (People's Republic of),41,2012
+USA,United States,CHN,China (People's Republic of),62,2012
+CAN,Canada,CHN,China (People's Republic of),0,2013
+CHN,China (People's Republic of),CHN,China (People's Republic of),280,2013
+EU27,EU27,CHN,China (People's Republic of),1,2013
+GBR,United Kingdom,CHN,China (People's Republic of),0,2013
+ISR,Israel,CHN,China (People's Republic of),13,2013
+USA,United States,CHN,China (People's Republic of),100,2013
+CAN,Canada,CHN,China (People's Republic of),3,2014
+CHN,China (People's Republic of),CHN,China (People's Republic of),2184,2014
+EU27,EU27,CHN,China (People's Republic of),0,2014
+GBR,United Kingdom,CHN,China (People's Republic of),22,2014
+IND,India,CHN,China (People's Republic of),0,2014
+ISR,Israel,CHN,China (People's Republic of),12,2014
+USA,United States,CHN,China (People's Republic of),1862,2014
+CAN,Canada,CHN,China (People's Republic of),5,2015
+CHN,China (People's Republic of),CHN,China (People's Republic of),6465,2015
+DEU,Germany,CHN,China (People's Republic of),30,2015
+EU27,EU27,CHN,China (People's Republic of),31,2015
+GBR,United Kingdom,CHN,China (People's Republic of),21,2015
+IND,India,CHN,China (People's Republic of),17,2015
+ISR,Israel,CHN,China (People's Republic of),13,2015
+USA,United States,CHN,China (People's Republic of),1535,2015
+CAN,Canada,CHN,China (People's Republic of),2,2016
+CHN,China (People's Republic of),CHN,China (People's Republic of),14126,2016
+EU27,EU27,CHN,China (People's Republic of),23,2016
+FRA,France,CHN,China (People's Republic of),21,2016
+GBR,United Kingdom,CHN,China (People's Republic of),37,2016
+IND,India,CHN,China (People's Republic of),42,2016
+ISR,Israel,CHN,China (People's Republic of),22,2016
+USA,United States,CHN,China (People's Republic of),1816,2016
+CAN,Canada,CHN,China (People's Republic of),33,2017
+CHN,China (People's Republic of),CHN,China (People's Republic of),17387,2017
+EU27,EU27,CHN,China (People's Republic of),2,2017
+GBR,United Kingdom,CHN,China (People's Republic of),156,2017
+IND,India,CHN,China (People's Republic of),54,2017
+ISR,Israel,CHN,China (People's Republic of),69,2017
+KOR,Korea,CHN,China (People's Republic of),4,2017
+USA,United States,CHN,China (People's Republic of),1411,2017
+CAN,Canada,CHN,China (People's Republic of),23,2018
+CHN,China (People's Republic of),CHN,China (People's Republic of),23293,2018
+DEU,Germany,CHN,China (People's Republic of),43,2018
+EU27,EU27,CHN,China (People's Republic of),53,2018
+FRA,France,CHN,China (People's Republic of),4,2018
+GBR,United Kingdom,CHN,China (People's Republic of),92,2018
+IND,India,CHN,China (People's Republic of),33,2018
+ISR,Israel,CHN,China (People's Republic of),50,2018
+KOR,Korea,CHN,China (People's Republic of),32,2018
+USA,United States,CHN,China (People's Republic of),1691,2018
+KOR,Korea,CHN,China (People's Republic of),53,2019
+IND,India,CHN,China (People's Republic of),64,2019
+CAN,Canada,CHN,China (People's Republic of),11,2019
+CHN,China (People's Republic of),CHN,China (People's Republic of),19407,2019
+DEU,Germany,CHN,China (People's Republic of),15,2019
+EU27,EU27,CHN,China (People's Republic of),50,2019
+FRA,France,CHN,China (People's Republic of),5,2019
+USA,United States,CHN,China (People's Republic of),929,2019
+GBR,United Kingdom,CHN,China (People's Republic of),155,2019
+ISR,Israel,CHN,China (People's Republic of),86,2019
+GBR,United Kingdom,CHN,China (People's Republic of),66,2020
+IND,India,CHN,China (People's Republic of),91,2020
+CAN,Canada,CHN,China (People's Republic of),99,2020
+CHN,China (People's Republic of),CHN,China (People's Republic of),23857,2020
+DEU,Germany,CHN,China (People's Republic of),10,2020
+EU27,EU27,CHN,China (People's Republic of),37,2020
+FRA,France,CHN,China (People's Republic of),10,2020
+ISR,Israel,CHN,China (People's Republic of),232,2020
+USA,United States,CHN,China (People's Republic of),1264,2020
+CAN,Canada,CHN,China (People's Republic of),90,2021
+CHN,China (People's Republic of),CHN,China (People's Republic of),36092,2021
+DEU,Germany,CHN,China (People's Republic of),286,2021
+EU27,EU27,CHN,China (People's Republic of),436,2021
+FRA,France,CHN,China (People's Republic of),14,2021
+GBR,United Kingdom,CHN,China (People's Republic of),331,2021
+IND,India,CHN,China (People's Republic of),221,2021
+ISR,Israel,CHN,China (People's Republic of),39,2021
+KOR,Korea,CHN,China (People's Republic of),68,2021
+USA,United States,CHN,China (People's Republic of),2011,2021
+GBR,United Kingdom,CHN,China (People's Republic of),210,2022
+CHN,China (People's Republic of),CHN,China (People's Republic of),19712,2022
+DEU,Germany,CHN,China (People's Republic of),12,2022
+EU27,EU27,CHN,China (People's Republic of),110,2022
+FRA,France,CHN,China (People's Republic of),30,2022
+CAN,Canada,CHN,China (People's Republic of),39,2022
+IND,India,CHN,China (People's Republic of),42,2022
+ISR,Israel,CHN,China (People's Republic of),101,2022
+KOR,Korea,CHN,China (People's Republic of),48,2022
+USA,United States,CHN,China (People's Republic of),1294,2022
+CAN,Canada,CHN,China (People's Republic of),23,2023
+CHN,China (People's Republic of),CHN,China (People's Republic of),13789,2023
+DEU,Germany,CHN,China (People's Republic of),19,2023
+EU27,EU27,CHN,China (People's Republic of),63,2023
+FRA,France,CHN,China (People's Republic of),23,2023
+GBR,United Kingdom,CHN,China (People's Republic of),85,2023
+IND,India,CHN,China (People's Republic of),38,2023
+ISR,Israel,CHN,China (People's Republic of),29,2023
+KOR,Korea,CHN,China (People's Republic of),15,2023
+USA,United States,CHN,China (People's Republic of),689,2023
+CAN,Canada,CHN,China (People's Republic of),7,2024
+CHN,China (People's Republic of),CHN,China (People's Republic of),13128,2024
+DEU,Germany,CHN,China (People's Republic of),11,2024
+EU27,EU27,CHN,China (People's Republic of),43,2024
+FRA,France,CHN,China (People's Republic of),2,2024
+GBR,United Kingdom,CHN,China (People's Republic of),55,2024
+IND,India,CHN,China (People's Republic of),23,2024
+ISR,Israel,CHN,China (People's Republic of),21,2024
+KOR,Korea,CHN,China (People's Republic of),85,2024
+USA,United States,CHN,China (People's Republic of),682,2024
+CAN,Canada,CHN,China (People's Republic of),16,2025
+CHN,China (People's Republic of),CHN,China (People's Republic of),10246,2025
+DEU,Germany,CHN,China (People's Republic of),70,2025
+EU27,EU27,CHN,China (People's Republic of),82,2025
+GBR,United Kingdom,CHN,China (People's Republic of),5033,2025
+IND,India,CHN,China (People's Republic of),10,2025
+ISR,Israel,CHN,China (People's Republic of),45,2025
+KOR,Korea,CHN,China (People's Republic of),21,2025
+USA,United States,CHN,China (People's Republic of),965,2025
+CHN,China (People's Republic of),GBR,United Kingdom,12,2012
+EU27,EU27,GBR,United Kingdom,3,2012
+FRA,France,GBR,United Kingdom,0,2012
+GBR,United Kingdom,GBR,United Kingdom,112,2012
+ISR,Israel,GBR,United Kingdom,36,2012
+USA,United States,GBR,United Kingdom,375,2012
+CAN,Canada,GBR,United Kingdom,1,2013
+CHN,China (People's Republic of),GBR,United Kingdom,3,2013
+DEU,Germany,GBR,United Kingdom,13,2013
+EU27,EU27,GBR,United Kingdom,16,2013
+GBR,United Kingdom,GBR,United Kingdom,118,2013
+IND,India,GBR,United Kingdom,15,2013
+ISR,Israel,GBR,United Kingdom,7,2013
+USA,United States,GBR,United Kingdom,299,2013
+CAN,Canada,GBR,United Kingdom,1,2014
+CHN,China (People's Republic of),GBR,United Kingdom,5,2014
+DEU,Germany,GBR,United Kingdom,18,2014
+EU27,EU27,GBR,United Kingdom,196,2014
+FRA,France,GBR,United Kingdom,9,2014
+GBR,United Kingdom,GBR,United Kingdom,149,2014
+IND,India,GBR,United Kingdom,3,2014
+ISR,Israel,GBR,United Kingdom,6,2014
+USA,United States,GBR,United Kingdom,987,2014
+ISR,Israel,GBR,United Kingdom,10,2015
+CHN,China (People's Republic of),GBR,United Kingdom,3,2015
+DEU,Germany,GBR,United Kingdom,61,2015
+EU27,EU27,GBR,United Kingdom,147,2015
+FRA,France,GBR,United Kingdom,43,2015
+GBR,United Kingdom,GBR,United Kingdom,269,2015
+IND,India,GBR,United Kingdom,30,2015
+CAN,Canada,GBR,United Kingdom,23,2015
+KOR,Korea,GBR,United Kingdom,3,2015
+USA,United States,GBR,United Kingdom,870,2015
+USA,United States,GBR,United Kingdom,625,2016
+CHN,China (People's Republic of),GBR,United Kingdom,7,2016
+DEU,Germany,GBR,United Kingdom,40,2016
+EU27,EU27,GBR,United Kingdom,128,2016
+FRA,France,GBR,United Kingdom,22,2016
+GBR,United Kingdom,GBR,United Kingdom,351,2016
+IND,India,GBR,United Kingdom,42,2016
+ISR,Israel,GBR,United Kingdom,22,2016
+KOR,Korea,GBR,United Kingdom,0,2016
+CAN,Canada,GBR,United Kingdom,14,2016
+FRA,France,GBR,United Kingdom,33,2017
+CHN,China (People's Republic of),GBR,United Kingdom,276,2017
+DEU,Germany,GBR,United Kingdom,50,2017
+EU27,EU27,GBR,United Kingdom,176,2017
+CAN,Canada,GBR,United Kingdom,5,2017
+GBR,United Kingdom,GBR,United Kingdom,641,2017
+IND,India,GBR,United Kingdom,5,2017
+ISR,Israel,GBR,United Kingdom,45,2017
+USA,United States,GBR,United Kingdom,2454,2017
+CAN,Canada,GBR,United Kingdom,6,2018
+CHN,China (People's Republic of),GBR,United Kingdom,2197,2018
+DEU,Germany,GBR,United Kingdom,128,2018
+EU27,EU27,GBR,United Kingdom,349,2018
+FRA,France,GBR,United Kingdom,59,2018
+GBR,United Kingdom,GBR,United Kingdom,900,2018
+IND,India,GBR,United Kingdom,44,2018
+ISR,Israel,GBR,United Kingdom,49,2018
+USA,United States,GBR,United Kingdom,5151,2018
+EU27,EU27,GBR,United Kingdom,811,2019
+GBR,United Kingdom,GBR,United Kingdom,1244,2019
+FRA,France,GBR,United Kingdom,104,2019
+IND,India,GBR,United Kingdom,40,2019
+DEU,Germany,GBR,United Kingdom,344,2019
+CHN,China (People's Republic of),GBR,United Kingdom,323,2019
+CAN,Canada,GBR,United Kingdom,45,2019
+ISR,Israel,GBR,United Kingdom,131,2019
+USA,United States,GBR,United Kingdom,4527,2019
+GBR,United Kingdom,GBR,United Kingdom,1226,2020
+CHN,China (People's Republic of),GBR,United Kingdom,1975,2020
+DEU,Germany,GBR,United Kingdom,227,2020
+EU27,EU27,GBR,United Kingdom,670,2020
+FRA,France,GBR,United Kingdom,149,2020
+CAN,Canada,GBR,United Kingdom,47,2020
+IND,India,GBR,United Kingdom,259,2020
+ISR,Israel,GBR,United Kingdom,84,2020
+USA,United States,GBR,United Kingdom,4069,2020
+CAN,Canada,GBR,United Kingdom,571,2021
+CHN,China (People's Republic of),GBR,United Kingdom,1505,2021
+DEU,Germany,GBR,United Kingdom,624,2021
+EU27,EU27,GBR,United Kingdom,2611,2021
+FRA,France,GBR,United Kingdom,832,2021
+GBR,United Kingdom,GBR,United Kingdom,3657,2021
+IND,India,GBR,United Kingdom,646,2021
+ISR,Israel,GBR,United Kingdom,456,2021
+KOR,Korea,GBR,United Kingdom,176,2021
+USA,United States,GBR,United Kingdom,11168,2021
+IND,India,GBR,United Kingdom,533,2022
+CHN,China (People's Republic of),GBR,United Kingdom,321,2022
+DEU,Germany,GBR,United Kingdom,619,2022
+EU27,EU27,GBR,United Kingdom,2216,2022
+FRA,France,GBR,United Kingdom,351,2022
+GBR,United Kingdom,GBR,United Kingdom,2353,2022
+CAN,Canada,GBR,United Kingdom,241,2022
+ISR,Israel,GBR,United Kingdom,303,2022
+KOR,Korea,GBR,United Kingdom,8,2022
+USA,United States,GBR,United Kingdom,3500,2022
+CAN,Canada,GBR,United Kingdom,328,2023
+CHN,China (People's Republic of),GBR,United Kingdom,140,2023
+DEU,Germany,GBR,United Kingdom,286,2023
+EU27,EU27,GBR,United Kingdom,998,2023
+FRA,France,GBR,United Kingdom,228,2023
+GBR,United Kingdom,GBR,United Kingdom,1201,2023
+IND,India,GBR,United Kingdom,166,2023
+ISR,Israel,GBR,United Kingdom,100,2023
+KOR,Korea,GBR,United Kingdom,1,2023
+USA,United States,GBR,United Kingdom,4321,2023
+CAN,Canada,GBR,United Kingdom,322,2024
+CHN,China (People's Republic of),GBR,United Kingdom,307,2024
+DEU,Germany,GBR,United Kingdom,429,2024
+EU27,EU27,GBR,United Kingdom,1363,2024
+FRA,France,GBR,United Kingdom,234,2024
+GBR,United Kingdom,GBR,United Kingdom,1956,2024
+IND,India,GBR,United Kingdom,89,2024
+ISR,Israel,GBR,United Kingdom,48,2024
+KOR,Korea,GBR,United Kingdom,5,2024
+USA,United States,GBR,United Kingdom,5399,2024
+CAN,Canada,GBR,United Kingdom,44,2025
+CHN,China (People's Republic of),GBR,United Kingdom,522,2025
+DEU,Germany,GBR,United Kingdom,594,2025
+EU27,EU27,GBR,United Kingdom,2083,2025
+FRA,France,GBR,United Kingdom,502,2025
+GBR,United Kingdom,GBR,United Kingdom,2003,2025
+IND,India,GBR,United Kingdom,135,2025
+ISR,Israel,GBR,United Kingdom,314,2025
+KOR,Korea,GBR,United Kingdom,63,2025
+USA,United States,GBR,United Kingdom,14758,2025
+CAN,Canada,CAN,Canada,122,2012
+USA,United States,CAN,Canada,42,2012
+CAN,Canada,CAN,Canada,153,2013
+GBR,United Kingdom,CAN,Canada,2,2013
+USA,United States,CAN,Canada,57,2013
+CAN,Canada,CAN,Canada,164,2014
+GBR,United Kingdom,CAN,Canada,3,2014
+USA,United States,CAN,Canada,222,2014
+CAN,Canada,CAN,Canada,196,2015
+IND,India,CAN,Canada,1,2015
+ISR,Israel,CAN,Canada,0,2015
+USA,United States,CAN,Canada,156,2015
+CAN,Canada,CAN,Canada,289,2016
+GBR,United Kingdom,CAN,Canada,0,2016
+IND,India,CAN,Canada,2,2016
+USA,United States,CAN,Canada,98,2016
+ISR,Israel,CAN,Canada,18,2017
+GBR,United Kingdom,CAN,Canada,1,2017
+IND,India,CAN,Canada,2,2017
+CAN,Canada,CAN,Canada,434,2017
+USA,United States,CAN,Canada,598,2017
+CAN,Canada,CAN,Canada,596,2018
+CHN,China (People's Republic of),CAN,Canada,205,2018
+DEU,Germany,CAN,Canada,15,2018
+EU27,EU27,CAN,Canada,195,2018
+FRA,France,CAN,Canada,0,2018
+GBR,United Kingdom,CAN,Canada,5,2018
+IND,India,CAN,Canada,31,2018
+ISR,Israel,CAN,Canada,42,2018
+USA,United States,CAN,Canada,696,2018
+CAN,Canada,CAN,Canada,858,2019
+CHN,China (People's Republic of),CAN,Canada,1,2019
+EU27,EU27,CAN,Canada,5,2019
+FRA,France,CAN,Canada,2,2019
+GBR,United Kingdom,CAN,Canada,11,2019
+IND,India,CAN,Canada,33,2019
+ISR,Israel,CAN,Canada,54,2019
+USA,United States,CAN,Canada,1214,2019
+ISR,Israel,CAN,Canada,52,2020
+IND,India,CAN,Canada,7,2020
+CAN,Canada,CAN,Canada,779,2020
+CHN,China (People's Republic of),CAN,Canada,500,2020
+DEU,Germany,CAN,Canada,47,2020
+EU27,EU27,CAN,Canada,51,2020
+USA,United States,CAN,Canada,1872,2020
+GBR,United Kingdom,CAN,Canada,194,2020
+IND,India,CAN,Canada,109,2021
+ISR,Israel,CAN,Canada,89,2021
+CAN,Canada,CAN,Canada,1713,2021
+CHN,China (People's Republic of),CAN,Canada,0,2021
+EU27,EU27,CAN,Canada,64,2021
+GBR,United Kingdom,CAN,Canada,144,2021
+USA,United States,CAN,Canada,4707,2021
+CAN,Canada,CAN,Canada,942,2022
+CHN,China (People's Republic of),CAN,Canada,13,2022
+DEU,Germany,CAN,Canada,9,2022
+EU27,EU27,CAN,Canada,294,2022
+FRA,France,CAN,Canada,80,2022
+GBR,United Kingdom,CAN,Canada,169,2022
+IND,India,CAN,Canada,283,2022
+ISR,Israel,CAN,Canada,261,2022
+KOR,Korea,CAN,Canada,2,2022
+USA,United States,CAN,Canada,1865,2022
+DEU,Germany,CAN,Canada,5,2023
+CAN,Canada,CAN,Canada,844,2023
+EU27,EU27,CAN,Canada,15,2023
+FRA,France,CAN,Canada,7,2023
+GBR,United Kingdom,CAN,Canada,55,2023
+IND,India,CAN,Canada,112,2023
+ISR,Israel,CAN,Canada,13,2023
+USA,United States,CAN,Canada,1777,2023
+IND,India,CAN,Canada,102,2024
+CHN,China (People's Republic of),CAN,Canada,0,2024
+DEU,Germany,CAN,Canada,110,2024
+EU27,EU27,CAN,Canada,130,2024
+FRA,France,CAN,Canada,5,2024
+GBR,United Kingdom,CAN,Canada,56,2024
+CAN,Canada,CAN,Canada,1144,2024
+ISR,Israel,CAN,Canada,13,2024
+USA,United States,CAN,Canada,2762,2024
+CAN,Canada,CAN,Canada,993,2025
+CHN,China (People's Republic of),CAN,Canada,14,2025
+DEU,Germany,CAN,Canada,4,2025
+EU27,EU27,CAN,Canada,59,2025
+FRA,France,CAN,Canada,0,2025
+GBR,United Kingdom,CAN,Canada,127,2025
+IND,India,CAN,Canada,43,2025
+ISR,Israel,CAN,Canada,55,2025
+KOR,Korea,CAN,Canada,9,2025
+USA,United States,CAN,Canada,6295,2025
+CAN,Canada,KOR,Korea,2,2012
+KOR,Korea,KOR,Korea,55,2012
+KOR,Korea,KOR,Korea,16,2013
+USA,United States,KOR,Korea,68,2013
+GBR,United Kingdom,KOR,Korea,0,2014
+KOR,Korea,KOR,Korea,60,2014
+USA,United States,KOR,Korea,19,2014
+CHN,China (People's Republic of),KOR,Korea,8,2015
+EU27,EU27,KOR,Korea,1,2015
+GBR,United Kingdom,KOR,Korea,2,2015
+ISR,Israel,KOR,Korea,4,2015
+KOR,Korea,KOR,Korea,89,2015
+USA,United States,KOR,Korea,17,2015
+IND,India,KOR,Korea,0,2016
+ISR,Israel,KOR,Korea,2,2016
+KOR,Korea,KOR,Korea,123,2016
+USA,United States,KOR,Korea,64,2016
+GBR,United Kingdom,KOR,Korea,8,2017
+CHN,China (People's Republic of),KOR,Korea,218,2017
+EU27,EU27,KOR,Korea,1,2017
+FRA,France,KOR,Korea,0,2017
+CAN,Canada,KOR,Korea,25,2017
+ISR,Israel,KOR,Korea,34,2017
+KOR,Korea,KOR,Korea,404,2017
+USA,United States,KOR,Korea,76,2017
+ISR,Israel,KOR,Korea,36,2018
+DEU,Germany,KOR,Korea,4,2018
+EU27,EU27,KOR,Korea,4,2018
+GBR,United Kingdom,KOR,Korea,31,2018
+IND,India,KOR,Korea,9,2018
+CHN,China (People's Republic of),KOR,Korea,227,2018
+KOR,Korea,KOR,Korea,595,2018
+USA,United States,KOR,Korea,429,2018
+CAN,Canada,KOR,Korea,50,2019
+CHN,China (People's Republic of),KOR,Korea,269,2019
+EU27,EU27,KOR,Korea,4,2019
+FRA,France,KOR,Korea,1,2019
+GBR,United Kingdom,KOR,Korea,1,2019
+IND,India,KOR,Korea,35,2019
+ISR,Israel,KOR,Korea,42,2019
+KOR,Korea,KOR,Korea,903,2019
+USA,United States,KOR,Korea,323,2019
+GBR,United Kingdom,KOR,Korea,9,2020
+USA,United States,KOR,Korea,529,2020
+KOR,Korea,KOR,Korea,1110,2020
+ISR,Israel,KOR,Korea,29,2020
+IND,India,KOR,Korea,14,2020
+FRA,France,KOR,Korea,3,2020
+EU27,EU27,KOR,Korea,14,2020
+DEU,Germany,KOR,Korea,10,2020
+CHN,China (People's Republic of),KOR,Korea,288,2020
+CAN,Canada,KOR,Korea,4,2020
+CAN,Canada,KOR,Korea,64,2021
+CHN,China (People's Republic of),KOR,Korea,392,2021
+EU27,EU27,KOR,Korea,13,2021
+FRA,France,KOR,Korea,4,2021
+IND,India,KOR,Korea,14,2021
+ISR,Israel,KOR,Korea,92,2021
+KOR,Korea,KOR,Korea,3148,2021
+USA,United States,KOR,Korea,1001,2021
+CAN,Canada,KOR,Korea,120,2022
+CHN,China (People's Republic of),KOR,Korea,567,2022
+EU27,EU27,KOR,Korea,7,2022
+FRA,France,KOR,Korea,2,2022
+GBR,United Kingdom,KOR,Korea,14,2022
+IND,India,KOR,Korea,28,2022
+ISR,Israel,KOR,Korea,51,2022
+KOR,Korea,KOR,Korea,3403,2022
+USA,United States,KOR,Korea,773,2022
+CAN,Canada,KOR,Korea,55,2023
+CHN,China (People's Republic of),KOR,Korea,24,2023
+DEU,Germany,KOR,Korea,3,2023
+EU27,EU27,KOR,Korea,3,2023
+IND,India,KOR,Korea,11,2023
+ISR,Israel,KOR,Korea,3,2023
+KOR,Korea,KOR,Korea,2217,2023
+USA,United States,KOR,Korea,1104,2023
+CAN,Canada,KOR,Korea,115,2024
+DEU,Germany,KOR,Korea,1,2024
+EU27,EU27,KOR,Korea,77,2024
+FRA,France,KOR,Korea,72,2024
+GBR,United Kingdom,KOR,Korea,16,2024
+IND,India,KOR,Korea,46,2024
+ISR,Israel,KOR,Korea,10,2024
+KOR,Korea,KOR,Korea,2123,2024
+USA,United States,KOR,Korea,995,2024
+CHN,China (People's Republic of),KOR,Korea,1,2025
+DEU,Germany,KOR,Korea,4,2025
+EU27,EU27,KOR,Korea,16,2025
+FRA,France,KOR,Korea,12,2025
+GBR,United Kingdom,KOR,Korea,8,2025
+IND,India,KOR,Korea,26,2025
+ISR,Israel,KOR,Korea,18,2025
+KOR,Korea,KOR,Korea,1505,2025
+USA,United States,KOR,Korea,1286,2025
+IND,India,JPN,Japan,50,2012
+USA,United States,JPN,Japan,27,2012
+IND,India,JPN,Japan,1,2013
+KOR,Korea,JPN,Japan,2,2013
+USA,United States,JPN,Japan,86,2013
+EU27,EU27,JPN,Japan,1,2014
+FRA,France,JPN,Japan,1,2014
+IND,India,JPN,Japan,0,2014
+KOR,Korea,JPN,Japan,3,2014
+USA,United States,JPN,Japan,113,2014
+GBR,United Kingdom,JPN,Japan,4,2015
+CHN,China (People's Republic of),JPN,Japan,0,2015
+EU27,EU27,JPN,Japan,3,2015
+CAN,Canada,JPN,Japan,2,2015
+IND,India,JPN,Japan,8,2015
+ISR,Israel,JPN,Japan,2,2015
+USA,United States,JPN,Japan,618,2015
+CAN,Canada,JPN,Japan,17,2016
+CHN,China (People's Republic of),JPN,Japan,0,2016
+DEU,Germany,JPN,Japan,11,2016
+EU27,EU27,JPN,Japan,12,2016
+FRA,France,JPN,Japan,0,2016
+GBR,United Kingdom,JPN,Japan,14,2016
+IND,India,JPN,Japan,6,2016
+ISR,Israel,JPN,Japan,12,2016
+KOR,Korea,JPN,Japan,1,2016
+USA,United States,JPN,Japan,282,2016
+CHN,China (People's Republic of),JPN,Japan,3842,2017
+CAN,Canada,JPN,Japan,25,2017
+DEU,Germany,JPN,Japan,1,2017
+EU27,EU27,JPN,Japan,12,2017
+FRA,France,JPN,Japan,5,2017
+GBR,United Kingdom,JPN,Japan,132,2017
+IND,India,JPN,Japan,7,2017
+ISR,Israel,JPN,Japan,23,2017
+KOR,Korea,JPN,Japan,148,2017
+USA,United States,JPN,Japan,869,2017
+GBR,United Kingdom,JPN,Japan,14,2018
+CHN,China (People's Republic of),JPN,Japan,195,2018
+DEU,Germany,JPN,Japan,5,2018
+EU27,EU27,JPN,Japan,9,2018
+FRA,France,JPN,Japan,4,2018
+CAN,Canada,JPN,Japan,3,2018
+IND,India,JPN,Japan,24,2018
+ISR,Israel,JPN,Japan,59,2018
+KOR,Korea,JPN,Japan,8,2018
+USA,United States,JPN,Japan,2504,2018
+CAN,Canada,JPN,Japan,21,2019
+CHN,China (People's Republic of),JPN,Japan,891,2019
+DEU,Germany,JPN,Japan,16,2019
+EU27,EU27,JPN,Japan,34,2019
+FRA,France,JPN,Japan,6,2019
+GBR,United Kingdom,JPN,Japan,61,2019
+IND,India,JPN,Japan,35,2019
+ISR,Israel,JPN,Japan,42,2019
+KOR,Korea,JPN,Japan,2,2019
+USA,United States,JPN,Japan,1894,2019
+CAN,Canada,JPN,Japan,1,2020
+CHN,China (People's Republic of),JPN,Japan,56,2020
+DEU,Germany,JPN,Japan,2,2020
+EU27,EU27,JPN,Japan,17,2020
+FRA,France,JPN,Japan,6,2020
+GBR,United Kingdom,JPN,Japan,25,2020
+IND,India,JPN,Japan,15,2020
+ISR,Israel,JPN,Japan,85,2020
+KOR,Korea,JPN,Japan,17,2020
+USA,United States,JPN,Japan,2285,2020
+CAN,Canada,JPN,Japan,43,2021
+CHN,China (People's Republic of),JPN,Japan,200,2021
+DEU,Germany,JPN,Japan,106,2021
+EU27,EU27,JPN,Japan,134,2021
+GBR,United Kingdom,JPN,Japan,85,2021
+IND,India,JPN,Japan,25,2021
+ISR,Israel,JPN,Japan,208,2021
+KOR,Korea,JPN,Japan,5,2021
+USA,United States,JPN,Japan,2096,2021
+CAN,Canada,JPN,Japan,17,2022
+CHN,China (People's Republic of),JPN,Japan,45,2022
+DEU,Germany,JPN,Japan,16,2022
+EU27,EU27,JPN,Japan,112,2022
+FRA,France,JPN,Japan,7,2022
+GBR,United Kingdom,JPN,Japan,45,2022
+IND,India,JPN,Japan,13,2022
+ISR,Israel,JPN,Japan,33,2022
+KOR,Korea,JPN,Japan,134,2022
+USA,United States,JPN,Japan,1759,2022
+CAN,Canada,JPN,Japan,39,2023
+CHN,China (People's Republic of),JPN,Japan,15,2023
+EU27,EU27,JPN,Japan,8,2023
+FRA,France,JPN,Japan,0,2023
+GBR,United Kingdom,JPN,Japan,9,2023
+IND,India,JPN,Japan,58,2023
+ISR,Israel,JPN,Japan,49,2023
+KOR,Korea,JPN,Japan,18,2023
+USA,United States,JPN,Japan,1693,2023
+CAN,Canada,JPN,Japan,283,2024
+CHN,China (People's Republic of),JPN,Japan,32,2024
+DEU,Germany,JPN,Japan,13,2024
+EU27,EU27,JPN,Japan,47,2024
+FRA,France,JPN,Japan,11,2024
+GBR,United Kingdom,JPN,Japan,29,2024
+IND,India,JPN,Japan,30,2024
+ISR,Israel,JPN,Japan,13,2024
+KOR,Korea,JPN,Japan,73,2024
+USA,United States,JPN,Japan,1279,2024
+CAN,Canada,JPN,Japan,6,2025
+CHN,China (People's Republic of),JPN,Japan,10,2025
+DEU,Germany,JPN,Japan,43,2025
+EU27,EU27,JPN,Japan,82,2025
+FRA,France,JPN,Japan,4,2025
+GBR,United Kingdom,JPN,Japan,12,2025
+IND,India,JPN,Japan,89,2025
+ISR,Israel,JPN,Japan,54,2025
+KOR,Korea,JPN,Japan,38,2025
+USA,United States,JPN,Japan,1081,2025
+CAN,Canada,DEU,Germany,6,2012
+DEU,Germany,DEU,Germany,29,2012
+USA,United States,DEU,Germany,17,2012
+CAN,Canada,DEU,Germany,3,2013
+DEU,Germany,DEU,Germany,43,2013
+USA,United States,DEU,Germany,38,2013
+CAN,Canada,DEU,Germany,16,2014
+DEU,Germany,DEU,Germany,137,2014
+GBR,United Kingdom,DEU,Germany,9,2014
+USA,United States,DEU,Germany,76,2014
+CAN,Canada,DEU,Germany,2,2015
+DEU,Germany,DEU,Germany,122,2015
+FRA,France,DEU,Germany,5,2015
+GBR,United Kingdom,DEU,Germany,12,2015
+ISR,Israel,DEU,Germany,13,2015
+USA,United States,DEU,Germany,330,2015
+CAN,Canada,DEU,Germany,8,2016
+DEU,Germany,DEU,Germany,144,2016
+FRA,France,DEU,Germany,5,2016
+GBR,United Kingdom,DEU,Germany,24,2016
+IND,India,DEU,Germany,0,2016
+ISR,Israel,DEU,Germany,3,2016
+USA,United States,DEU,Germany,128,2016
+CAN,Canada,DEU,Germany,39,2017
+CHN,China (People's Republic of),DEU,Germany,208,2017
+DEU,Germany,DEU,Germany,298,2017
+FRA,France,DEU,Germany,22,2017
+GBR,United Kingdom,DEU,Germany,117,2017
+IND,India,DEU,Germany,0,2017
+ISR,Israel,DEU,Germany,37,2017
+USA,United States,DEU,Germany,703,2017
+CAN,Canada,DEU,Germany,7,2018
+CHN,China (People's Republic of),DEU,Germany,0,2018
+DEU,Germany,DEU,Germany,325,2018
+FRA,France,DEU,Germany,39,2018
+GBR,United Kingdom,DEU,Germany,92,2018
+IND,India,DEU,Germany,15,2018
+ISR,Israel,DEU,Germany,49,2018
+USA,United States,DEU,Germany,564,2018
+CAN,Canada,DEU,Germany,46,2019
+CHN,China (People's Republic of),DEU,Germany,21,2019
+DEU,Germany,DEU,Germany,534,2019
+FRA,France,DEU,Germany,71,2019
+GBR,United Kingdom,DEU,Germany,93,2019
+IND,India,DEU,Germany,1,2019
+ISR,Israel,DEU,Germany,38,2019
+USA,United States,DEU,Germany,1502,2019
+CHN,China (People's Republic of),DEU,Germany,112,2020
+DEU,Germany,DEU,Germany,558,2020
+CAN,Canada,DEU,Germany,45,2020
+FRA,France,DEU,Germany,17,2020
+GBR,United Kingdom,DEU,Germany,98,2020
+IND,India,DEU,Germany,2,2020
+ISR,Israel,DEU,Germany,26,2020
+USA,United States,DEU,Germany,2402,2020
+CAN,Canada,DEU,Germany,201,2021
+CHN,China (People's Republic of),DEU,Germany,353,2021
+DEU,Germany,DEU,Germany,1361,2021
+FRA,France,DEU,Germany,53,2021
+GBR,United Kingdom,DEU,Germany,143,2021
+IND,India,DEU,Germany,16,2021
+ISR,Israel,DEU,Germany,183,2021
+KOR,Korea,DEU,Germany,1,2021
+USA,United States,DEU,Germany,1610,2021
+USA,United States,DEU,Germany,1027,2022
+CHN,China (People's Republic of),DEU,Germany,138,2022
+DEU,Germany,DEU,Germany,1173,2022
+FRA,France,DEU,Germany,113,2022
+GBR,United Kingdom,DEU,Germany,259,2022
+IND,India,DEU,Germany,25,2022
+ISR,Israel,DEU,Germany,164,2022
+KOR,Korea,DEU,Germany,55,2022
+CAN,Canada,DEU,Germany,98,2022
+CAN,Canada,DEU,Germany,62,2023
+CHN,China (People's Republic of),DEU,Germany,0,2023
+DEU,Germany,DEU,Germany,1010,2023
+FRA,France,DEU,Germany,140,2023
+GBR,United Kingdom,DEU,Germany,97,2023
+IND,India,DEU,Germany,3,2023
+ISR,Israel,DEU,Germany,15,2023
+USA,United States,DEU,Germany,531,2023
+CAN,Canada,DEU,Germany,40,2024
+CHN,China (People's Republic of),DEU,Germany,0,2024
+DEU,Germany,DEU,Germany,885,2024
+FRA,France,DEU,Germany,290,2024
+GBR,United Kingdom,DEU,Germany,139,2024
+IND,India,DEU,Germany,4,2024
+ISR,Israel,DEU,Germany,1,2024
+USA,United States,DEU,Germany,1774,2024
+CAN,Canada,DEU,Germany,5,2025
+CHN,China (People's Republic of),DEU,Germany,307,2025
+DEU,Germany,DEU,Germany,835,2025
+FRA,France,DEU,Germany,91,2025
+GBR,United Kingdom,DEU,Germany,620,2025
+IND,India,DEU,Germany,3,2025
+ISR,Israel,DEU,Germany,60,2025
+USA,United States,DEU,Germany,944,2025
+EU27,EU27,ARE,United Arab Emirates,0,2012
+GBR,United Kingdom,ARE,United Arab Emirates,7,2012
+IND,India,ARE,United Arab Emirates,10,2012
+USA,United States,ARE,United Arab Emirates,1,2012
+GBR,United Kingdom,ARE,United Arab Emirates,15,2013
+USA,United States,ARE,United Arab Emirates,13,2013
+USA,United States,ARE,United Arab Emirates,54,2014
+EU27,EU27,ARE,United Arab Emirates,1,2015
+FRA,France,ARE,United Arab Emirates,1,2015
+GBR,United Kingdom,ARE,United Arab Emirates,1,2015
+IND,India,ARE,United Arab Emirates,2,2015
+USA,United States,ARE,United Arab Emirates,6,2015
+DEU,Germany,ARE,United Arab Emirates,0,2016
+EU27,EU27,ARE,United Arab Emirates,0,2016
+GBR,United Kingdom,ARE,United Arab Emirates,7,2016
+USA,United States,ARE,United Arab Emirates,56,2016
+IND,India,ARE,United Arab Emirates,5,2017
+CHN,China (People's Republic of),ARE,United Arab Emirates,2000,2017
+GBR,United Kingdom,ARE,United Arab Emirates,3,2017
+CAN,Canada,ARE,United Arab Emirates,1,2017
+USA,United States,ARE,United Arab Emirates,132,2017
+CAN,Canada,ARE,United Arab Emirates,0,2018
+EU27,EU27,ARE,United Arab Emirates,2,2018
+FRA,France,ARE,United Arab Emirates,2,2018
+GBR,United Kingdom,ARE,United Arab Emirates,0,2018
+IND,India,ARE,United Arab Emirates,3,2018
+USA,United States,ARE,United Arab Emirates,234,2018
+CHN,China (People's Republic of),ARE,United Arab Emirates,66,2019
+DEU,Germany,ARE,United Arab Emirates,0,2019
+EU27,EU27,ARE,United Arab Emirates,1,2019
+GBR,United Kingdom,ARE,United Arab Emirates,35,2019
+IND,India,ARE,United Arab Emirates,2,2019
+USA,United States,ARE,United Arab Emirates,162,2019
+CAN,Canada,ARE,United Arab Emirates,0,2020
+CHN,China (People's Republic of),ARE,United Arab Emirates,133,2020
+EU27,EU27,ARE,United Arab Emirates,10,2020
+GBR,United Kingdom,ARE,United Arab Emirates,8,2020
+IND,India,ARE,United Arab Emirates,7,2020
+USA,United States,ARE,United Arab Emirates,1228,2020
+DEU,Germany,ARE,United Arab Emirates,36,2021
+EU27,EU27,ARE,United Arab Emirates,37,2021
+GBR,United Kingdom,ARE,United Arab Emirates,236,2021
+CHN,China (People's Republic of),ARE,United Arab Emirates,302,2021
+IND,India,ARE,United Arab Emirates,52,2021
+ISR,Israel,ARE,United Arab Emirates,12,2021
+KOR,Korea,ARE,United Arab Emirates,3,2021
+USA,United States,ARE,United Arab Emirates,1706,2021
+CAN,Canada,ARE,United Arab Emirates,1,2022
+CHN,China (People's Republic of),ARE,United Arab Emirates,0,2022
+DEU,Germany,ARE,United Arab Emirates,12,2022
+EU27,EU27,ARE,United Arab Emirates,249,2022
+FRA,France,ARE,United Arab Emirates,56,2022
+GBR,United Kingdom,ARE,United Arab Emirates,90,2022
+IND,India,ARE,United Arab Emirates,37,2022
+ISR,Israel,ARE,United Arab Emirates,4,2022
+KOR,Korea,ARE,United Arab Emirates,56,2022
+USA,United States,ARE,United Arab Emirates,497,2022
+GBR,United Kingdom,ARE,United Arab Emirates,21,2023
+DEU,Germany,ARE,United Arab Emirates,4,2023
+EU27,EU27,ARE,United Arab Emirates,20,2023
+FRA,France,ARE,United Arab Emirates,8,2023
+CHN,China (People's Republic of),ARE,United Arab Emirates,873,2023
+IND,India,ARE,United Arab Emirates,27,2023
+KOR,Korea,ARE,United Arab Emirates,11,2023
+USA,United States,ARE,United Arab Emirates,220,2023
+GBR,United Kingdom,ARE,United Arab Emirates,11,2024
+CHN,China (People's Republic of),ARE,United Arab Emirates,3,2024
+DEU,Germany,ARE,United Arab Emirates,1,2024
+EU27,EU27,ARE,United Arab Emirates,5,2024
+FRA,France,ARE,United Arab Emirates,0,2024
+CAN,Canada,ARE,United Arab Emirates,2,2024
+IND,India,ARE,United Arab Emirates,29,2024
+KOR,Korea,ARE,United Arab Emirates,50,2024
+USA,United States,ARE,United Arab Emirates,5736,2024
+CAN,Canada,ARE,United Arab Emirates,1,2025
+DEU,Germany,ARE,United Arab Emirates,2,2025
+EU27,EU27,ARE,United Arab Emirates,14,2025
+FRA,France,ARE,United Arab Emirates,6,2025
+GBR,United Kingdom,ARE,United Arab Emirates,39,2025
+IND,India,ARE,United Arab Emirates,11,2025
+ISR,Israel,ARE,United Arab Emirates,17,2025
+USA,United States,ARE,United Arab Emirates,2731,2025
+DEU,Germany,FRA,France,1,2012
+FRA,France,FRA,France,90,2012
+ISR,Israel,FRA,France,27,2012
+USA,United States,FRA,France,35,2012
+CAN,Canada,FRA,France,3,2013
+DEU,Germany,FRA,France,5,2013
+FRA,France,FRA,France,54,2013
+GBR,United Kingdom,FRA,France,5,2013
+ISR,Israel,FRA,France,2,2013
+USA,United States,FRA,France,36,2013
+DEU,Germany,FRA,France,2,2014
+FRA,France,FRA,France,52,2014
+GBR,United Kingdom,FRA,France,2,2014
+IND,India,FRA,France,0,2014
+ISR,Israel,FRA,France,0,2014
+USA,United States,FRA,France,63,2014
+DEU,Germany,FRA,France,18,2015
+FRA,France,FRA,France,113,2015
+GBR,United Kingdom,FRA,France,11,2015
+ISR,Israel,FRA,France,2,2015
+USA,United States,FRA,France,122,2015
+CAN,Canada,FRA,France,16,2016
+DEU,Germany,FRA,France,8,2016
+FRA,France,FRA,France,122,2016
+GBR,United Kingdom,FRA,France,21,2016
+ISR,Israel,FRA,France,2,2016
+USA,United States,FRA,France,197,2016
+CAN,Canada,FRA,France,28,2017
+CHN,China (People's Republic of),FRA,France,15,2017
+DEU,Germany,FRA,France,13,2017
+FRA,France,FRA,France,325,2017
+GBR,United Kingdom,FRA,France,34,2017
+ISR,Israel,FRA,France,20,2017
+USA,United States,FRA,France,188,2017
+CAN,Canada,FRA,France,1,2018
+CHN,China (People's Republic of),FRA,France,126,2018
+DEU,Germany,FRA,France,33,2018
+FRA,France,FRA,France,365,2018
+GBR,United Kingdom,FRA,France,61,2018
+IND,India,FRA,France,6,2018
+ISR,Israel,FRA,France,21,2018
+USA,United States,FRA,France,469,2018
+USA,United States,FRA,France,491,2019
+KOR,Korea,FRA,France,0,2019
+CAN,Canada,FRA,France,23,2019
+CHN,China (People's Republic of),FRA,France,82,2019
+DEU,Germany,FRA,France,87,2019
+FRA,France,FRA,France,480,2019
+GBR,United Kingdom,FRA,France,49,2019
+IND,India,FRA,France,17,2019
+ISR,Israel,FRA,France,43,2019
+ISR,Israel,FRA,France,37,2020
+USA,United States,FRA,France,554,2020
+CAN,Canada,FRA,France,8,2020
+CHN,China (People's Republic of),FRA,France,123,2020
+DEU,Germany,FRA,France,51,2020
+FRA,France,FRA,France,700,2020
+GBR,United Kingdom,FRA,France,45,2020
+IND,India,FRA,France,1,2020
+CAN,Canada,FRA,France,65,2021
+CHN,China (People's Republic of),FRA,France,257,2021
+DEU,Germany,FRA,France,103,2021
+FRA,France,FRA,France,1061,2021
+GBR,United Kingdom,FRA,France,160,2021
+IND,India,FRA,France,9,2021
+ISR,Israel,FRA,France,42,2021
+KOR,Korea,FRA,France,1,2021
+USA,United States,FRA,France,1539,2021
+GBR,United Kingdom,FRA,France,275,2022
+CHN,China (People's Republic of),FRA,France,131,2022
+DEU,Germany,FRA,France,68,2022
+FRA,France,FRA,France,1424,2022
+CAN,Canada,FRA,France,68,2022
+ISR,Israel,FRA,France,92,2022
+USA,United States,FRA,France,342,2022
+CAN,Canada,FRA,France,16,2023
+CHN,China (People's Republic of),FRA,France,21,2023
+DEU,Germany,FRA,France,39,2023
+FRA,France,FRA,France,828,2023
+GBR,United Kingdom,FRA,France,68,2023
+IND,India,FRA,France,5,2023
+ISR,Israel,FRA,France,16,2023
+USA,United States,FRA,France,290,2023
+DEU,Germany,FRA,France,177,2024
+CHN,China (People's Republic of),FRA,France,124,2024
+CAN,Canada,FRA,France,28,2024
+FRA,France,FRA,France,900,2024
+GBR,United Kingdom,FRA,France,74,2024
+IND,India,FRA,France,0,2024
+ISR,Israel,FRA,France,6,2024
+KOR,Korea,FRA,France,31,2024
+USA,United States,FRA,France,565,2024
+CAN,Canada,FRA,France,14,2025
+CHN,China (People's Republic of),FRA,France,126,2025
+DEU,Germany,FRA,France,263,2025
+FRA,France,FRA,France,967,2025
+GBR,United Kingdom,FRA,France,81,2025
+IND,India,FRA,France,30,2025
+ISR,Israel,FRA,France,53,2025
+KOR,Korea,FRA,France,60,2025
+USA,United States,FRA,France,498,2025
+IND,India,IND,India,14,2012
+USA,United States,IND,India,3,2012
+GBR,United Kingdom,IND,India,1,2013
+IND,India,IND,India,56,2013
+USA,United States,IND,India,53,2013
+IND,India,IND,India,12,2014
+USA,United States,IND,India,149,2014
+GBR,United Kingdom,IND,India,110,2015
+IND,India,IND,India,140,2015
+USA,United States,IND,India,249,2015
+CHN,China (People's Republic of),IND,India,3,2016
+EU27,EU27,IND,India,2,2016
+IND,India,IND,India,127,2016
+ISR,Israel,IND,India,2,2016
+USA,United States,IND,India,98,2016
+IND,India,IND,India,122,2017
+EU27,EU27,IND,India,1,2017
+GBR,United Kingdom,IND,India,1,2017
+DEU,Germany,IND,India,1,2017
+ISR,Israel,IND,India,2,2017
+USA,United States,IND,India,77,2017
+CAN,Canada,IND,India,4,2018
+CHN,China (People's Republic of),IND,India,1,2018
+EU27,EU27,IND,India,0,2018
+FRA,France,IND,India,0,2018
+GBR,United Kingdom,IND,India,7,2018
+IND,India,IND,India,446,2018
+KOR,Korea,IND,India,1,2018
+USA,United States,IND,India,538,2018
+CAN,Canada,IND,India,6,2019
+CHN,China (People's Republic of),IND,India,19,2019
+DEU,Germany,IND,India,6,2019
+EU27,EU27,IND,India,9,2019
+GBR,United Kingdom,IND,India,12,2019
+IND,India,IND,India,401,2019
+ISR,Israel,IND,India,8,2019
+USA,United States,IND,India,185,2019
+EU27,EU27,IND,India,1,2020
+IND,India,IND,India,565,2020
+GBR,United Kingdom,IND,India,2,2020
+ISR,Israel,IND,India,19,2020
+CHN,China (People's Republic of),IND,India,17,2020
+CAN,Canada,IND,India,0,2020
+USA,United States,IND,India,145,2020
+CAN,Canada,IND,India,5,2021
+CHN,China (People's Republic of),IND,India,36,2021
+DEU,Germany,IND,India,3,2021
+EU27,EU27,IND,India,9,2021
+FRA,France,IND,India,2,2021
+GBR,United Kingdom,IND,India,13,2021
+IND,India,IND,India,1029,2021
+ISR,Israel,IND,India,7,2021
+KOR,Korea,IND,India,15,2021
+USA,United States,IND,India,720,2021
+GBR,United Kingdom,IND,India,27,2022
+CHN,China (People's Republic of),IND,India,20,2022
+DEU,Germany,IND,India,12,2022
+EU27,EU27,IND,India,15,2022
+FRA,France,IND,India,2,2022
+CAN,Canada,IND,India,6,2022
+IND,India,IND,India,1592,2022
+ISR,Israel,IND,India,22,2022
+KOR,Korea,IND,India,0,2022
+USA,United States,IND,India,633,2022
+USA,United States,IND,India,250,2023
+GBR,United Kingdom,IND,India,40,2023
+IND,India,IND,India,656,2023
+EU27,EU27,IND,India,7,2023
+EU27,EU27,IND,India,9,2024
+FRA,France,IND,India,2,2024
+GBR,United Kingdom,IND,India,16,2024
+IND,India,IND,India,681,2024
+ISR,Israel,IND,India,5,2024
+USA,United States,IND,India,771,2024
+EU27,EU27,IND,India,50,2025
+FRA,France,IND,India,2,2025
+GBR,United Kingdom,IND,India,11,2025
+IND,India,IND,India,992,2025
+ISR,Israel,IND,India,41,2025
+USA,United States,IND,India,1283,2025

@@ -1,0 +1,74 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Consumer services,VC,5.58,2012
+USA,United States,Consumer services,VC,64.7,2013
+USA,United States,Consumer services,VC,82.48,2014
+USA,United States,Consumer services,VC,26.978055,2015
+USA,United States,Consumer services,VC,17.456944,2016
+USA,United States,Consumer services,VC,179.70000000000002,2017
+USA,United States,Consumer services,VC,165.6,2018
+USA,United States,Consumer services,VC,700.56,2019
+USA,United States,Consumer services,VC,410.09999799999997,2020
+USA,United States,Consumer services,VC,4103.895229,2021
+USA,United States,Consumer services,VC,102.2,2022
+USA,United States,Consumer services,VC,141.372418,2023
+USA,United States,Consumer services,VC,89.232484,2024
+USA,United States,Consumer services,VC,342.149916,2025
+CHN,China (People's Republic of),Consumer services,VC,4.722659,2014
+CHN,China (People's Republic of),Consumer services,VC,41.782665,2015
+CHN,China (People's Republic of),Consumer services,VC,84.09482349999999,2016
+CHN,China (People's Republic of),Consumer services,VC,184.490276,2017
+CHN,China (People's Republic of),Consumer services,VC,431.167873,2018
+CHN,China (People's Republic of),Consumer services,VC,1141.555498,2019
+CHN,China (People's Republic of),Consumer services,VC,0,2020
+CHN,China (People's Republic of),Consumer services,VC,1268.367967,2021
+CHN,China (People's Republic of),Consumer services,VC,58.230692999999995,2022
+CHN,China (People's Republic of),Consumer services,VC,129.236875,2023
+CHN,China (People's Republic of),Consumer services,VC,59.992515,2024
+CHN,China (People's Republic of),Consumer services,VC,131.70065499999998,2025
+IND,India,Consumer services,VC,0.236268,2014
+IND,India,Consumer services,VC,9.899557,2015
+IND,India,Consumer services,VC,10.759079,2016
+IND,India,Consumer services,VC,0.585519,2017
+IND,India,Consumer services,VC,21.139527,2018
+IND,India,Consumer services,VC,53.565296,2019
+IND,India,Consumer services,VC,0.714112,2020
+IND,India,Consumer services,VC,5.11087,2021
+IND,India,Consumer services,VC,28.392792,2022
+IND,India,Consumer services,VC,101.2,2024
+IND,India,Consumer services,VC,54.750581000000004,2025
+KOR,Korea,Consumer services,VC,0.438001,2012
+KOR,Korea,Consumer services,VC,0.27149,2013
+KOR,Korea,Consumer services,VC,3.316907,2015
+KOR,Korea,Consumer services,VC,7.739385,2016
+KOR,Korea,Consumer services,VC,3.330905,2017
+KOR,Korea,Consumer services,VC,1.735408,2018
+KOR,Korea,Consumer services,VC,3.9966685,2019
+KOR,Korea,Consumer services,VC,3.398853,2020
+KOR,Korea,Consumer services,VC,30.512875500000003,2021
+KOR,Korea,Consumer services,VC,53.570333,2022
+KOR,Korea,Consumer services,VC,4.454863,2023
+KOR,Korea,Consumer services,VC,32.606417,2024
+KOR,Korea,Consumer services,VC,57.4208145,2025
+GBR,United Kingdom,Consumer services,VC,1.823638,2016
+GBR,United Kingdom,Consumer services,VC,3.5048690000000002,2019
+GBR,United Kingdom,Consumer services,VC,13.308463,2020
+GBR,United Kingdom,Consumer services,VC,2.323451,2021
+GBR,United Kingdom,Consumer services,VC,1.826096,2022
+GBR,United Kingdom,Consumer services,VC,11.42868,2024
+GBR,United Kingdom,Consumer services,VC,8.101386999999999,2025
+DEU,Germany,Consumer services,VC,0,2019
+DEU,Germany,Consumer services,VC,1.690643,2020
+DEU,Germany,Consumer services,VC,2.7,2021
+DEU,Germany,Consumer services,VC,36.354494,2025
+FRA,France,Consumer services,VC,0.246133,2016
+FRA,France,Consumer services,VC,1.637136,2017
+FRA,France,Consumer services,VC,6.970864,2019
+FRA,France,Consumer services,VC,1.138447,2020
+FRA,France,Consumer services,VC,0.522976,2023
+JPN,Japan,Consumer services,VC,0,2020
+JPN,Japan,Consumer services,VC,2.3358670000000004,2022
+JPN,Japan,Consumer services,VC,1.659153,2023
+JPN,Japan,Consumer services,VC,1.97113,2024
+JPN,Japan,Consumer services,VC,0,2025
+CAN,Canada,Consumer services,VC,2.5,2016
+CAN,Canada,Consumer services,VC,1.5,2019

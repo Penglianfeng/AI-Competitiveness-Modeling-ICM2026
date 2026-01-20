@@ -1,0 +1,115 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Other,VC,782.825071,2012
+USA,United States,Other,VC,1046.173841,2013
+USA,United States,Other,VC,1685.812144,2014
+USA,United States,Other,VC,2652.881634,2015
+USA,United States,Other,VC,3422.519222,2016
+USA,United States,Other,VC,5150.666608,2017
+USA,United States,Other,VC,7332.510804,2018
+USA,United States,Other,VC,10703.636739,2019
+USA,United States,Other,VC,11696.484408,2020
+USA,United States,Other,VC,28175.728702,2021
+USA,United States,Other,VC,17064.727942,2022
+USA,United States,Other,VC,9429.910698,2023
+USA,United States,Other,VC,9146.136564,2024
+USA,United States,Other,VC,12356.7508435,2025
+CHN,China (People's Republic of),Other,VC,26.699247,2012
+CHN,China (People's Republic of),Other,VC,77.924502,2013
+CHN,China (People's Republic of),Other,VC,172.037645,2014
+CHN,China (People's Republic of),Other,VC,519.363828,2015
+CHN,China (People's Republic of),Other,VC,868.024944,2016
+CHN,China (People's Republic of),Other,VC,1718.8590125,2017
+CHN,China (People's Republic of),Other,VC,2485.858872,2018
+CHN,China (People's Republic of),Other,VC,2948.20469,2019
+CHN,China (People's Republic of),Other,VC,2879.3609305,2020
+CHN,China (People's Republic of),Other,VC,13974.785625499999,2021
+CHN,China (People's Republic of),Other,VC,4070.134797,2022
+CHN,China (People's Republic of),Other,VC,1180.392862,2023
+CHN,China (People's Republic of),Other,VC,1209.115172,2024
+CHN,China (People's Republic of),Other,VC,1141.99848,2025
+GBR,United Kingdom,Other,VC,18.514279,2012
+GBR,United Kingdom,Other,VC,47.1168745,2013
+GBR,United Kingdom,Other,VC,77.621642,2014
+GBR,United Kingdom,Other,VC,109.50048650000001,2015
+GBR,United Kingdom,Other,VC,209.2753155,2016
+GBR,United Kingdom,Other,VC,560.7219485,2017
+GBR,United Kingdom,Other,VC,772.0701765,2018
+GBR,United Kingdom,Other,VC,1178.0783825,2019
+GBR,United Kingdom,Other,VC,1250.6894275,2020
+GBR,United Kingdom,Other,VC,2771.0628,2021
+GBR,United Kingdom,Other,VC,3479.785897,2022
+GBR,United Kingdom,Other,VC,1286.777217,2023
+GBR,United Kingdom,Other,VC,1677.762224,2024
+GBR,United Kingdom,Other,VC,920.543514,2025
+DEU,Germany,Other,VC,5.25,2012
+DEU,Germany,Other,VC,15.540923,2013
+DEU,Germany,Other,VC,16.732006,2014
+DEU,Germany,Other,VC,50.5844595,2015
+DEU,Germany,Other,VC,70.26135000000001,2016
+DEU,Germany,Other,VC,176.33897000000002,2017
+DEU,Germany,Other,VC,424.9588415,2018
+DEU,Germany,Other,VC,788.515188,2019
+DEU,Germany,Other,VC,813.3521925,2020
+DEU,Germany,Other,VC,1971.826191,2021
+DEU,Germany,Other,VC,1149.1316325,2022
+DEU,Germany,Other,VC,297.2293455,2023
+DEU,Germany,Other,VC,337.643276,2024
+DEU,Germany,Other,VC,246.869175,2025
+CAN,Canada,Other,VC,21,2012
+CAN,Canada,Other,VC,21.8086245,2013
+CAN,Canada,Other,VC,56.297157,2014
+CAN,Canada,Other,VC,124.958324,2015
+CAN,Canada,Other,VC,136.54758,2016
+CAN,Canada,Other,VC,303.84743,2017
+CAN,Canada,Other,VC,468.3552265,2018
+CAN,Canada,Other,VC,549.2285045,2019
+CAN,Canada,Other,VC,584.0600365,2020
+CAN,Canada,Other,VC,1402.6350195,2021
+CAN,Canada,Other,VC,797.541155,2022
+CAN,Canada,Other,VC,507.61777,2023
+CAN,Canada,Other,VC,101.83981800000001,2024
+CAN,Canada,Other,VC,291.351041,2025
+FRA,France,Other,VC,18.694942,2012
+FRA,France,Other,VC,15.241639,2013
+FRA,France,Other,VC,14.930447000000001,2014
+FRA,France,Other,VC,69.3085785,2015
+FRA,France,Other,VC,62.876678,2016
+FRA,France,Other,VC,196.47047,2017
+FRA,France,Other,VC,272.203833,2018
+FRA,France,Other,VC,360.5612645,2019
+FRA,France,Other,VC,455.100974,2020
+FRA,France,Other,VC,629.3142780000001,2021
+FRA,France,Other,VC,589.567548,2022
+FRA,France,Other,VC,441.9716835,2023
+FRA,France,Other,VC,617.400924,2024
+FRA,France,Other,VC,199.854089,2025
+JPN,Japan,Other,VC,7.901618,2012
+JPN,Japan,Other,VC,21.218981,2013
+JPN,Japan,Other,VC,30.565528,2014
+JPN,Japan,Other,VC,79.6831235,2015
+JPN,Japan,Other,VC,95.111832,2016
+JPN,Japan,Other,VC,189.903842,2017
+JPN,Japan,Other,VC,379.5441515,2018
+JPN,Japan,Other,VC,586.8172865,2019
+JPN,Japan,Other,VC,524.872445,2020
+JPN,Japan,Other,VC,413.201154,2021
+JPN,Japan,Other,VC,727.736193,2022
+JPN,Japan,Other,VC,291.991055,2023
+JPN,Japan,Other,VC,228.260256,2024
+JPN,Japan,Other,VC,141.373461,2025
+KOR,Korea,Other,VC,3.5,2017
+KOR,Korea,Other,VC,9.572104,2018
+KOR,Korea,Other,VC,27.94,2019
+KOR,Korea,Other,VC,11.553276,2020
+KOR,Korea,Other,VC,137.7011,2022
+KOR,Korea,Other,VC,4.906591,2023
+KOR,Korea,Other,VC,33,2024
+KOR,Korea,Other,VC,12.001767,2025
+IND,India,Other,VC,0.487533,2015
+IND,India,Other,VC,2.69789,2017
+IND,India,Other,VC,0.5,2018
+IND,India,Other,VC,0.3458,2019
+IND,India,Other,VC,5,2020
+IND,India,Other,VC,3.604266,2021
+IND,India,Other,VC,18.633885,2022
+IND,India,Other,VC,8.5,2023

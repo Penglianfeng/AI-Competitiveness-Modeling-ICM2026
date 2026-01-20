@@ -1,0 +1,124 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+CHN,China (People's Republic of),Education and training,VC,17.377316,2013
+CHN,China (People's Republic of),Education and training,VC,81.50298,2014
+CHN,China (People's Republic of),Education and training,VC,139.875905,2015
+CHN,China (People's Republic of),Education and training,VC,407.909314,2016
+CHN,China (People's Republic of),Education and training,VC,910.3051955,2017
+CHN,China (People's Republic of),Education and training,VC,2213.3673870000002,2018
+CHN,China (People's Republic of),Education and training,VC,848.446747,2019
+CHN,China (People's Republic of),Education and training,VC,3568.2600310000003,2020
+CHN,China (People's Republic of),Education and training,VC,602.942876,2021
+CHN,China (People's Republic of),Education and training,VC,250.7982585,2022
+CHN,China (People's Republic of),Education and training,VC,81.68038899999999,2023
+CHN,China (People's Republic of),Education and training,VC,10.546015,2024
+CHN,China (People's Republic of),Education and training,VC,42.65768,2025
+USA,United States,Education and training,VC,129.78,2012
+USA,United States,Education and training,VC,164.65,2013
+USA,United States,Education and training,VC,377.205001,2014
+USA,United States,Education and training,VC,468.63,2015
+USA,United States,Education and training,VC,336.854251,2016
+USA,United States,Education and training,VC,207.06,2017
+USA,United States,Education and training,VC,392.590752,2018
+USA,United States,Education and training,VC,463.435267,2019
+USA,United States,Education and training,VC,742.038954,2020
+USA,United States,Education and training,VC,1610.306414,2021
+USA,United States,Education and training,VC,501.123295,2022
+USA,United States,Education and training,VC,276.957572,2023
+USA,United States,Education and training,VC,639.484739,2024
+USA,United States,Education and training,VC,1126.372993,2025
+IND,India,Education and training,VC,5.145197,2012
+IND,India,Education and training,VC,7.0421305,2013
+IND,India,Education and training,VC,0.563911,2014
+IND,India,Education and training,VC,28.246059,2015
+IND,India,Education and training,VC,14.569086500000001,2016
+IND,India,Education and training,VC,53.120546999999995,2017
+IND,India,Education and training,VC,82.500389,2018
+IND,India,Education and training,VC,203.679067,2019
+IND,India,Education and training,VC,190.28454,2020
+IND,India,Education and training,VC,603.9930455,2021
+IND,India,Education and training,VC,510.7772165,2022
+IND,India,Education and training,VC,162.375518,2023
+IND,India,Education and training,VC,75.371633,2024
+IND,India,Education and training,VC,107.891463,2025
+GBR,United Kingdom,Education and training,VC,5.534718999999999,2012
+GBR,United Kingdom,Education and training,VC,0.822383,2013
+GBR,United Kingdom,Education and training,VC,1.773419,2014
+GBR,United Kingdom,Education and training,VC,6.377732,2015
+GBR,United Kingdom,Education and training,VC,6.594005,2016
+GBR,United Kingdom,Education and training,VC,11.859385,2017
+GBR,United Kingdom,Education and training,VC,26.179312,2018
+GBR,United Kingdom,Education and training,VC,30.7274325,2019
+GBR,United Kingdom,Education and training,VC,33.225958000000006,2020
+GBR,United Kingdom,Education and training,VC,469.494808,2021
+GBR,United Kingdom,Education and training,VC,475.416707,2022
+GBR,United Kingdom,Education and training,VC,188.188678,2023
+GBR,United Kingdom,Education and training,VC,38.896061,2024
+GBR,United Kingdom,Education and training,VC,40.209817,2025
+KOR,Korea,Education and training,VC,1.346172,2012
+KOR,Korea,Education and training,VC,1.8630689999999999,2013
+KOR,Korea,Education and training,VC,4.9755139999999995,2014
+KOR,Korea,Education and training,VC,8.335222,2015
+KOR,Korea,Education and training,VC,4.916261,2016
+KOR,Korea,Education and training,VC,14.424726,2017
+KOR,Korea,Education and training,VC,36.5014025,2018
+KOR,Korea,Education and training,VC,64.478932,2019
+KOR,Korea,Education and training,VC,108.889234,2020
+KOR,Korea,Education and training,VC,385.7070795,2021
+KOR,Korea,Education and training,VC,212.63195,2022
+KOR,Korea,Education and training,VC,101.058634,2023
+KOR,Korea,Education and training,VC,54.516169,2024
+KOR,Korea,Education and training,VC,50.67945,2025
+DEU,Germany,Education and training,VC,10,2013
+DEU,Germany,Education and training,VC,18.2902525,2014
+DEU,Germany,Education and training,VC,27,2015
+DEU,Germany,Education and training,VC,2.751432,2017
+DEU,Germany,Education and training,VC,8.529078,2018
+DEU,Germany,Education and training,VC,2.298352,2019
+DEU,Germany,Education and training,VC,25.79606,2020
+DEU,Germany,Education and training,VC,46.658844,2021
+DEU,Germany,Education and training,VC,45.701179,2022
+DEU,Germany,Education and training,VC,29.234828,2023
+DEU,Germany,Education and training,VC,39.208166,2024
+DEU,Germany,Education and training,VC,66.071855,2025
+CAN,Canada,Education and training,VC,83.604136,2012
+CAN,Canada,Education and training,VC,6.327769,2013
+CAN,Canada,Education and training,VC,90.9,2014
+CAN,Canada,Education and training,VC,4.2,2015
+CAN,Canada,Education and training,VC,8.73,2016
+CAN,Canada,Education and training,VC,16,2018
+CAN,Canada,Education and training,VC,4.715732,2019
+CAN,Canada,Education and training,VC,4.520362,2020
+CAN,Canada,Education and training,VC,5.9264425,2021
+CAN,Canada,Education and training,VC,14.574924,2022
+CAN,Canada,Education and training,VC,41.003847,2023
+CAN,Canada,Education and training,VC,4.76703,2024
+FRA,France,Education and training,VC,1.656909,2012
+FRA,France,Education and training,VC,2.6294259999999996,2013
+FRA,France,Education and training,VC,0.026885,2014
+FRA,France,Education and training,VC,1.5279120000000002,2015
+FRA,France,Education and training,VC,6.665379,2016
+FRA,France,Education and training,VC,1.254112,2017
+FRA,France,Education and training,VC,62.6077775,2018
+FRA,France,Education and training,VC,26.227628,2019
+FRA,France,Education and training,VC,24.797706,2020
+FRA,France,Education and training,VC,79.491253,2021
+FRA,France,Education and training,VC,2.881101,2022
+FRA,France,Education and training,VC,8.055621,2023
+FRA,France,Education and training,VC,14.744318,2024
+FRA,France,Education and training,VC,47.981252999999995,2025
+JPN,Japan,Education and training,VC,3.779332,2012
+JPN,Japan,Education and training,VC,4.0631129999999995,2013
+JPN,Japan,Education and training,VC,8.594393,2014
+JPN,Japan,Education and training,VC,14.84879,2015
+JPN,Japan,Education and training,VC,1.490379,2016
+JPN,Japan,Education and training,VC,10.833594999999999,2017
+JPN,Japan,Education and training,VC,6.3810875,2018
+JPN,Japan,Education and training,VC,4.3090910000000004,2019
+JPN,Japan,Education and training,VC,7.119294,2020
+JPN,Japan,Education and training,VC,16.664571,2021
+JPN,Japan,Education and training,VC,31.968759,2022
+JPN,Japan,Education and training,VC,59.801178,2023
+JPN,Japan,Education and training,VC,27.149481,2024
+JPN,Japan,Education and training,VC,43.5123225,2025
+ARE,United Arab Emirates,Education and training,VC,2,2022
+ARE,United Arab Emirates,Education and training,VC,6.3,2024

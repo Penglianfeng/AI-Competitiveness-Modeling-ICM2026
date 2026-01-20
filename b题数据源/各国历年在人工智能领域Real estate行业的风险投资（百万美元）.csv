@@ -1,0 +1,74 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Real estate,VC,1,2013
+USA,United States,Real estate,VC,16.7,2014
+USA,United States,Real estate,VC,4.235,2015
+USA,United States,Real estate,VC,16.02,2016
+USA,United States,Real estate,VC,87,2017
+USA,United States,Real estate,VC,91.22,2018
+USA,United States,Real estate,VC,444.052175,2019
+USA,United States,Real estate,VC,389,2020
+USA,United States,Real estate,VC,724.605962,2021
+USA,United States,Real estate,VC,149.75,2022
+USA,United States,Real estate,VC,57.111267999999995,2023
+USA,United States,Real estate,VC,92.191717,2024
+USA,United States,Real estate,VC,66.401056,2025
+CHN,China (People's Republic of),Real estate,VC,0,2014
+CHN,China (People's Republic of),Real estate,VC,1,2015
+CHN,China (People's Republic of),Real estate,VC,5,2016
+CHN,China (People's Republic of),Real estate,VC,307.846879,2017
+CHN,China (People's Republic of),Real estate,VC,230.471955,2018
+CHN,China (People's Republic of),Real estate,VC,276,2022
+IND,India,Real estate,VC,0.198744,2015
+IND,India,Real estate,VC,426,2018
+IND,India,Real estate,VC,0.710749,2019
+IND,India,Real estate,VC,21.287619,2020
+IND,India,Real estate,VC,6.494062,2021
+IND,India,Real estate,VC,3.5731230000000003,2022
+IND,India,Real estate,VC,6.516431,2024
+IND,India,Real estate,VC,57.700773,2025
+DEU,Germany,Real estate,VC,0,2015
+DEU,Germany,Real estate,VC,10.437776,2016
+DEU,Germany,Real estate,VC,18.547773,2017
+DEU,Germany,Real estate,VC,94.43112049999999,2019
+DEU,Germany,Real estate,VC,46.757717,2020
+DEU,Germany,Real estate,VC,75.652964,2022
+DEU,Germany,Real estate,VC,60.65127350000001,2023
+DEU,Germany,Real estate,VC,14.885557,2024
+FRA,France,Real estate,VC,0.11702,2019
+FRA,France,Real estate,VC,6.644349999999999,2020
+FRA,France,Real estate,VC,1.637813,2021
+FRA,France,Real estate,VC,26.41787,2022
+FRA,France,Real estate,VC,8.5095755,2023
+FRA,France,Real estate,VC,108.283704,2024
+KOR,Korea,Real estate,VC,1.383974,2014
+KOR,Korea,Real estate,VC,3.448918,2016
+KOR,Korea,Real estate,VC,26.584816,2019
+KOR,Korea,Real estate,VC,10.220702,2020
+KOR,Korea,Real estate,VC,80.24034999999999,2021
+KOR,Korea,Real estate,VC,25.678192000000003,2022
+KOR,Korea,Real estate,VC,1.9316515,2024
+ARE,United Arab Emirates,Real estate,VC,4,2020
+ARE,United Arab Emirates,Real estate,VC,22.3,2021
+ARE,United Arab Emirates,Real estate,VC,37,2022
+ARE,United Arab Emirates,Real estate,VC,20,2023
+ARE,United Arab Emirates,Real estate,VC,2,2024
+ARE,United Arab Emirates,Real estate,VC,59,2025
+GBR,United Kingdom,Real estate,VC,0.562096,2015
+GBR,United Kingdom,Real estate,VC,1.398775,2020
+GBR,United Kingdom,Real estate,VC,57.750341999999996,2021
+GBR,United Kingdom,Real estate,VC,2.823787,2022
+GBR,United Kingdom,Real estate,VC,1.596492,2023
+GBR,United Kingdom,Real estate,VC,2.022762,2025
+JPN,Japan,Real estate,VC,2.774376,2016
+JPN,Japan,Real estate,VC,3.9230725,2018
+JPN,Japan,Real estate,VC,0.902796,2019
+JPN,Japan,Real estate,VC,4.128593,2020
+JPN,Japan,Real estate,VC,11.342291,2022
+JPN,Japan,Real estate,VC,13.330229,2023
+JPN,Japan,Real estate,VC,8.041316,2024
+JPN,Japan,Real estate,VC,10.31199,2025
+CAN,Canada,Real estate,VC,1.5,2019
+CAN,Canada,Real estate,VC,1.180923,2020
+CAN,Canada,Real estate,VC,2.523107,2021
+CAN,Canada,Real estate,VC,15.285426,2022
+CAN,Canada,Real estate,VC,12.620143,2024

@@ -1,0 +1,97 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Consumer products,VC,93.95,2012
+USA,United States,Consumer products,VC,78.376903,2013
+USA,United States,Consumer products,VC,727.435,2014
+USA,United States,Consumer products,VC,983.9088059999999,2015
+USA,United States,Consumer products,VC,187.03847199999998,2016
+USA,United States,Consumer products,VC,665.23,2017
+USA,United States,Consumer products,VC,583.674109,2018
+USA,United States,Consumer products,VC,337.717052,2019
+USA,United States,Consumer products,VC,603.089846,2020
+USA,United States,Consumer products,VC,1414.794498,2021
+USA,United States,Consumer products,VC,264.630921,2022
+USA,United States,Consumer products,VC,268.970541,2023
+USA,United States,Consumer products,VC,128.152188,2024
+USA,United States,Consumer products,VC,494.81415,2025
+CHN,China (People's Republic of),Consumer products,VC,5.098174,2012
+CHN,China (People's Republic of),Consumer products,VC,11.604705,2013
+CHN,China (People's Republic of),Consumer products,VC,20.071331,2014
+CHN,China (People's Republic of),Consumer products,VC,84.300577,2015
+CHN,China (People's Republic of),Consumer products,VC,346.24690549999997,2016
+CHN,China (People's Republic of),Consumer products,VC,81.952365,2017
+CHN,China (People's Republic of),Consumer products,VC,462.879587,2018
+CHN,China (People's Republic of),Consumer products,VC,180.991477,2019
+CHN,China (People's Republic of),Consumer products,VC,626.981132,2020
+CHN,China (People's Republic of),Consumer products,VC,307.4045085,2021
+CHN,China (People's Republic of),Consumer products,VC,820.1801795,2022
+CHN,China (People's Republic of),Consumer products,VC,357.392643,2023
+CHN,China (People's Republic of),Consumer products,VC,1531.5182029999999,2024
+CHN,China (People's Republic of),Consumer products,VC,660.007592,2025
+GBR,United Kingdom,Consumer products,VC,0.32,2013
+GBR,United Kingdom,Consumer products,VC,2.008208,2018
+GBR,United Kingdom,Consumer products,VC,0.65,2019
+GBR,United Kingdom,Consumer products,VC,6.408294,2020
+GBR,United Kingdom,Consumer products,VC,71.192722,2021
+GBR,United Kingdom,Consumer products,VC,305.84912,2022
+GBR,United Kingdom,Consumer products,VC,142.958697,2023
+GBR,United Kingdom,Consumer products,VC,22.760897999999997,2024
+GBR,United Kingdom,Consumer products,VC,244.40510799999998,2025
+IND,India,Consumer products,VC,0.9031199999999999,2013
+IND,India,Consumer products,VC,0.372468,2014
+IND,India,Consumer products,VC,8.530761,2015
+IND,India,Consumer products,VC,10.599368,2016
+IND,India,Consumer products,VC,5.241708,2017
+IND,India,Consumer products,VC,19.523728,2018
+IND,India,Consumer products,VC,22.245963,2019
+IND,India,Consumer products,VC,8.810057,2020
+IND,India,Consumer products,VC,62.151341,2021
+IND,India,Consumer products,VC,341.18140600000004,2022
+IND,India,Consumer products,VC,43.474059000000004,2023
+IND,India,Consumer products,VC,19.299174,2024
+IND,India,Consumer products,VC,74.523871,2025
+KOR,Korea,Consumer products,VC,0.057138,2014
+KOR,Korea,Consumer products,VC,1.263849,2015
+KOR,Korea,Consumer products,VC,1.9553895,2016
+KOR,Korea,Consumer products,VC,13.61425,2017
+KOR,Korea,Consumer products,VC,0.202268,2018
+KOR,Korea,Consumer products,VC,21.3082505,2019
+KOR,Korea,Consumer products,VC,42.780916,2020
+KOR,Korea,Consumer products,VC,135.364486,2021
+KOR,Korea,Consumer products,VC,169.424884,2022
+KOR,Korea,Consumer products,VC,99.076839,2023
+KOR,Korea,Consumer products,VC,109.376807,2024
+KOR,Korea,Consumer products,VC,20.6524675,2025
+JPN,Japan,Consumer products,VC,0.03,2015
+JPN,Japan,Consumer products,VC,6.200463000000001,2016
+JPN,Japan,Consumer products,VC,10.789351,2017
+JPN,Japan,Consumer products,VC,10.710875,2018
+JPN,Japan,Consumer products,VC,0.456956,2019
+JPN,Japan,Consumer products,VC,17.928533,2020
+JPN,Japan,Consumer products,VC,22.419224,2021
+JPN,Japan,Consumer products,VC,42.104374,2022
+JPN,Japan,Consumer products,VC,31.755457,2023
+JPN,Japan,Consumer products,VC,15.505567,2024
+JPN,Japan,Consumer products,VC,28.81145,2025
+FRA,France,Consumer products,VC,2.429005,2012
+FRA,France,Consumer products,VC,2.910877,2014
+FRA,France,Consumer products,VC,3.163396,2015
+FRA,France,Consumer products,VC,16.153436,2016
+FRA,France,Consumer products,VC,0.384325,2017
+FRA,France,Consumer products,VC,20.400682,2018
+FRA,France,Consumer products,VC,3.0705105,2019
+FRA,France,Consumer products,VC,8.335835,2020
+FRA,France,Consumer products,VC,3.5890429999999998,2022
+FRA,France,Consumer products,VC,3.1994145,2023
+FRA,France,Consumer products,VC,16.247007,2024
+DEU,Germany,Consumer products,VC,2.86083,2018
+DEU,Germany,Consumer products,VC,0.081123,2019
+DEU,Germany,Consumer products,VC,4.549061,2022
+DEU,Germany,Consumer products,VC,2.98354,2023
+DEU,Germany,Consumer products,VC,7.656746,2025
+CAN,Canada,Consumer products,VC,2,2017
+CAN,Canada,Consumer products,VC,8.301745,2023
+CAN,Canada,Consumer products,VC,4.121146,2025
+ARE,United Arab Emirates,Consumer products,VC,2.4,2018
+ARE,United Arab Emirates,Consumer products,VC,6,2019
+ARE,United Arab Emirates,Consumer products,VC,0.87,2020
+ARE,United Arab Emirates,Consumer products,VC,3.5,2021

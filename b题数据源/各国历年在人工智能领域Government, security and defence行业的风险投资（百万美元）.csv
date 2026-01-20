@@ -1,0 +1,44 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Government, security and defence,VC,45.1,2012
+USA,United States,Government, security and defence,VC,19.035,2013
+USA,United States,Government, security and defence,VC,5.33,2014
+USA,United States,Government, security and defence,VC,23.7,2015
+USA,United States,Government, security and defence,VC,44.98,2016
+USA,United States,Government, security and defence,VC,92.505,2017
+USA,United States,Government, security and defence,VC,114.811806,2018
+USA,United States,Government, security and defence,VC,242.930001,2019
+USA,United States,Government, security and defence,VC,333.97999999999996,2020
+USA,United States,Government, security and defence,VC,1096.97,2021
+USA,United States,Government, security and defence,VC,1680.049991,2022
+USA,United States,Government, security and defence,VC,179.267972,2023
+USA,United States,Government, security and defence,VC,1765.5254969999999,2024
+USA,United States,Government, security and defence,VC,3504.316527,2025
+DEU,Germany,Government, security and defence,VC,23.591075,2021
+DEU,Germany,Government, security and defence,VC,184.21748300000002,2022
+DEU,Germany,Government, security and defence,VC,293.814712,2023
+DEU,Germany,Government, security and defence,VC,544.741418,2024
+DEU,Germany,Government, security and defence,VC,1088.637064,2025
+CHN,China (People's Republic of),Government, security and defence,VC,0.30808,2016
+CHN,China (People's Republic of),Government, security and defence,VC,73.852845,2017
+CHN,China (People's Republic of),Government, security and defence,VC,183.115341,2018
+CHN,China (People's Republic of),Government, security and defence,VC,308.32102100000003,2019
+CHN,China (People's Republic of),Government, security and defence,VC,0,2020
+CHN,China (People's Republic of),Government, security and defence,VC,1.479873,2021
+CHN,China (People's Republic of),Government, security and defence,VC,30.689921,2022
+CHN,China (People's Republic of),Government, security and defence,VC,286.36101199999996,2024
+CHN,China (People's Republic of),Government, security and defence,VC,61.257902,2025
+IND,India,Government, security and defence,VC,5.89,2012
+IND,India,Government, security and defence,VC,0.448202,2016
+IND,India,Government, security and defence,VC,0.273999,2017
+IND,India,Government, security and defence,VC,0.345283,2018
+IND,India,Government, security and defence,VC,24.469172999999998,2019
+IND,India,Government, security and defence,VC,9.4456375,2022
+IND,India,Government, security and defence,VC,2.252157,2024
+IND,India,Government, security and defence,VC,33.664691000000005,2025
+GBR,United Kingdom,Government, security and defence,VC,1.265895,2017
+GBR,United Kingdom,Government, security and defence,VC,15.092285,2025
+FRA,France,Government, security and defence,VC,3.150668,2023
+FRA,France,Government, security and defence,VC,9.219709,2024
+CAN,Canada,Government, security and defence,VC,4,2025
+KOR,Korea,Government, security and defence,VC,1.7827435,2025
+JPN,Japan,Government, security and defence,VC,0.265731,2024

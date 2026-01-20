@@ -1,0 +1,106 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Energy, raw materials and utilities,VC,23.86,2012
+USA,United States,Energy, raw materials and utilities,VC,73.135,2013
+USA,United States,Energy, raw materials and utilities,VC,23.24,2014
+USA,United States,Energy, raw materials and utilities,VC,63.371265,2015
+USA,United States,Energy, raw materials and utilities,VC,29,2016
+USA,United States,Energy, raw materials and utilities,VC,138.26394499999998,2017
+USA,United States,Energy, raw materials and utilities,VC,179.364,2018
+USA,United States,Energy, raw materials and utilities,VC,194.29649,2019
+USA,United States,Energy, raw materials and utilities,VC,253.75849,2020
+USA,United States,Energy, raw materials and utilities,VC,676.861435,2021
+USA,United States,Energy, raw materials and utilities,VC,969.6456989999999,2022
+USA,United States,Energy, raw materials and utilities,VC,575.361405,2023
+USA,United States,Energy, raw materials and utilities,VC,936.875858,2024
+USA,United States,Energy, raw materials and utilities,VC,1309.5503125,2025
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,17.303259,2012
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,0.815067,2014
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,12.243678,2015
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,16.974909,2016
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,60.710059,2017
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,8,2018
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,64.711923,2019
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,351.814105,2020
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,1102.0492675,2021
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,754.151214,2022
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,1112.421078,2023
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,12.783942,2024
+CHN,China (People's Republic of),Energy, raw materials and utilities,VC,110.549324,2025
+DEU,Germany,Energy, raw materials and utilities,VC,1.560258,2017
+DEU,Germany,Energy, raw materials and utilities,VC,1.432777,2018
+DEU,Germany,Energy, raw materials and utilities,VC,10.124991999999999,2019
+DEU,Germany,Energy, raw materials and utilities,VC,5.403774,2020
+DEU,Germany,Energy, raw materials and utilities,VC,363.02224,2021
+DEU,Germany,Energy, raw materials and utilities,VC,186.679848,2022
+DEU,Germany,Energy, raw materials and utilities,VC,718.1507630000001,2023
+DEU,Germany,Energy, raw materials and utilities,VC,1234.245294,2024
+DEU,Germany,Energy, raw materials and utilities,VC,395.619899,2025
+CAN,Canada,Energy, raw materials and utilities,VC,8.5,2012
+CAN,Canada,Energy, raw materials and utilities,VC,16.883738,2013
+CAN,Canada,Energy, raw materials and utilities,VC,8.953279,2014
+CAN,Canada,Energy, raw materials and utilities,VC,7.828545,2015
+CAN,Canada,Energy, raw materials and utilities,VC,23.639857,2016
+CAN,Canada,Energy, raw materials and utilities,VC,16.147756,2017
+CAN,Canada,Energy, raw materials and utilities,VC,22.35,2018
+CAN,Canada,Energy, raw materials and utilities,VC,2.66,2019
+CAN,Canada,Energy, raw materials and utilities,VC,6.764945,2020
+CAN,Canada,Energy, raw materials and utilities,VC,84.8473025,2021
+CAN,Canada,Energy, raw materials and utilities,VC,40.832045,2022
+CAN,Canada,Energy, raw materials and utilities,VC,83.318405,2023
+CAN,Canada,Energy, raw materials and utilities,VC,56.2,2024
+CAN,Canada,Energy, raw materials and utilities,VC,139.93683900000002,2025
+GBR,United Kingdom,Energy, raw materials and utilities,VC,8.367995,2012
+GBR,United Kingdom,Energy, raw materials and utilities,VC,8.320459,2013
+GBR,United Kingdom,Energy, raw materials and utilities,VC,4.778203,2014
+GBR,United Kingdom,Energy, raw materials and utilities,VC,35.275682,2015
+GBR,United Kingdom,Energy, raw materials and utilities,VC,1.383368,2017
+GBR,United Kingdom,Energy, raw materials and utilities,VC,3.369576,2018
+GBR,United Kingdom,Energy, raw materials and utilities,VC,23.886619,2020
+GBR,United Kingdom,Energy, raw materials and utilities,VC,48.527345,2021
+GBR,United Kingdom,Energy, raw materials and utilities,VC,119.832078,2022
+GBR,United Kingdom,Energy, raw materials and utilities,VC,18.238354,2023
+GBR,United Kingdom,Energy, raw materials and utilities,VC,81.443988,2024
+GBR,United Kingdom,Energy, raw materials and utilities,VC,88.567969,2025
+FRA,France,Energy, raw materials and utilities,VC,2.2831,2014
+FRA,France,Energy, raw materials and utilities,VC,1.1688619999999998,2015
+FRA,France,Energy, raw materials and utilities,VC,1.908594,2016
+FRA,France,Energy, raw materials and utilities,VC,10.476624000000001,2017
+FRA,France,Energy, raw materials and utilities,VC,26.852166,2018
+FRA,France,Energy, raw materials and utilities,VC,3.854527,2019
+FRA,France,Energy, raw materials and utilities,VC,45.188833,2021
+FRA,France,Energy, raw materials and utilities,VC,2.162199,2022
+FRA,France,Energy, raw materials and utilities,VC,124.19151800000002,2023
+FRA,France,Energy, raw materials and utilities,VC,8.659038,2024
+FRA,France,Energy, raw materials and utilities,VC,21.222282,2025
+JPN,Japan,Energy, raw materials and utilities,VC,27.754282,2017
+JPN,Japan,Energy, raw materials and utilities,VC,23.912038000000003,2018
+JPN,Japan,Energy, raw materials and utilities,VC,91.746466,2019
+JPN,Japan,Energy, raw materials and utilities,VC,4.8698105,2020
+JPN,Japan,Energy, raw materials and utilities,VC,15.538569,2021
+JPN,Japan,Energy, raw materials and utilities,VC,36.243465,2023
+JPN,Japan,Energy, raw materials and utilities,VC,5.75653,2024
+JPN,Japan,Energy, raw materials and utilities,VC,18.947575,2025
+KOR,Korea,Energy, raw materials and utilities,VC,1.393542,2014
+KOR,Korea,Energy, raw materials and utilities,VC,10,2015
+KOR,Korea,Energy, raw materials and utilities,VC,1.829514,2016
+KOR,Korea,Energy, raw materials and utilities,VC,0,2017
+KOR,Korea,Energy, raw materials and utilities,VC,7.295486,2018
+KOR,Korea,Energy, raw materials and utilities,VC,0,2019
+KOR,Korea,Energy, raw materials and utilities,VC,1.679904,2020
+KOR,Korea,Energy, raw materials and utilities,VC,17.871775,2021
+KOR,Korea,Energy, raw materials and utilities,VC,7.852319,2022
+KOR,Korea,Energy, raw materials and utilities,VC,32.244192,2023
+KOR,Korea,Energy, raw materials and utilities,VC,57.797485,2024
+KOR,Korea,Energy, raw materials and utilities,VC,11.1369625,2025
+IND,India,Energy, raw materials and utilities,VC,0.592891,2013
+IND,India,Energy, raw materials and utilities,VC,1.23908,2015
+IND,India,Energy, raw materials and utilities,VC,0.023499,2016
+IND,India,Energy, raw materials and utilities,VC,1.398649,2017
+IND,India,Energy, raw materials and utilities,VC,0.790594,2018
+IND,India,Energy, raw materials and utilities,VC,4.825591,2019
+IND,India,Energy, raw materials and utilities,VC,1.793419,2020
+IND,India,Energy, raw materials and utilities,VC,6.437331,2021
+IND,India,Energy, raw materials and utilities,VC,35.1780155,2022
+IND,India,Energy, raw materials and utilities,VC,12.336025,2023
+IND,India,Energy, raw materials and utilities,VC,47.917759,2024
+IND,India,Energy, raw materials and utilities,VC,35.295384999999996,2025

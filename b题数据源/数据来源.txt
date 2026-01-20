@@ -1,0 +1,56 @@
+2025 AI Index Report——来源：Stanford AI Index Report (斯坦福AI指数报告)
+各国历年人工智能Article数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Article百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Book数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Book百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Dataset数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Dataset百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Dissertation数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能Dissertation百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能出版物数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能出版物百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Article数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Article百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Book数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Book百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Dataset数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Dataset百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Dissertation数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力Dissertation百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力出版物数量.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年人工智能高影响力出版物百分比.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2025-09-30更新
+各国历年在人工智能领域所有行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Agriculture的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Business processes and support services行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Construction and air conditioning行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Consumer products行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Consumer services行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Digital security行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Education and training行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Energy, raw materials and utilities行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Environmental services行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Financial and insurance services行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Food and beverages行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Government, security and defence行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Healthcare, drugs and biotechnology行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域IT infrastructure and hosting行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Logistics, wholesale and retail行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Media, social platforms and marketing行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Mobility and autonomous vehicles行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Other行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Real estate行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Robots, sensors and IT hardware行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年在人工智能领域Travel, leisure and hospitality行业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新
+各国历年历年在人工智能领域对外的风险投资（国家间）（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新。
+各国历年对生成式人工智能初创企业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新。
+各国历年在生成式人工智能领域对外的风险投资（国家间）（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新。
+各国历年投资者所在国家对各行业在生成式人工智能方面的投资（百万美元）.xlsx——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新——flow of investment in AI in USD millions from country of investor to industry of start-ups over time。
+各国历年对AI计算初创企业的风险投资（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新。
+各国历年在AI计算领域对外的风险投资（国家间）（百万美元）.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新。
+各国历年投资者所在国家对各行业在AI计算方面的投资（百万美元）.xlsx——来源：OECD.AI Policy Observatory (经合组织AI政策观察)——2026-01-05更新——flow of investment in AI in USD millions from country of investor to industry of start-ups over time。
+各国历年在GitHub上的项目数.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)
+各国历年在GitHub上的高影响力项目数.csv——来源：OECD.AI Policy Observatory (经合组织AI政策观察)
+TOP500_200011.xls~TOP500_202511.xlsx——来源：Top 500超级计算机榜单。在TOP500列表中，计算机按Rmax值排序。在不同计算机性能相等（Rmax值）的情况下，按Rpeak排序。对于使用同一台计算机的站点，顺序是内存大小，然后是字母顺序。
+AI芯片和半导体及相关产品进出口数据.csv——来源：联合国商品贸易统计数据库——包括：HS 8541半导体器件、HS 8542集成电路、HS 8486半导体制造设备、HS 8523存储介质
+2000_大学计算机排名.csv~2025_大学计算机排名.csv——来源：CSRankings: Computer Science Rankings——已筛选AI领域
+各国历年电能生产情况.csv——来源：Ember (2026); Energy Institute - Statistical Review of World Energy (2025)

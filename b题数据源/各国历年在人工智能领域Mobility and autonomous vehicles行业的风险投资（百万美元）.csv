@@ -1,0 +1,105 @@
+Country,Country_label,INDUSTRY,STAGE,Sum_of_deals,Year
+USA,United States,Mobility and autonomous vehicles,VC,171.65,2012
+USA,United States,Mobility and autonomous vehicles,VC,392.2,2013
+USA,United States,Mobility and autonomous vehicles,VC,4546.51,2014
+USA,United States,Mobility and autonomous vehicles,VC,4981.730897,2015
+USA,United States,Mobility and autonomous vehicles,VC,5244.910853,2016
+USA,United States,Mobility and autonomous vehicles,VC,4735.143389,2017
+USA,United States,Mobility and autonomous vehicles,VC,8766.172212,2018
+USA,United States,Mobility and autonomous vehicles,VC,9195.591293,2019
+USA,United States,Mobility and autonomous vehicles,VC,11659.8559945,2020
+USA,United States,Mobility and autonomous vehicles,VC,21826.505603,2021
+USA,United States,Mobility and autonomous vehicles,VC,4282.397014,2022
+USA,United States,Mobility and autonomous vehicles,VC,4106.273685,2023
+USA,United States,Mobility and autonomous vehicles,VC,7752.292964,2024
+USA,United States,Mobility and autonomous vehicles,VC,2859.867533,2025
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,10.686806,2012
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,24.931676,2013
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,84.536224,2014
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,4824.9592395,2015
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,6831.5284865,2016
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,13687.873870000001,2017
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,3486.8460635,2018
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,6119.084862,2019
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,9940.035265,2020
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,13013.5427345,2021
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,6228.598583,2022
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,8351.900381,2023
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,6347.612872,2024
+CHN,China (People's Republic of),Mobility and autonomous vehicles,VC,2705.741743,2025
+KOR,Korea,Mobility and autonomous vehicles,VC,86.26434800000001,2012
+KOR,Korea,Mobility and autonomous vehicles,VC,5.8103235,2016
+KOR,Korea,Mobility and autonomous vehicles,VC,438.00334599999996,2017
+KOR,Korea,Mobility and autonomous vehicles,VC,89.601213,2018
+KOR,Korea,Mobility and autonomous vehicles,VC,52.4787535,2019
+KOR,Korea,Mobility and autonomous vehicles,VC,63.357538,2020
+KOR,Korea,Mobility and autonomous vehicles,VC,1302.454562,2021
+KOR,Korea,Mobility and autonomous vehicles,VC,452.03796,2022
+KOR,Korea,Mobility and autonomous vehicles,VC,69.329681,2023
+KOR,Korea,Mobility and autonomous vehicles,VC,129.17018050000001,2024
+KOR,Korea,Mobility and autonomous vehicles,VC,90.77423350000001,2025
+IND,India,Mobility and autonomous vehicles,VC,6.556338,2012
+IND,India,Mobility and autonomous vehicles,VC,2.5432010000000003,2015
+IND,India,Mobility and autonomous vehicles,VC,13.59243,2016
+IND,India,Mobility and autonomous vehicles,VC,6.871714,2017
+IND,India,Mobility and autonomous vehicles,VC,23.286188,2018
+IND,India,Mobility and autonomous vehicles,VC,33.362158,2019
+IND,India,Mobility and autonomous vehicles,VC,51.4600095,2020
+IND,India,Mobility and autonomous vehicles,VC,127.48893,2021
+IND,India,Mobility and autonomous vehicles,VC,310.311054,2022
+IND,India,Mobility and autonomous vehicles,VC,347.631017,2023
+IND,India,Mobility and autonomous vehicles,VC,179.0534465,2024
+IND,India,Mobility and autonomous vehicles,VC,268.0560675,2025
+JPN,Japan,Mobility and autonomous vehicles,VC,15.991615,2015
+JPN,Japan,Mobility and autonomous vehicles,VC,2.45452,2016
+JPN,Japan,Mobility and autonomous vehicles,VC,50.843912,2017
+JPN,Japan,Mobility and autonomous vehicles,VC,42.7594475,2018
+JPN,Japan,Mobility and autonomous vehicles,VC,92.7510225,2019
+JPN,Japan,Mobility and autonomous vehicles,VC,85.302776,2020
+JPN,Japan,Mobility and autonomous vehicles,VC,74.810789,2021
+JPN,Japan,Mobility and autonomous vehicles,VC,236.520962,2022
+JPN,Japan,Mobility and autonomous vehicles,VC,152.729428,2023
+JPN,Japan,Mobility and autonomous vehicles,VC,142.3770395,2024
+JPN,Japan,Mobility and autonomous vehicles,VC,141.532137,2025
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,0.5,2013
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,6.343836,2014
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,6.380611,2015
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,0.287321,2016
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,10.913655,2017
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,25.249826000000002,2018
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,106.064786,2019
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,40.474273000000004,2020
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,34.81044,2021
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,175.70121500000002,2022
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,375.746759,2023
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,39.8312815,2024
+GBR,United Kingdom,Mobility and autonomous vehicles,VC,38.477928999999996,2025
+DEU,Germany,Mobility and autonomous vehicles,VC,0,2015
+DEU,Germany,Mobility and autonomous vehicles,VC,1.560258,2017
+DEU,Germany,Mobility and autonomous vehicles,VC,1,2018
+DEU,Germany,Mobility and autonomous vehicles,VC,7.924992,2019
+DEU,Germany,Mobility and autonomous vehicles,VC,24.224471,2020
+DEU,Germany,Mobility and autonomous vehicles,VC,159.288727,2021
+DEU,Germany,Mobility and autonomous vehicles,VC,65.238284,2022
+DEU,Germany,Mobility and autonomous vehicles,VC,125.8341345,2023
+DEU,Germany,Mobility and autonomous vehicles,VC,35.659356,2024
+DEU,Germany,Mobility and autonomous vehicles,VC,101.515915,2025
+CAN,Canada,Mobility and autonomous vehicles,VC,3.73,2016
+CAN,Canada,Mobility and autonomous vehicles,VC,40.363894,2018
+CAN,Canada,Mobility and autonomous vehicles,VC,0.0165,2020
+CAN,Canada,Mobility and autonomous vehicles,VC,80.52869550000001,2021
+CAN,Canada,Mobility and autonomous vehicles,VC,31.272638,2022
+CAN,Canada,Mobility and autonomous vehicles,VC,47.711541,2023
+CAN,Canada,Mobility and autonomous vehicles,VC,261.388483,2024
+CAN,Canada,Mobility and autonomous vehicles,VC,14.171181,2025
+FRA,France,Mobility and autonomous vehicles,VC,1.054277,2013
+FRA,France,Mobility and autonomous vehicles,VC,15.032283000000001,2017
+FRA,France,Mobility and autonomous vehicles,VC,23.365832,2018
+FRA,France,Mobility and autonomous vehicles,VC,3.2110760000000003,2019
+FRA,France,Mobility and autonomous vehicles,VC,62.656366,2021
+FRA,France,Mobility and autonomous vehicles,VC,32.277414,2022
+FRA,France,Mobility and autonomous vehicles,VC,44.559924,2023
+FRA,France,Mobility and autonomous vehicles,VC,12.01097,2024
+FRA,France,Mobility and autonomous vehicles,VC,42.273559,2025
+ARE,United Arab Emirates,Mobility and autonomous vehicles,VC,0.5,2021
+ARE,United Arab Emirates,Mobility and autonomous vehicles,VC,4,2022
