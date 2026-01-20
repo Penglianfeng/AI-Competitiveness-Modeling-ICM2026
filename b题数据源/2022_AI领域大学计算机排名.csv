@@ -1,0 +1,488 @@
+﻿序号,Institution,Country/Region,Count（Geometric mean count of papers published across all areas）,Faculty（Number of faculty who have published in these areas）
+1,Tsinghua University,China,13.8,74
+2,Peking University,China,13.4,88
+3,Carnegie Mellon University,United States,11.3,63
+4,Shanghai Jiao Tong University,China,11.0,71
+5,Zhejiang University,China,10.8,57
+6,Nanjing University,China,9.7,72
+6,Nanyang Technological University,Singapore,9.7,34
+8,KAIST,South Korea,9.5,52
+9,Chinese Academy of Sciences,China,8.7,52
+10,USTC,China,8.3,37
+11,Renmin University of China,China,8.2,41
+12,Univ. of Illinois at Urbana-Champaign,United States,8.0,41
+13,National University of Singapore,Singapore,7.4,32
+14,HKUST,Hong Kong,6.9,46
+15,Seoul National University,South Korea,6.7,46
+16,Harbin Institute of Technology,China,6.5,53
+17,Fudan University,China,6.4,34
+18,Univ. of Maryland - College Park,United States,6.3,31
+19,Univ. of California - Berkeley,United States,6.2,48
+20,Univ. of California - San Diego,United States,6.1,40
+21,Stanford University,United States,5.9,31
+22,Cornell University,United States,5.8,44
+22,MBZUAI,United Arab Emirates,5.8,37
+24,Georgia Institute of Technology,United States,5.7,43
+25,Chinese University of Hong Kong,Hong Kong,5.6,29
+26,Massachusetts Inst. of Technology,United States,5.5,48
+27,New York University,United States,5.2,42
+27,University of Edinburgh,United Kingdom,5.2,43
+29,Beihang University,China,4.9,32
+30,Singapore Management University,Singapore,4.7,24
+31,Sun Yat-sen University,China,4.6,22
+32,ETH Zurich,Switzerland,4.5,21
+32,Univ. of California - Los Angeles,United States,4.5,18
+34,BUPT,China,4.4,36
+34,University of Michigan,United States,4.4,35
+34,University of Texas at Austin,United States,4.4,26
+34,University of Washington,United States,4.4,32
+38,CUHK (SZ),China,4.3,25
+38,UESTC,China,4.3,43
+40,Max Planck Society,Germany,4.2,18
+40,Technion,Israel,4.2,34
+40,Univ. of Massachusetts Amherst,United States,4.2,25
+40,University of Southern California,United States,4.2,27
+44,TU Munich,Germany,4.1,24
+45,Johns Hopkins University,United States,4.0,30
+45,Northeastern University,United States,4.0,27
+45,University of Pennsylvania,United States,4.0,30
+45,University of Toronto,Canada,4.0,35
+49,University of Cambridge,United Kingdom,3.9,23
+49,University of North Carolina,United States,3.9,13
+51,Tel Aviv University,Israel,3.7,23
+51,The Hong Kong Polytechnic Univ.,Hong Kong,3.7,19
+51,University of Wisconsin - Madison,United States,3.7,31
+54,EPFL,Switzerland,3.6,26
+54,University of Amsterdam,Netherlands,3.6,17
+54,University of Waterloo,Canada,3.6,27
+57,Monash University,Australia,3.5,20
+57,Princeton University,United States,3.5,21
+57,University of Melbourne,Australia,3.5,19
+57,University of Virginia,United States,3.5,20
+57,Wuhan University,China,3.5,22
+62,Arizona State University,United States,3.4,18
+62,Pennsylvania State University,United States,3.4,24
+62,University of Hong Kong,Hong Kong,3.4,14
+62,University of Tokyo,Japan,3.4,14
+66,University of British Columbia,Canada,3.3,20
+66,Westlake University,China,3.3,10
+66,Xiamen University,China,3.3,24
+69,Adelaide University,Australia,3.2,15
+69,Columbia University,United States,3.2,21
+69,University of Central Florida,United States,3.2,22
+69,Yonsei University,South Korea,3.2,21
+73,Australian National University,Australia,3.1,14
+73,KAUST,Saudi Arabia,3.1,11
+73,University of Alberta,Canada,3.1,24
+73,University of Copenhagen,Denmark,3.1,23
+73,University of Sydney,Australia,3.1,11
+78,Boston University,United States,3.0,17
+78,Hebrew University of Jerusalem,Israel,3.0,18
+78,Tianjin University,China,3.0,15
+78,University of Texas at Dallas,United States,3.0,13
+82,City University of Hong Kong,Hong Kong,2.9,27
+82,Duke University,United States,2.9,25
+82,Korea University,South Korea,2.9,21
+82,LMU Munich,Germany,2.9,8
+82,Purdue University,United States,2.9,23
+82,Stony Brook University,United States,2.9,19
+82,University of Chicago,United States,2.9,19
+82,University of Illinois at Chicago,United States,2.9,13
+90,Hong Kong Baptist University,Hong Kong,2.8,13
+90,IIT Bombay,India,2.8,11
+90,Imperial College London,United Kingdom,2.8,21
+90,POSTECH,South Korea,2.8,14
+90,Rutgers University,United States,2.8,15
+90,Texas A&amp;M University,United States,2.8,16
+90,University of Oxford,United Kingdom,2.8,18
+97,IIT Delhi,India,2.7,12
+97,Michigan State University,United States,2.7,10
+97,Simon Fraser University,Canada,2.7,20
+97,Univ. of California - Santa Barbara,United States,2.7,16
+97,University College London,United Kingdom,2.7,13
+97,University of Surrey,United Kingdom,2.7,13
+103,Brown University,United States,2.6,13
+103,Rice University,United States,2.6,19
+103,SUTD,Singapore,2.6,8
+103,Shenzhen University,China,2.6,37
+103,TU Wien,Austria,2.6,17
+108,IISc Bangalore,India,2.5,12
+108,Soochow University,China,2.5,16
+108,TU Delft,Netherlands,2.5,25
+108,Univ. of California - Irvine,United States,2.5,16
+108,Univ. of California - Riverside,United States,2.5,17
+108,University of Liverpool,United Kingdom,2.5,16
+108,University of Montreal,Canada,2.5,14
+108,University of Technology Sydney,Australia,2.5,10
+108,University of Tübingen,Germany,2.5,15
+108,University of Warwick,United Kingdom,2.5,15
+108,Washington University in St. Louis,United States,2.5,14
+108,Xi'an Jiaotong University,China,2.5,18
+108,Xidian University,China,2.5,20
+121,Sapienza University of Rome,Italy,2.4,14
+121,ShanghaiTech University,China,2.4,16
+121,TU Darmstadt,Germany,2.4,7
+121,University at Buffalo,United States,2.4,13
+121,University of Macau,Macao,2.4,13
+126,Bar-Ilan University,Israel,2.3,10
+126,CISPA Helmholtz Center,Germany,2.3,11
+126,Ohio State University,United States,2.3,14
+126,RMIT University,Australia,2.3,20
+126,Rochester Inst. of Technology,United States,2.3,11
+126,Univ. of California - Davis,United States,2.3,12
+126,University of Sheffield,United Kingdom,2.3,8
+126,University of Trento,Italy,2.3,9
+126,University of Utah,United States,2.3,13
+135,Cardiff University,United Kingdom,2.2,13
+135,Harvard University,United States,2.2,15
+135,National Inst. of Informatics,Japan,2.2,15
+135,Northwestern University,United States,2.2,14
+135,University of Minnesota,United States,2.2,13
+140,INSAIT,Bulgaria,2.1,3
+140,Politecnico di Milano,Italy,2.1,8
+140,SUSTech,China,2.1,14
+140,Sungkyunkwan University,South Korea,2.1,11
+140,TU Berlin,Germany,2.1,10
+140,University of Rochester,United States,2.1,9
+140,Virginia Tech,United States,2.1,13
+147,Dartmouth College,United States,2.0,7
+147,Emory University,United States,2.0,9
+147,King's College London,United Kingdom,2.0,12
+147,Nankai University,China,2.0,13
+147,North Carolina State University,United States,2.0,15
+147,TTI Chicago,United States,2.0,7
+147,UNSW,Australia,2.0,10
+147,University of Notre Dame,United States,2.0,9
+147,University of Texas at Arlington,United States,2.0,5
+147,Yale University,United States,2.0,12
+157,California Inst. of Technology,United States,1.9,8
+157,Heidelberg University,Germany,1.9,9
+157,IIIT Hyderabad,India,1.9,10
+157,National Taiwan University,Taiwan,1.9,16
+157,Stevens Institute of Technology,United States,1.9,9
+157,Tongji University,China,1.9,7
+157,Univ. of California - Santa Cruz,United States,1.9,12
+157,University of Glasgow,United Kingdom,1.9,10
+165,Florida State University,United States,1.8,5
+165,Griffith University,Australia,1.8,6
+165,HUST,China,1.8,9
+165,IIT Kharagpur,India,1.8,10
+165,Macquarie University,Australia,1.8,11
+165,McGill University,Canada,1.8,11
+165,NWPU,China,1.8,11
+165,National Chiao Tung University,Taiwan,1.8,10
+165,SUFE,China,1.8,12
+165,Sichuan University,China,1.8,9
+165,University of Arizona,United States,1.8,6
+165,University of Colorado Boulder,United States,1.8,12
+165,University of Southampton,United Kingdom,1.8,8
+165,University of Würzburg,Germany,1.8,5
+179,Aalborg University,Denmark,1.7,9
+179,Aalto University,Finland,1.7,11
+179,Beijing Jiaotong University,China,1.7,5
+179,Concordia University,Canada,1.7,9
+179,Dalhousie University,Canada,1.7,9
+179,George Mason University,United States,1.7,11
+179,Graz University of Technology,Austria,1.7,8
+179,IST Austria,Austria,1.7,6
+179,Oregon State University,United States,1.7,9
+179,Saarland University,Germany,1.7,5
+179,Shandong University,China,1.7,9
+179,University of Birmingham,United Kingdom,1.7,7
+179,University of Bonn,Germany,1.7,7
+179,University of Delaware,United States,1.7,11
+179,University of Oregon,United States,1.7,3
+179,University of South Florida,United States,1.7,7
+195,Bocconi University,Italy,1.6,7
+195,Czech Technical University,Czech Republic,1.6,8
+195,Hasso Plattner Institute,Germany,1.6,6
+195,IIIT Delhi,India,1.6,8
+195,IIT Hyderabad,India,1.6,4
+195,Indiana University,United States,1.6,6
+195,Kyoto University,Japan,1.6,6
+195,Queen Mary University of London,United Kingdom,1.6,6
+195,Tufts University,United States,1.6,9
+195,UNC - Charlotte,United States,1.6,9
+195,Univ. of California - Merced,United States,1.6,4
+195,Univ. of Maryland - Baltimore County,United States,1.6,9
+195,Universidade de Lisboa,Portugal,1.6,5
+195,University of Connecticut,United States,1.6,6
+195,University of Georgia,United States,1.6,8
+195,University of Groningen,Netherlands,1.6,11
+195,University of Hamburg,Germany,1.6,5
+195,University of Manchester,United Kingdom,1.6,10
+195,University of Zurich,Switzerland,1.6,3
+195,York University,Canada,1.6,6
+215,Aarhus University,Denmark,1.5,6
+215,Auburn University,United States,1.5,5
+215,Binghamton University,United States,1.5,4
+215,CRIStAL,France,1.5,7
+215,Case Western Reserve University,United States,1.5,6
+215,Chongqing University,China,1.5,8
+215,DTU,Denmark,1.5,6
+215,Drexel University,United States,1.5,4
+215,IIT Kanpur,India,1.5,5
+215,IIT Madras,India,1.5,5
+215,Iowa State University,United States,1.5,7
+215,Karlsruhe Inst. of Technology,Germany,1.5,6
+215,Lancaster University,United Kingdom,1.5,4
+215,RWTH Aachen University,Germany,1.5,6
+215,Ruhr-University Bochum,Germany,1.5,4
+215,Temple University,United States,1.5,4
+215,University of Florida,United States,1.5,9
+215,University of Freiburg,Germany,1.5,3
+215,University of Helsinki,Finland,1.5,7
+215,University of Leeds,United Kingdom,1.5,8
+215,University of Stuttgart,Germany,1.5,7
+215,University of York,United Kingdom,1.5,4
+215,Université Laval,Canada,1.5,5
+215,Wayne State University,United States,1.5,5
+215,Weizmann Institute of Science,Israel,1.5,5
+215,West Virginia University,United States,1.5,2
+241,Central South University,China,1.4,8
+241,Clemson University,United States,1.4,6
+241,College of William and Mary,United States,1.4,7
+241,East China Normal University,China,1.4,5
+241,Ecole Normale Superieure,France,1.4,4
+241,Friedrich Schiller University Jena,Germany,1.4,5
+241,Georgetown University,United States,1.4,5
+241,IIT Patna,India,1.4,2
+241,IT University of Copenhagen,Denmark,1.4,4
+241,KU Leuven,Belgium,1.4,5
+241,Lehigh University,United States,1.4,5
+241,Leiden University,Netherlands,1.4,4
+241,McMaster University,Canada,1.4,6
+241,NJIT,United States,1.4,7
+241,NTUA,Greece,1.4,3
+241,NYU Abu Dhabi,United Arab Emirates,1.4,5
+241,Osaka University,Japan,1.4,6
+241,Polytechnique Montreal,Canada,1.4,5
+241,Radboud University,Netherlands,1.4,4
+241,Syracuse University,United States,1.4,7
+241,TU Dortmund,Germany,1.4,5
+241,TU Dresden,Germany,1.4,5
+241,TU Eindhoven,Netherlands,1.4,7
+241,Texas State University,United States,1.4,3
+241,Tulane University,United States,1.4,4
+241,UC Chile,Chile,1.4,7
+241,University of Bristol,United Kingdom,1.4,7
+241,University of Iowa,United States,1.4,5
+241,University of Massachusetts Lowell,United States,1.4,4
+241,University of North Texas,United States,1.4,4
+241,University of Queensland,Australia,1.4,6
+241,University of South Carolina,United States,1.4,3
+241,University of Tsukuba,Japan,1.4,7
+241,University of Vienna,Austria,1.4,3
+241,University of Warsaw,Poland,1.4,5
+241,Université Paris Dauphine,France,1.4,8
+241,VU Amsterdam,Netherlands,1.4,5
+241,VinUniversity,Vietnam,1.4,5
+279,Augusta University,United States,1.3,3
+279,Ben-Gurion University of the Negev,Israel,1.3,6
+279,Brigham Young University,United States,1.3,6
+279,Colorado State University,United States,1.3,3
+279,HSE University,Russia,1.3,5
+279,Hunan University,China,1.3,7
+279,Illinois Institute of Technology,United States,1.3,2
+279,MUST,Macao,1.3,4
+279,NYU Shanghai,China,1.3,7
+279,National Tsing Hua University,Taiwan,1.3,3
+279,Portland State University,United States,1.3,3
+279,Qatar Computing Research Inst.,Qatar,1.3,4
+279,Tokyo Institute of Technology,Japan,1.3,5
+279,UNIST,South Korea,1.3,7
+279,University of Antwerp,Belgium,1.3,4
+279,University of Auckland,New Zealand,1.3,6
+279,University of Basel,Switzerland,1.3,3
+279,University of Essex,United Kingdom,1.3,4
+279,University of Haifa,Israel,1.3,4
+279,University of Konstanz,Germany,1.3,3
+279,University of Manitoba,Canada,1.3,2
+279,University of Mannheim,Germany,1.3,3
+279,University of Memphis,United States,1.3,3
+279,University of Ottawa,Canada,1.3,1
+279,University of Ulm,Germany,1.3,2
+279,University of Wollongong,Australia,1.3,4
+279,Washington State University,United States,1.3,6
+306,AUEB,Greece,1.2,3
+306,Brandeis University,United States,1.2,2
+306,CUNY,United States,1.2,5
+306,Chalmers/GU,Sweden,1.2,3
+306,City University of Macau,Macao,1.2,6
+306,Durham University,United Kingdom,1.2,6
+306,ETS Montreal,Canada,1.2,4
+306,Freie Universitaet Berlin,Germany,1.2,2
+306,Goethe University Frankfurt,Germany,1.2,4
+306,Hanyang University,South Korea,1.2,2
+306,IIT Jodhpur,India,1.2,5
+306,ISI Kolkata,India,1.2,3
+306,Middle East Technical University,Turkey,1.2,2
+306,Open University UK,United Kingdom,1.2,1
+306,Queen's University Belfast,United Kingdom,1.2,3
+306,Rensselaer Polytechnic Institute,United States,1.2,3
+306,Royal Holloway Univ. of London,United Kingdom,1.2,2
+306,TU Clausthal,Germany,1.2,2
+306,TU Kaiserslautern,Germany,1.2,3
+306,Tampere University,Finland,1.2,2
+306,UAEU,United Arab Emirates,1.2,1
+306,UFMG,Brazil,1.2,5
+306,Univ. of Modena and Reggio Emilia,Italy,1.2,5
+306,University College Dublin,Ireland,1.2,5
+306,University of Aberdeen,United Kingdom,1.2,5
+306,University of Arkansas,United States,1.2,2
+306,University of Athens,Greece,1.2,1
+306,University of Bamberg,Germany,1.2,2
+306,University of Bath,United Kingdom,1.2,4
+306,University of Bergen,Norway,1.2,4
+306,University of Bern,Switzerland,1.2,1
+306,University of Cagliari,Italy,1.2,5
+306,University of Cincinnati,United States,1.2,3
+306,University of Exeter,United Kingdom,1.2,3
+306,University of Göttingen,Germany,1.2,3
+306,University of Hannover,Germany,1.2,2
+306,University of Houston,United States,1.2,3
+306,University of Luxembourg,Luxembourg,1.2,2
+306,University of New Hampshire,United States,1.2,3
+306,University of Siegen,Germany,1.2,2
+306,University of Strathclyde,United Kingdom,1.2,2
+306,University of Sussex,United Kingdom,1.2,3
+306,University of Texas at San Antonio,United States,1.2,5
+306,University of Twente,Netherlands,1.2,4
+306,University of Western Australia,Australia,1.2,3
+306,University of Wroclaw,Poland,1.2,4
+306,Université Jean Monnet,France,1.2,4
+306,Université du Québec à Montréal,Canada,1.2,4
+306,Utrecht University,Netherlands,1.2,3
+306,Waseda University,Japan,1.2,2
+356,Ariel University,Israel,1.1,2
+356,BITS Pilani-Goa,India,1.1,1
+356,Bauhaus University Weimar,Germany,1.1,1
+356,Beijing Institute of Technology,China,1.1,1
+356,Bilkent University,Turkey,1.1,1
+356,Boise State University,United States,1.1,2
+356,Boston College,United States,1.1,2
+356,Boğaziçi University,Turkey,1.1,1
+356,Brunel University London,United Kingdom,1.1,1
+356,Carleton University,Canada,1.1,1
+356,Cyprus University of Technology,Cyprus,1.1,1
+356,EURECOM,France,1.1,3
+356,Ecole Normale Superieure de Rennes,France,1.1,1
+356,Florida International University,United States,1.1,2
+356,GSSI,Italy,1.1,2
+356,George Washington University,United States,1.1,1
+356,Heriot-Watt University,United Kingdom,1.1,3
+356,IIT Gandhinagar,India,1.1,2
+356,IIT Mandi,India,1.1,1
+356,IMDEA Networks Institute,Spain,1.1,2
+356,IPM,Iran,1.1,1
+356,IUPUI,United States,1.1,1
+356,JKU Linz,Austria,1.1,2
+356,Jilin University,China,1.1,1
+356,KTH Royal Inst. of Technology,Sweden,1.1,3
+356,Keio University,Japan,1.1,2
+356,Kempelen Institute - KInIT,Slovakia,1.1,2
+356,Koç University,Turkey,1.1,2
+356,Loughborough University,United Kingdom,1.1,2
+356,Maastricht University,Netherlands,1.1,2
+356,Masaryk University,Czech Republic,1.1,2
+356,Michigan Technological University,United States,1.1,1
+356,Missouri S&amp;T,United States,1.1,2
+356,NAIST,Japan,1.1,2
+356,NTNU,Norway,1.1,2
+356,New York Tech,United States,1.1,1
+356,Oakland University,United States,1.1,2
+356,PTIT,Vietnam,1.1,2
+356,PUC-RIO,Brazil,1.1,2
+356,Paderborn University,Germany,1.1,1
+356,Queen’s University,Canada,1.1,1
+356,SUAT,China,1.1,1
+356,TeIAS,Iran,1.1,1
+356,Toronto Metropolitan University,Canada,1.1,2
+356,UFRGS,Brazil,1.1,2
+356,UiT The Arctic Univ. of Norway,Norway,1.1,2
+356,Univ. of Massachusetts Dartmouth,United States,1.1,1
+356,Universidad Nacional de Córdoba,Argentina,1.1,1
+356,Universidad Rey Juan Carlos,Spain,1.1,1
+356,University at Albany - SUNY,United States,1.1,1
+356,University of Augsburg,Germany,1.1,1
+356,University of Bremen,Germany,1.1,1
+356,University of Calgary,Canada,1.1,2
+356,University of Cape Town,South Africa,1.1,1
+356,University of Cologne,Germany,1.1,1
+356,University of Crete,Greece,1.1,2
+356,University of Düsseldorf,Germany,1.1,1
+356,University of Fribourg,Switzerland,1.1,1
+356,University of Guelph,Canada,1.1,4
+356,University of Hawaii at Manoa,United States,1.1,1
+356,University of Innsbruck,Austria,1.1,1
+356,University of Ioannina,Greece,1.1,3
+356,University of Kansas,United States,1.1,2
+356,University of Kentucky,United States,1.1,2
+356,University of Kiel,Germany,1.1,2
+356,University of Klagenfurt,Austria,1.1,1
+356,University of Koblenz-Landau,Germany,1.1,1
+356,University of Leipzig,Germany,1.1,2
+356,University of Lübeck,Germany,1.1,2
+356,University of Magdeburg,Germany,1.1,2
+356,University of Massachusetts Boston,United States,1.1,1
+356,University of Missouri,United States,1.1,2
+356,University of Nebraska,United States,1.1,1
+356,University of Nebraska - Omaha,United States,1.1,2
+356,University of Oklahoma,United States,1.1,1
+356,University of Padova,Italy,1.1,2
+356,University of Passau,Germany,1.1,1
+356,University of Pisa,Italy,1.1,2
+356,University of Pittsburgh,United States,1.1,3
+356,University of Potsdam,Germany,1.1,1
+356,University of Regina,Canada,1.1,2
+356,University of Salerno,Italy,1.1,1
+356,University of Salzburg,Austria,1.1,2
+356,University of Szeged,Hungary,1.1,1
+356,University of Tulsa,United States,1.1,1
+356,University of Victoria,Canada,1.1,2
+356,University of Waikato,New Zealand,1.1,3
+356,Università della Svizzera italiana,Switzerland,1.1,2
+356,VISTEC,Thailand,1.1,2
+356,Vanderbilt University,United States,1.1,4
+356,Western University,Canada,1.1,1
+356,Wichita State University,United States,1.1,1
+356,Worcester Polytechnic Institute,United States,1.1,4
+356,Yangzhou University,China,1.1,4
+450,Baylor University,United States,1.0,1
+450,CWI,Netherlands,1.0,1
+450,City University of London,United Kingdom,1.0,1
+450,Cleveland State University,United States,1.0,1
+450,DePaul University,United States,1.0,1
+450,Humboldt University of Berlin,Germany,1.0,1
+450,IPI PAN,Poland,1.0,1
+450,Istanbul Technical University,Turkey,1.0,1
+450,Jadavpur University,India,1.0,1
+450,LUMS,Pakistan,1.0,1
+450,Monash University Indonesia,Indonesia,1.0,1
+450,Nova Southeastern University,United States,1.0,1
+450,Southeast University,China,1.0,1
+450,THWS,Germany,1.0,1
+450,Tata Inst. of Fundamental Research,India,1.0,1
+450,The Catholic University of Korea,South Korea,1.0,1
+450,Trinity College Dublin,Ireland,1.0,1
+450,USP-ICMC,Brazil,1.0,1
+450,Univ. of Missouri - Kansas City,United States,1.0,1
+450,Universidad de los Andes,Colombia,1.0,1
+450,University of A Coruña,Spain,1.0,1
+450,University of Catania,Italy,1.0,2
+450,University of Erlangen–Nuremberg,Germany,1.0,1
+450,University of Hildesheim,Germany,1.0,1
+450,University of Kent,United Kingdom,1.0,1
+450,University of Louisville,United States,1.0,1
+450,University of Malta,Malta,1.0,1
+450,University of Nevada,United States,1.0,1
+450,University of New Brunswick,Canada,1.0,1
+450,University of Nottingham,United Kingdom,1.0,1
+450,University of Oldenburg,Germany,1.0,1
+450,University of Otago,New Zealand,1.0,1
+450,University of Saskatchewan,Canada,1.0,1
+450,University of Tartu,Estonia,1.0,1
+450,University of Texas - El Paso,United States,1.0,1
+450,Uppsala University,Sweden,1.0,1
+450,Utah State University,United States,1.0,1
+450,Victoria University of Wellington,New Zealand,1.0,1

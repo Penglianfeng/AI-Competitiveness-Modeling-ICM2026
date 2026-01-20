@@ -1,0 +1,21 @@
+{
+  "Country": "国家代码（ISO 3166-1 alpha-3）",
+  "Year": "年份（2016-2025）",
+  "Population_Million": "人口（百万）",
+  "GDP_Billion_USD": "GDP（十亿美元，2023年）",
+  "PPP_Factor": "PPP转换因子（相对于USD）",
+  "AI_Publications": "AI出版物数量（原始值）",
+  "AI_High_Impact_Publications": "AI高影响力出版物数量",
+  "AI_High_Impact_Ratio": "高影响力出版物占比",
+  "AI_VC_Investment": "AI风险投资（百万美元，名义值）",
+  "AI_VC_Investment_Constant2020": "AI风险投资（百万美元，2020不变价）",
+  "GenAI_VC_Investment": "生成式AI风险投资（百万美元，名义值）",
+  "GenAI_VC_Investment_Constant2020": "生成式AI风险投资（百万美元，2020不变价）",
+  "GitHub_AI_Projects": "GitHub AI项目数",
+  "Electricity_Production_TWh": "电力生产（TWh）",
+  "*_log": "对数变换值 (log1p)",
+  "*_lag1/2/3": "滞后1/2/3年特征",
+  "*_YoY_Growth": "年同比增长率（%）",
+  "*_PerCapita": "人均值",
+  "*_PPP": "PPP调整后的值"
+}
