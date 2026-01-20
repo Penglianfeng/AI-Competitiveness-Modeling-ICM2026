@@ -1,0 +1,2 @@
+﻿Analysis_Item,N_Simulations,Noise_Levels,Max_Rank_Change_5pct,Max_Rank_Change_10pct,Max_Rank_Change_15pct,Most_Unstable_Country,Most_Stable_Country
+Data Robustness Analysis,500,"0%, 5%, 10%, 15%",1.0,4.0,5.0,United Kingdom,China

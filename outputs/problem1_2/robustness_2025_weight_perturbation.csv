@@ -1,0 +1,11 @@
+﻿Country,Country_CN,Mean_Rank,Std_Rank,Min_Rank,Max_Rank,First_Place_Freq,Second_Place_Freq,Third_Place_Freq,Top_Two_Freq
+USA,United States,1.0,0.0,1,1,1.0,0.0,0.0,1.0
+CHN,China,2.0,0.0,2,2,0.0,1.0,0.0,1.0
+DEU,Germany,3.001,0.03160696125855822,3,4,0.0,0.0,0.999,0.0
+KOR,South Korea,4.084,0.28450659043333254,3,6,0.0,0.0,0.001,0.0
+IND,India,5.218,0.5783390009328438,4,6,0.0,0.0,0.0,0.0
+GBR,United Kingdom,5.697,0.463886839649499,4,6,0.0,0.0,0.0,0.0
+JPN,Japan,7.111,0.3141321378019129,7,8,0.0,0.0,0.0,0.0
+FRA,France,7.889,0.3141321378019129,7,8,0.0,0.0,0.0,0.0
+CAN,Canada,9.0,0.0,9,9,0.0,0.0,0.0,0.0
+ARE,UAE,10.0,0.0,10,10,0.0,0.0,0.0,0.0

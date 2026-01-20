@@ -1,0 +1,17 @@
+{
+  "country_code": "国家代码（ISO 3166-1 alpha-3）",
+  "year": "年份",
+  "country_cn": "国家中文名",
+  "rd_expenditure_pct_gdp": "R&D支出占GDP比例(%)",
+  "researchers_per_million": "每百万人研究人员数",
+  "higher_edu_enrollment_rate": "高等教育毛入学率(%)",
+  "patent_applications_resident": "居民专利申请数",
+  "patent_applications_nonresident": "非居民专利申请数",
+  "high_tech_exports_pct": "高科技出口占制成品出口比例(%)",
+  "internet_users_pct": "互联网用户比例(%)",
+  "*_YoY_Growth": "年同比增长率(%)",
+  "*_MA3": "3年移动平均",
+  "*_lag1/2/3": "滞后1/2/3年特征",
+  "*_log": "对数变换值(log1p)",
+  "Innovation_Foundation_Index": "创新基础综合指数(0-1标准化)"
+}

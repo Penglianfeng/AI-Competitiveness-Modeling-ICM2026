@@ -1,0 +1,52 @@
+======================================================================
+合并数据集摘要报告
+======================================================================
+
+生成时间: 2026-01-17 13:07:15
+
+--------------------------------------------------
+数据概览
+--------------------------------------------------
+总记录数: 150
+覆盖国家: 10
+时间范围: 2010 - 2024
+指标数量: 21
+
+--------------------------------------------------
+各国数据覆盖年份
+--------------------------------------------------
+阿联酋      (ARE): 2010-2024, 共 15 年
+加拿大      (CAN): 2010-2024, 共 15 年
+中国       (CHN): 2010-2024, 共 15 年
+德国       (DEU): 2010-2024, 共 15 年
+法国       (FRA): 2010-2024, 共 15 年
+英国       (GBR): 2010-2024, 共 15 年
+印度       (IND): 2010-2024, 共 15 年
+日本       (JPN): 2010-2024, 共 15 年
+韩国       (KOR): 2010-2024, 共 15 年
+美国       (USA): 2010-2024, 共 15 年
+
+--------------------------------------------------
+指标列表及非空率
+--------------------------------------------------
+• RESEARCHERS_PER_MILLION: 44.0% 非空
+• rd_expenditure_pct_gdp: 82.0% 非空
+• researchers_per_million: 71.3% 非空
+• rd_expenditure_pct_gdp_wb: 82.0% 非空
+• researchers_per_million_wb: 71.3% 非空
+• higher_edu_enrollment_rate: 83.3% 非空
+• bachelor_degree_pct: 59.3% 非空
+• master_degree_pct: 56.0% 非空
+• phd_degree_pct: 44.7% 非空
+• internet_users_pct: 95.3% 非空
+• fixed_broadband_per_100: 93.3% 非空
+• mobile_subscriptions_per_100: 93.3% 非空
+• patent_applications_resident: 80.0% 非空
+• patent_applications_nonresident: 80.0% 非空
+• ict_service_exports_pct: 91.3% 非空
+• high_tech_exports_pct: 98.0% 非空
+• high_tech_exports_usd: 98.0% 非空
+• govt_edu_expenditure_pct_gdp: 57.3% 非空
+• higher_edu_expenditure_pct: 16.7% 非空
+• secure_internet_servers_per_million: 100.0% 非空
+• labor_force_higher_edu_pct: 74.7% 非空

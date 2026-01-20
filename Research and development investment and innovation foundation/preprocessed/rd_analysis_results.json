@@ -1,0 +1,764 @@
+{
+  "data_sources": {
+    "UIS (UNESCO Institute for Statistics)": {
+      "raw_files": [
+        "RESEARCHERS_PER_MILLION.csv",
+        "SDG_9.5.1.csv",
+        "SDG_9.5.2.csv"
+      ],
+      "processed_files": [
+        "combined_data.csv"
+      ]
+    },
+    "World Bank": {
+      "files": [
+        "AI_development_indicators.csv",
+        "AI_latest_data.csv"
+      ]
+    },
+    "Merged Data": {
+      "files": [
+        "rd_innovation_wide.csv"
+      ]
+    }
+  },
+  "merged_dataset": {
+    "rows": 150,
+    "columns": 25,
+    "countries": 10,
+    "year_range": [
+      2010,
+      2024
+    ],
+    "indicators": [
+      "RESEARCHERS_PER_MILLION",
+      "rd_expenditure_pct_gdp",
+      "researchers_per_million",
+      "rd_expenditure_pct_gdp_wb",
+      "researchers_per_million_wb",
+      "higher_edu_enrollment_rate",
+      "bachelor_degree_pct",
+      "master_degree_pct",
+      "phd_degree_pct",
+      "internet_users_pct",
+      "fixed_broadband_per_100",
+      "mobile_subscriptions_per_100",
+      "patent_applications_resident",
+      "patent_applications_nonresident",
+      "ict_service_exports_pct",
+      "high_tech_exports_pct",
+      "high_tech_exports_usd",
+      "govt_edu_expenditure_pct_gdp",
+      "higher_edu_expenditure_pct",
+      "secure_internet_servers_per_million",
+      "labor_force_higher_edu_pct"
+    ]
+  },
+  "temporal_coverage": {
+    "RESEARCHERS_PER_MILLION": {
+      "min_year": 2015,
+      "max_year": 2022,
+      "years_count": 8
+    },
+    "rd_expenditure_pct_gdp": {
+      "min_year": 2010,
+      "max_year": 2023,
+      "years_count": 14
+    },
+    "researchers_per_million": {
+      "min_year": 2010,
+      "max_year": 2022,
+      "years_count": 13
+    },
+    "rd_expenditure_pct_gdp_wb": {
+      "min_year": 2010,
+      "max_year": 2023,
+      "years_count": 14
+    },
+    "researchers_per_million_wb": {
+      "min_year": 2010,
+      "max_year": 2022,
+      "years_count": 13
+    },
+    "higher_edu_enrollment_rate": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    },
+    "bachelor_degree_pct": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    },
+    "master_degree_pct": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    },
+    "phd_degree_pct": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    },
+    "internet_users_pct": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    },
+    "fixed_broadband_per_100": {
+      "min_year": 2010,
+      "max_year": 2023,
+      "years_count": 14
+    },
+    "mobile_subscriptions_per_100": {
+      "min_year": 2010,
+      "max_year": 2023,
+      "years_count": 14
+    },
+    "patent_applications_resident": {
+      "min_year": 2010,
+      "max_year": 2021,
+      "years_count": 12
+    },
+    "patent_applications_nonresident": {
+      "min_year": 2010,
+      "max_year": 2021,
+      "years_count": 12
+    },
+    "ict_service_exports_pct": {
+      "min_year": 2010,
+      "max_year": 2024,
+      "years_count": 15
+    }
+  },
+  "country_coverage": {
+    "USA": {
+      "avg_coverage": 83.17460317460316,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 46.666666666666664,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 80.0,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 80.0,
+        "higher_edu_enrollment_rate": 66.66666666666666,
+        "bachelor_degree_pct": 100.0,
+        "master_degree_pct": 100.0,
+        "phd_degree_pct": 100.0,
+        "internet_users_pct": 93.33333333333333,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 46.666666666666664,
+        "higher_edu_expenditure_pct": 13.333333333333334,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "CHN": {
+      "avg_coverage": 66.03174603174604,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 53.333333333333336,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 86.66666666666667,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 86.66666666666667,
+        "higher_edu_enrollment_rate": 100.0,
+        "bachelor_degree_pct": 13.333333333333334,
+        "master_degree_pct": 13.333333333333334,
+        "phd_degree_pct": 6.666666666666667,
+        "internet_users_pct": 100.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 6.666666666666667,
+        "higher_edu_expenditure_pct": 0.0,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 0.0
+      }
+    },
+    "GBR": {
+      "avg_coverage": 73.01587301587301,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 20.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 53.333333333333336,
+        "rd_expenditure_pct_gdp_wb": 80.0,
+        "researchers_per_million_wb": 53.333333333333336,
+        "higher_edu_enrollment_rate": 93.33333333333333,
+        "bachelor_degree_pct": 33.33333333333333,
+        "master_degree_pct": 33.33333333333333,
+        "phd_degree_pct": 33.33333333333333,
+        "internet_users_pct": 93.33333333333333,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 73.33333333333333,
+        "higher_edu_expenditure_pct": 40.0,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "DEU": {
+      "avg_coverage": 83.4920634920635,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 53.333333333333336,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 86.66666666666667,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 86.66666666666667,
+        "higher_edu_enrollment_rate": 73.33333333333333,
+        "bachelor_degree_pct": 66.66666666666666,
+        "master_degree_pct": 66.66666666666666,
+        "phd_degree_pct": 66.66666666666666,
+        "internet_users_pct": 100.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 86.66666666666667,
+        "higher_edu_expenditure_pct": 46.666666666666664,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "FRA": {
+      "avg_coverage": 80.0,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 53.333333333333336,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 86.66666666666667,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 86.66666666666667,
+        "higher_edu_enrollment_rate": 93.33333333333333,
+        "bachelor_degree_pct": 66.66666666666666,
+        "master_degree_pct": 66.66666666666666,
+        "phd_degree_pct": 66.66666666666666,
+        "internet_users_pct": 100.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 40.0,
+        "higher_edu_expenditure_pct": 0.0,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "CAN": {
+      "avg_coverage": 82.22222222222221,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 46.666666666666664,
+        "rd_expenditure_pct_gdp": 93.33333333333333,
+        "researchers_per_million": 80.0,
+        "rd_expenditure_pct_gdp_wb": 93.33333333333333,
+        "researchers_per_million_wb": 80.0,
+        "higher_edu_enrollment_rate": 93.33333333333333,
+        "bachelor_degree_pct": 100.0,
+        "master_degree_pct": 93.33333333333333,
+        "phd_degree_pct": 13.333333333333334,
+        "internet_users_pct": 93.33333333333333,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 80.0,
+        "higher_edu_expenditure_pct": 13.333333333333334,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "JPN": {
+      "avg_coverage": 70.7936507936508,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 53.333333333333336,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 86.66666666666667,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 86.66666666666667,
+        "higher_edu_enrollment_rate": 73.33333333333333,
+        "bachelor_degree_pct": 13.333333333333334,
+        "master_degree_pct": 6.666666666666667,
+        "phd_degree_pct": 0.0,
+        "internet_users_pct": 93.33333333333333,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 80.0,
+        "higher_edu_expenditure_pct": 20.0,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 53.333333333333336
+      }
+    },
+    "KOR": {
+      "avg_coverage": 85.71428571428571,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 53.333333333333336,
+        "rd_expenditure_pct_gdp": 86.66666666666667,
+        "researchers_per_million": 86.66666666666667,
+        "rd_expenditure_pct_gdp_wb": 86.66666666666667,
+        "researchers_per_million_wb": 86.66666666666667,
+        "higher_edu_enrollment_rate": 93.33333333333333,
+        "bachelor_degree_pct": 100.0,
+        "master_degree_pct": 100.0,
+        "phd_degree_pct": 100.0,
+        "internet_users_pct": 100.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 53.333333333333336,
+        "higher_edu_expenditure_pct": 6.666666666666667,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 100.0
+      }
+    },
+    "ARE": {
+      "avg_coverage": 57.46031746031746,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 40.0,
+        "rd_expenditure_pct_gdp": 53.333333333333336,
+        "researchers_per_million": 40.0,
+        "rd_expenditure_pct_gdp_wb": 53.333333333333336,
+        "researchers_per_million_wb": 40.0,
+        "higher_edu_enrollment_rate": 46.666666666666664,
+        "bachelor_degree_pct": 53.333333333333336,
+        "master_degree_pct": 53.333333333333336,
+        "phd_degree_pct": 53.333333333333336,
+        "internet_users_pct": 100.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 13.333333333333334,
+        "high_tech_exports_pct": 80.0,
+        "high_tech_exports_usd": 80.0,
+        "govt_edu_expenditure_pct_gdp": 20.0,
+        "higher_edu_expenditure_pct": 0.0,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 33.33333333333333
+      }
+    },
+    "IND": {
+      "avg_coverage": 66.66666666666667,
+      "years": 15,
+      "detail": {
+        "RESEARCHERS_PER_MILLION": 20.0,
+        "rd_expenditure_pct_gdp": 73.33333333333333,
+        "researchers_per_million": 26.666666666666668,
+        "rd_expenditure_pct_gdp_wb": 73.33333333333333,
+        "researchers_per_million_wb": 26.666666666666668,
+        "higher_edu_enrollment_rate": 100.0,
+        "bachelor_degree_pct": 46.666666666666664,
+        "master_degree_pct": 26.666666666666668,
+        "phd_degree_pct": 6.666666666666667,
+        "internet_users_pct": 80.0,
+        "fixed_broadband_per_100": 93.33333333333333,
+        "mobile_subscriptions_per_100": 93.33333333333333,
+        "patent_applications_resident": 80.0,
+        "patent_applications_nonresident": 80.0,
+        "ict_service_exports_pct": 100.0,
+        "high_tech_exports_pct": 100.0,
+        "high_tech_exports_usd": 100.0,
+        "govt_edu_expenditure_pct_gdp": 86.66666666666667,
+        "higher_edu_expenditure_pct": 26.666666666666668,
+        "secure_internet_servers_per_million": 100.0,
+        "labor_force_higher_edu_pct": 60.0
+      }
+    }
+  },
+  "missing_patterns": {
+    "tail_missing": [
+      "patent_applications_resident",
+      "patent_applications_nonresident",
+      "higher_edu_expenditure_pct"
+    ],
+    "head_missing": [
+      "RESEARCHERS_PER_MILLION"
+    ],
+    "random_missing": [
+      "rd_expenditure_pct_gdp",
+      "researchers_per_million",
+      "rd_expenditure_pct_gdp_wb",
+      "researchers_per_million_wb",
+      "higher_edu_enrollment_rate",
+      "bachelor_degree_pct",
+      "master_degree_pct",
+      "phd_degree_pct",
+      "internet_users_pct",
+      "fixed_broadband_per_100",
+      "mobile_subscriptions_per_100",
+      "ict_service_exports_pct",
+      "high_tech_exports_pct",
+      "high_tech_exports_usd",
+      "govt_edu_expenditure_pct_gdp",
+      "labor_force_higher_edu_pct"
+    ]
+  },
+  "distribution_analysis": [
+    {
+      "indicator": "RESEARCHERS_PER_MILLION",
+      "skewness": 0.02201884802002774,
+      "kurtosis": 0.1738483439797478,
+      "cv": 0.47059434487637786,
+      "need_log": false
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp",
+      "skewness": 0.18035082535053087,
+      "kurtosis": -0.04098313001261067,
+      "cv": 0.41730622546080864,
+      "need_log": false
+    },
+    {
+      "indicator": "researchers_per_million",
+      "skewness": -0.09382975013575946,
+      "kurtosis": 0.5454237638383108,
+      "cv": 0.44250119239340474,
+      "need_log": false
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp_wb",
+      "skewness": 0.18035082535053087,
+      "kurtosis": -0.04098313001261067,
+      "cv": 0.41730622546080864,
+      "need_log": false
+    },
+    {
+      "indicator": "researchers_per_million_wb",
+      "skewness": -0.09382975013575946,
+      "kurtosis": 0.5454237638383108,
+      "cv": 0.44250119239340474,
+      "need_log": false
+    },
+    {
+      "indicator": "higher_edu_enrollment_rate",
+      "skewness": -0.3077892809305835,
+      "kurtosis": -0.20429179328137925,
+      "cv": 0.31558202664206814,
+      "need_log": false
+    },
+    {
+      "indicator": "bachelor_degree_pct",
+      "skewness": -0.00914552756846701,
+      "kurtosis": 0.5993139745467602,
+      "cv": 0.3388560906743202,
+      "need_log": false
+    },
+    {
+      "indicator": "master_degree_pct",
+      "skewness": -0.49223860418255816,
+      "kurtosis": -0.8356174847810354,
+      "cv": 0.41429525282992835,
+      "need_log": false
+    },
+    {
+      "indicator": "phd_degree_pct",
+      "skewness": 0.6132884975208921,
+      "kurtosis": -0.3126541644337397,
+      "cv": 0.46125338716026737,
+      "need_log": false
+    },
+    {
+      "indicator": "internet_users_pct",
+      "skewness": -1.9765908076456855,
+      "kurtosis": 3.171461522333267,
+      "cv": 0.2755957828180594,
+      "need_log": false
+    },
+    {
+      "indicator": "fixed_broadband_per_100",
+      "skewness": -1.221622090175333,
+      "kurtosis": 0.4319274669358726,
+      "cv": 0.4172038581624869,
+      "need_log": false
+    },
+    {
+      "indicator": "mobile_subscriptions_per_100",
+      "skewness": 1.2083616283169123,
+      "kurtosis": 1.3367390906038663,
+      "cv": 0.2952859658533147,
+      "need_log": false
+    },
+    {
+      "indicator": "patent_applications_resident",
+      "skewness": 2.77869124248992,
+      "kurtosis": 7.575556845995461,
+      "cv": 1.7580838022520218,
+      "need_log": true
+    },
+    {
+      "indicator": "patent_applications_nonresident",
+      "skewness": 2.0116143959538304,
+      "kurtosis": 3.0195174316812876,
+      "cv": 1.3960907527464117,
+      "need_log": true
+    },
+    {
+      "indicator": "ict_service_exports_pct",
+      "skewness": 2.213346743435347,
+      "kurtosis": 3.5984287140012388,
+      "cv": 1.0403518403076406,
+      "need_log": false
+    },
+    {
+      "indicator": "high_tech_exports_pct",
+      "skewness": -0.12627690050277038,
+      "kurtosis": -0.5228800840958758,
+      "cv": 0.4027418808666939,
+      "need_log": false
+    },
+    {
+      "indicator": "high_tech_exports_usd",
+      "skewness": 2.335922118266603,
+      "kurtosis": 5.028995960711162,
+      "cv": 1.2169327528423988,
+      "need_log": true
+    },
+    {
+      "indicator": "govt_edu_expenditure_pct_gdp",
+      "skewness": -0.4863197261524498,
+      "kurtosis": -0.7812815305555807,
+      "cv": 0.16272816946095015,
+      "need_log": false
+    },
+    {
+      "indicator": "higher_edu_expenditure_pct",
+      "skewness": 0.3283936218505971,
+      "kurtosis": -0.30754857487114995,
+      "cv": 0.19933002094817556,
+      "need_log": false
+    },
+    {
+      "indicator": "secure_internet_servers_per_million",
+      "skewness": 2.681240549315759,
+      "kurtosis": 7.088922467493069,
+      "cv": 1.8774031811102105,
+      "need_log": false
+    },
+    {
+      "indicator": "labor_force_higher_edu_pct",
+      "skewness": -0.285241789100722,
+      "kurtosis": 0.8484009456069428,
+      "cv": 0.07200637027129321,
+      "need_log": false
+    }
+  ],
+  "recent_availability": {
+    "has_2024": [
+      "higher_edu_enrollment_rate",
+      "bachelor_degree_pct",
+      "master_degree_pct",
+      "phd_degree_pct",
+      "internet_users_pct",
+      "ict_service_exports_pct",
+      "high_tech_exports_pct",
+      "high_tech_exports_usd",
+      "secure_internet_servers_per_million",
+      "labor_force_higher_edu_pct"
+    ],
+    "missing_2024": [
+      "RESEARCHERS_PER_MILLION",
+      "rd_expenditure_pct_gdp",
+      "researchers_per_million",
+      "rd_expenditure_pct_gdp_wb",
+      "researchers_per_million_wb",
+      "fixed_broadband_per_100",
+      "mobile_subscriptions_per_100",
+      "patent_applications_resident",
+      "patent_applications_nonresident",
+      "govt_edu_expenditure_pct_gdp",
+      "higher_edu_expenditure_pct"
+    ],
+    "has_2025": false
+  },
+  "alignment_issues": [
+    {
+      "indicator": "RESEARCHERS_PER_MILLION",
+      "missing_years": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "researchers_per_million",
+      "missing_years": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp_wb",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "researchers_per_million_wb",
+      "missing_years": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "higher_edu_enrollment_rate",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "bachelor_degree_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "master_degree_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "phd_degree_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "internet_users_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "fixed_broadband_per_100",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "mobile_subscriptions_per_100",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "patent_applications_resident",
+      "missing_years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "patent_applications_nonresident",
+      "missing_years": [
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "ict_service_exports_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "high_tech_exports_pct",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "high_tech_exports_usd",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "govt_edu_expenditure_pct_gdp",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "higher_edu_expenditure_pct",
+      "missing_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "secure_internet_servers_per_million",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "labor_force_higher_edu_pct",
+      "missing_years": [
+        2025
+      ]
+    }
+  ]
+}

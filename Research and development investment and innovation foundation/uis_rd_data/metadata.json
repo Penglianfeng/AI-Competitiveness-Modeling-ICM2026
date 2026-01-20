@@ -1,0 +1,168 @@
+{
+  "scrape_time": "20260117_130250",
+  "target_countries": {
+    "USA": {
+      "name_en": "United States",
+      "name_cn": "美国"
+    },
+    "CHN": {
+      "name_en": "China",
+      "name_cn": "中国"
+    },
+    "GBR": {
+      "name_en": "United Kingdom",
+      "name_cn": "英国"
+    },
+    "DEU": {
+      "name_en": "Germany",
+      "name_cn": "德国"
+    },
+    "KOR": {
+      "name_en": "South Korea",
+      "name_cn": "韩国"
+    },
+    "JPN": {
+      "name_en": "Japan",
+      "name_cn": "日本"
+    },
+    "FRA": {
+      "name_en": "France",
+      "name_cn": "法国"
+    },
+    "CAN": {
+      "name_en": "Canada",
+      "name_cn": "加拿大"
+    },
+    "ARE": {
+      "name_en": "United Arab Emirates",
+      "name_cn": "阿联酋"
+    },
+    "IND": {
+      "name_en": "India",
+      "name_cn": "印度"
+    }
+  },
+  "indicators": {
+    "sdg": {
+      "SDG_9.5.1": {
+        "code": "SDG_9.5.1",
+        "name": "Research and development expenditure as a proportion of GDP",
+        "name_cn": "研发支出占GDP比例（SDG 9.5.1）"
+      },
+      "SDG_9.5.2": {
+        "code": "SDG_9.5.2",
+        "name": "Researchers (in full-time equivalent) per million inhabitants",
+        "name_cn": "每百万人口科研人员数（SDG 9.5.2）"
+      }
+    },
+    "rd": {
+      "GERD_GDP_PCT": {
+        "code": "GB_XPD_RSDV",
+        "name": "R&D expenditure as % of GDP",
+        "name_cn": "R&D支出占GDP比例",
+        "unit": "%",
+        "category": "expenditure"
+      },
+      "GERD_PPP": {
+        "code": "GB_XPD_RSDV_PPP",
+        "name": "GERD in PPP$ (millions)",
+        "name_cn": "R&D支出（PPP，百万美元）",
+        "unit": "Million PPP$",
+        "category": "expenditure"
+      },
+      "GERD_BES": {
+        "code": "GERD_PFSEC_BES",
+        "name": "GERD performed by Business Enterprise Sector",
+        "name_cn": "企业部门R&D支出",
+        "unit": "%",
+        "category": "sector_performance"
+      },
+      "GERD_GOV": {
+        "code": "GERD_PFSEC_GOV",
+        "name": "GERD performed by Government Sector",
+        "name_cn": "政府部门R&D支出",
+        "unit": "%",
+        "category": "sector_performance"
+      },
+      "GERD_HES": {
+        "code": "GERD_PFSEC_HES",
+        "name": "GERD performed by Higher Education Sector",
+        "name_cn": "高等教育部门R&D支出",
+        "unit": "%",
+        "category": "sector_performance"
+      },
+      "GERD_PNP": {
+        "code": "GERD_PFSEC_PNP",
+        "name": "GERD performed by Private Non-Profit Sector",
+        "name_cn": "私营非营利部门R&D支出",
+        "unit": "%",
+        "category": "sector_performance"
+      },
+      "GERD_FUND_BES": {
+        "code": "GERD_FSSEC_BES",
+        "name": "GERD financed by Business Enterprise",
+        "name_cn": "企业资助的R&D支出",
+        "unit": "%",
+        "category": "funding_source"
+      },
+      "GERD_FUND_GOV": {
+        "code": "GERD_FSSEC_GOV",
+        "name": "GERD financed by Government",
+        "name_cn": "政府资助的R&D支出",
+        "unit": "%",
+        "category": "funding_source"
+      },
+      "GERD_FUND_ABROAD": {
+        "code": "GERD_FSSEC_ABR",
+        "name": "GERD financed from Abroad",
+        "name_cn": "国外资助的R&D支出",
+        "unit": "%",
+        "category": "funding_source"
+      },
+      "RESEARCHERS_PER_MILLION": {
+        "code": "SP_POP_SCIE",
+        "name": "Researchers per million inhabitants (FTE)",
+        "name_cn": "每百万人口科研人员数（FTE）",
+        "unit": "Per million",
+        "category": "researchers"
+      },
+      "RESEARCHERS_TOTAL": {
+        "code": "RES_FTE",
+        "name": "Total researchers (FTE)",
+        "name_cn": "科研人员总数（FTE）",
+        "unit": "Headcount",
+        "category": "researchers"
+      },
+      "RESEARCHERS_BES": {
+        "code": "RES_FTE_SEC_BES",
+        "name": "Researchers in Business Enterprise Sector (FTE)",
+        "name_cn": "企业部门科研人员（FTE）",
+        "unit": "Headcount",
+        "category": "researchers"
+      },
+      "RESEARCHERS_GOV": {
+        "code": "RES_FTE_SEC_GOV",
+        "name": "Researchers in Government Sector (FTE)",
+        "name_cn": "政府部门科研人员（FTE）",
+        "unit": "Headcount",
+        "category": "researchers"
+      },
+      "RESEARCHERS_HES": {
+        "code": "RES_FTE_SEC_HES",
+        "name": "Researchers in Higher Education Sector (FTE)",
+        "name_cn": "高等教育部门科研人员（FTE）",
+        "unit": "Headcount",
+        "category": "researchers"
+      },
+      "RESEARCHERS_FEMALE_PCT": {
+        "code": "RES_FTE_FEMALE_PCT",
+        "name": "Female researchers as % of total",
+        "name_cn": "女性科研人员比例",
+        "unit": "%",
+        "category": "researchers"
+      }
+    }
+  },
+  "data_source": "UNESCO Institute for Statistics (UIS)",
+  "data_url": "https://data.uis.unesco.org/"
+}

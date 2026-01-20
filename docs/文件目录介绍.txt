@@ -1,0 +1,39 @@
+Research and development investment and innovation foundation/
+├── merge_datasets.py                    # 合并脚本
+├── merged_data/
+│   ├── rd_innovation_wide.csv          # 宽格式合并数据
+│   ├── rd_innovation_wide.xlsx
+│   └── summary_report.txt
+├── uis_rd_data/                         # UNESCO数据
+│   ├── metadata.json
+│   ├── summary_report.txt
+│   ├── processed/
+│   │   ├── combined_data.csv           # 完整版合并数据
+│   │   ├── combined_data.xlsx
+│   │   └── pivot_tables.xlsx
+│   └── raw/
+│       ├── RESEARCHERS_PER_MILLION.csv  # 每百万人科研人员
+│       ├── SDG_9.5.1.csv               # 研发支出占GDP比例
+│       └── SDG_9.5.2.csv               # 每百万人科研人员(SDG)
+└── World Bank Data/                     # 世界银行数据
+    ├── AI_development_indicators.csv
+    ├── AI_development_indicators_detail.xlsx
+    └── AI_latest_data.csv
+
+
+Supply, Mobility and Quality of AI Talents/
+├── merge_ai_talent_wide.py              # 合并脚本
+├── ai_talent_data_v2/
+│   ├── processed/
+│   │   ├── combined_data.csv            # 合并后的数据
+│   │   └── combined_data.xlsx
+│   ├── raw/
+│   │   ├── supplementary.csv            # 补充数据
+│   │   └── world_bank.csv               # 世界银行数据
+│   └── reports/
+│       └── report.txt                   # 数据报告
+└── merged_wide/
+    ├── ai_talent_wide.csv               # 宽格式人才数据
+    ├── ai_talent_wide.xlsx
+    ├── model_features.csv               # 建模特征数据
+    └── summary_report.txt               # 摘要报告

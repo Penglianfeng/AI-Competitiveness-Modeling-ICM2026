@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2026-01-17T17:47:15.801438",
+    "message": "已加载 150 行, 25 列"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:15.804799",
+    "message": "筛选目标国家后: 150 行"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:15.805802",
+    "message": "创建 100 行基础框架 (10国 × 10年)"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:15.811208",
+    "message": "已合并 21 个指标列"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:15.874463",
+    "message": "完成 12 次三次样条插值"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.191091",
+    "message": "完成 304 个值的Holt-Winters外推"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.193361",
+    "message": "patent_applications_resident: 偏度=2.44, 已添加对数变换列"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.193361",
+    "message": "patent_applications_nonresident: 偏度=1.94, 无需对数变换"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.194366",
+    "message": "high_tech_exports_usd: 偏度=2.35, 已添加对数变换列"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.198441",
+    "message": "已计算 rd_expenditure_pct_gdp 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.198956",
+    "message": "已计算 researchers_per_million 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.199955",
+    "message": "已计算 higher_edu_enrollment_rate 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.201227",
+    "message": "已计算 rd_expenditure_pct_gdp 3年移动平均"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.203282",
+    "message": "已计算 researchers_per_million 3年移动平均"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.203797",
+    "message": "已为 rd_expenditure_pct_gdp 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.204804",
+    "message": "已为 researchers_per_million 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.204804",
+    "message": "已为 higher_edu_enrollment_rate 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.205806",
+    "message": "已为 patent_applications_resident 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.209033",
+    "message": "已计算创新基础综合指数（基于4个指标）"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.209033",
+    "message": "已计算专利强度比（居民/非居民）"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.213164",
+    "message": "ARE (阿联酋): 31 个指标有缺失"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.215172",
+    "message": "IND (印度): 32 个指标有缺失"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.226879",
+    "message": "CSV已保存: d:\\华数杯\\Research and development investment and innovation foundation\\preprocessed\\rd_innovation_preprocessed.csv"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.548216",
+    "message": "Excel已保存: d:\\华数杯\\Research and development investment and innovation foundation\\preprocessed\\rd_innovation_preprocessed.xlsx"
+  },
+  {
+    "timestamp": "2026-01-17T17:47:16.549750",
+    "message": "列说明已保存: d:\\华数杯\\Research and development investment and innovation foundation\\preprocessed\\column_descriptions.json"
+  }
+]
