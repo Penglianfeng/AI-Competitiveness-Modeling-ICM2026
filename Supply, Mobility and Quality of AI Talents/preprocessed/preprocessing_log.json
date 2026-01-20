@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": "2026-01-17T18:05:20.665083",
+    "message": "已加载 100 行, 16 列"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.665591",
+    "message": "筛选目标国家后: 100 行"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.666603",
+    "message": "原始年份范围: 2015-2024"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.667113",
+    "message": "创建 100 行基础框架 (10国 × 10年)"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.669823",
+    "message": "已合并 12 个指标列"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.708997",
+    "message": "完成 2 次三次样条插值"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.930833",
+    "message": "完成 151 个值的Holt-Winters外推"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.932865",
+    "message": "population_total: 强制对数变换（绝对数量指标）"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.933369",
+    "message": "tertiary_enrollment_total: 强制对数变换（绝对数量指标）"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.939595",
+    "message": "已计算 researchers_per_million 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.941098",
+    "message": "已计算 tertiary_gross_enrollment_pct 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.942613",
+    "message": "已计算 rd_expenditure_pct_gdp 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.943653",
+    "message": "已计算 education_expenditure_pct_gdp 年增长率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.946685",
+    "message": "已计算 researchers_per_million 3年移动平均"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.948699",
+    "message": "已计算 tertiary_gross_enrollment_pct 3年移动平均"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.950709",
+    "message": "已为 researchers_per_million 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.951724",
+    "message": "已为 tertiary_gross_enrollment_pct 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.953243",
+    "message": "已为 education_expenditure_pct_gdp 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.954244",
+    "message": "已为 stem_graduates_pct 添加1-3年滞后特征"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.957796",
+    "message": "已计算AI人才综合指数（基于4个指标）"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.958838",
+    "message": "已计算研究人员增长效率指标"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.958838",
+    "message": "已计算劳动人口调整后的研究人员密度"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.960852",
+    "message": "发现 4 个稀疏指标 (覆盖率<20%):"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.960852",
+    "message": "   • researchers_per_million_fte: 10.0% 覆盖率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.961880",
+    "message": "   • stem_graduates_pct: 9.0% 覆盖率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.961880",
+    "message": "   • tertiary_completion_25_34_pct: 7.0% 覆盖率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.961880",
+    "message": "   • tertiary_spend_per_student_pct_gdp_pc: 7.0% 覆盖率"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.961880",
+    "message": "   ℹ️ 稀疏指标已保留，建模时请考虑降权或剔除"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:20.975572",
+    "message": "CSV已保存: d:\\华数杯\\Supply, Mobility and Quality of AI Talents\\preprocessed\\ai_talent_preprocessed.csv"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:21.302331",
+    "message": "Excel已保存: d:\\华数杯\\Supply, Mobility and Quality of AI Talents\\preprocessed\\ai_talent_preprocessed.xlsx"
+  },
+  {
+    "timestamp": "2026-01-17T18:05:21.303845",
+    "message": "列说明已保存: d:\\华数杯\\Supply, Mobility and Quality of AI Talents\\preprocessed\\column_descriptions.json"
+  }
+]

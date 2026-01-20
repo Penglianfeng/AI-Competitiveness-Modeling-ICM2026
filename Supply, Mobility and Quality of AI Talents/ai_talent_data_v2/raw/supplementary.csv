@@ -1,0 +1,37 @@
+﻿country_code,country_name,country_cn,year,value,indicator_name_cn,source,category
+USA,United States,美国,2021,4412.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+CHN,China,中国,2021,1585.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+GBR,United Kingdom,英国,2021,4603.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+DEU,Germany,德国,2021,5234.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+KOR,South Korea,韩国,2021,8714.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+JPN,Japan,日本,2021,5331.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+FRA,France,法国,2021,4715.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+CAN,Canada,加拿大,2021,4876.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+ARE,United Arab Emirates,阿联酋,2020,1350.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+IND,India,印度,2020,253.0,每百万人研究人员(FTE),Supplementary (UNESCO/OECD),supplementary
+USA,United States,美国,2021,3.46,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+CHN,China,中国,2021,2.43,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+GBR,United Kingdom,英国,2021,2.93,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+DEU,Germany,德国,2021,3.13,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+KOR,South Korea,韩国,2021,4.93,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+JPN,Japan,日本,2021,3.3,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+FRA,France,法国,2021,2.21,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+CAN,Canada,加拿大,2021,1.69,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+ARE,United Arab Emirates,阿联酋,2019,1.3,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+IND,India,印度,2020,0.65,R&D支出占GDP比例(%),Supplementary (UNESCO/OECD),supplementary
+USA,United States,美国,2021,21.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+CHN,China,中国,2020,35.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+GBR,United Kingdom,英国,2021,27.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+DEU,Germany,德国,2021,35.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+KOR,South Korea,韩国,2021,32.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+JPN,Japan,日本,2021,22.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+FRA,France,法国,2021,27.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+CAN,Canada,加拿大,2021,24.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+IND,India,印度,2020,32.0,STEM毕业生占比(%),Supplementary (UNESCO/OECD),supplementary
+USA,United States,美国,2022,50.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+GBR,United Kingdom,英国,2022,57.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+DEU,Germany,德国,2022,37.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+KOR,South Korea,韩国,2022,69.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+JPN,Japan,日本,2022,66.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+FRA,France,法国,2022,51.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary
+CAN,Canada,加拿大,2022,66.0,25-34岁高等教育完成率(%),Supplementary (UNESCO/OECD),supplementary

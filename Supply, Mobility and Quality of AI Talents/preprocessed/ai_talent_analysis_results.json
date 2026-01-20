@@ -1,0 +1,671 @@
+{
+  "data_sources": {
+    "raw": [
+      "supplementary.csv",
+      "world_bank.csv"
+    ],
+    "processed": [
+      "combined_data.csv"
+    ],
+    "merged": [
+      "ai_talent_wide.csv",
+      "model_features.csv"
+    ]
+  },
+  "main_dataset": {
+    "rows": 100,
+    "columns": 16,
+    "countries": [
+      "ARE",
+      "CAN",
+      "CHN",
+      "DEU",
+      "FRA",
+      "GBR",
+      "IND",
+      "JPN",
+      "KOR",
+      "USA"
+    ],
+    "year_range": [
+      2015,
+      2024
+    ],
+    "indicators": [
+      "education_expenditure_pct_gdp",
+      "pop_15_64_pct",
+      "population_total",
+      "rd_expenditure_pct_gdp",
+      "researchers_per_million",
+      "researchers_per_million_fte",
+      "stem_graduates_pct",
+      "technicians_per_million",
+      "tertiary_completion_25_34_pct",
+      "tertiary_enrollment_total",
+      "tertiary_gross_enrollment_pct",
+      "tertiary_spend_per_student_pct_gdp_pc"
+    ]
+  },
+  "temporal_coverage": {
+    "education_expenditure_pct_gdp": {
+      "min_year": 2015,
+      "max_year": 2023,
+      "years_count": 9
+    },
+    "pop_15_64_pct": {
+      "min_year": 2015,
+      "max_year": 2024,
+      "years_count": 10
+    },
+    "population_total": {
+      "min_year": 2015,
+      "max_year": 2024,
+      "years_count": 10
+    },
+    "rd_expenditure_pct_gdp": {
+      "min_year": 2015,
+      "max_year": 2023,
+      "years_count": 9
+    },
+    "researchers_per_million": {
+      "min_year": 2015,
+      "max_year": 2022,
+      "years_count": 8
+    },
+    "researchers_per_million_fte": {
+      "min_year": 2020,
+      "max_year": 2021,
+      "years_count": 2
+    },
+    "stem_graduates_pct": {
+      "min_year": 2020,
+      "max_year": 2021,
+      "years_count": 2
+    },
+    "technicians_per_million": {
+      "min_year": 2015,
+      "max_year": 2018,
+      "years_count": 4
+    },
+    "tertiary_completion_25_34_pct": {
+      "min_year": 2022,
+      "max_year": 2022,
+      "years_count": 1
+    },
+    "tertiary_enrollment_total": {
+      "min_year": 2015,
+      "max_year": 2019,
+      "years_count": 5
+    },
+    "tertiary_gross_enrollment_pct": {
+      "min_year": 2015,
+      "max_year": 2024,
+      "years_count": 10
+    },
+    "tertiary_spend_per_student_pct_gdp_pc": {
+      "min_year": 2015,
+      "max_year": 2016,
+      "years_count": 2
+    }
+  },
+  "country_coverage": {
+    "USA": {
+      "avg_coverage": 49.166666666666664,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 70.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 70.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 0.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 80.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "CHN": {
+      "avg_coverage": 45.0,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 10.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 80.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 0.0,
+        "tertiary_completion_25_34_pct": 0.0,
+        "tertiary_enrollment_total": 50.0,
+        "tertiary_gross_enrollment_pct": 100.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 0.0
+      }
+    },
+    "GBR": {
+      "avg_coverage": 47.5,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 70.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 70.0,
+        "researchers_per_million": 30.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 20.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "DEU": {
+      "avg_coverage": 54.166666666666664,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 80.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 80.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 30.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "FRA": {
+      "avg_coverage": 52.5,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 60.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 80.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 30.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "CAN": {
+      "avg_coverage": 54.166666666666664,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 80.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 90.0,
+        "researchers_per_million": 70.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 30.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "JPN": {
+      "avg_coverage": 53.333333333333336,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 70.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 80.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 40.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 10.0
+      }
+    },
+    "KOR": {
+      "avg_coverage": 55.0,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 80.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 80.0,
+        "researchers_per_million": 80.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 40.0,
+        "tertiary_completion_25_34_pct": 10.0,
+        "tertiary_enrollment_total": 40.0,
+        "tertiary_gross_enrollment_pct": 90.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 20.0
+      }
+    },
+    "ARE": {
+      "avg_coverage": 39.166666666666664,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 30.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 60.0,
+        "researchers_per_million": 60.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 0.0,
+        "technicians_per_million": 10.0,
+        "tertiary_completion_25_34_pct": 0.0,
+        "tertiary_enrollment_total": 30.0,
+        "tertiary_gross_enrollment_pct": 70.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 0.0
+      }
+    },
+    "IND": {
+      "avg_coverage": 46.666666666666664,
+      "years": 10,
+      "detail": {
+        "education_expenditure_pct_gdp": 80.0,
+        "pop_15_64_pct": 100.0,
+        "population_total": 100.0,
+        "rd_expenditure_pct_gdp": 60.0,
+        "researchers_per_million": 30.0,
+        "researchers_per_million_fte": 10.0,
+        "stem_graduates_pct": 10.0,
+        "technicians_per_million": 20.0,
+        "tertiary_completion_25_34_pct": 0.0,
+        "tertiary_enrollment_total": 50.0,
+        "tertiary_gross_enrollment_pct": 100.0,
+        "tertiary_spend_per_student_pct_gdp_pc": 0.0
+      }
+    }
+  },
+  "missing_patterns": {
+    "summary": [
+      {
+        "indicator": "tertiary_completion_25_34_pct",
+        "indicator_cn": "25-34岁高等教育完成率(%)",
+        "missing_count": 93,
+        "missing_pct": 93.0
+      },
+      {
+        "indicator": "stem_graduates_pct",
+        "indicator_cn": "STEM毕业生占比(%)",
+        "missing_count": 91,
+        "missing_pct": 91.0
+      },
+      {
+        "indicator": "researchers_per_million_fte",
+        "indicator_cn": "每百万人研究人员数(FTE)",
+        "missing_count": 90,
+        "missing_pct": 90.0
+      },
+      {
+        "indicator": "tertiary_spend_per_student_pct_gdp_pc",
+        "indicator_cn": "高等教育生均支出占人均GDP比例(%)",
+        "missing_count": 87,
+        "missing_pct": 87.0
+      },
+      {
+        "indicator": "technicians_per_million",
+        "indicator_cn": "每百万人研发技术人员数",
+        "missing_count": 78,
+        "missing_pct": 78.0
+      },
+      {
+        "indicator": "tertiary_enrollment_total",
+        "indicator_cn": "高等教育在校生总数",
+        "missing_count": 59,
+        "missing_pct": 59.0
+      },
+      {
+        "indicator": "education_expenditure_pct_gdp",
+        "indicator_cn": "教育支出占GDP比例(%)",
+        "missing_count": 37,
+        "missing_pct": 37.0
+      },
+      {
+        "indicator": "researchers_per_million",
+        "indicator_cn": "每百万人研究人员数",
+        "missing_count": 34,
+        "missing_pct": 34.0
+      },
+      {
+        "indicator": "rd_expenditure_pct_gdp",
+        "indicator_cn": "R&D支出占GDP比例(%)",
+        "missing_count": 24,
+        "missing_pct": 24.0
+      },
+      {
+        "indicator": "tertiary_gross_enrollment_pct",
+        "indicator_cn": "高等教育毛入学率(%)",
+        "missing_count": 11,
+        "missing_pct": 11.0
+      },
+      {
+        "indicator": "pop_15_64_pct",
+        "indicator_cn": "15-64岁人口占比(%)",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "indicator": "population_total",
+        "indicator_cn": "总人口",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      }
+    ],
+    "tail_missing": [
+      "education_expenditure_pct_gdp",
+      "rd_expenditure_pct_gdp",
+      "researchers_per_million",
+      "researchers_per_million_fte",
+      "stem_graduates_pct",
+      "technicians_per_million",
+      "tertiary_completion_25_34_pct",
+      "tertiary_enrollment_total",
+      "tertiary_spend_per_student_pct_gdp_pc"
+    ],
+    "sparse_indicators": [
+      "researchers_per_million_fte",
+      "stem_graduates_pct",
+      "technicians_per_million",
+      "tertiary_completion_25_34_pct",
+      "tertiary_spend_per_student_pct_gdp_pc"
+    ]
+  },
+  "distribution_analysis": [
+    {
+      "indicator": "education_expenditure_pct_gdp",
+      "min": 3.07782006263733,
+      "max": 5.90682983398438,
+      "skewness": -0.6850739805253014,
+      "need_log": false
+    },
+    {
+      "indicator": "pop_15_64_pct",
+      "min": 58.7347384818338,
+      "max": 82.1220600575181,
+      "skewness": 1.1617153697719693,
+      "need_log": false
+    },
+    {
+      "indicator": "population_total",
+      "min": 8505237.0,
+      "max": 1450935791.0,
+      "skewness": 1.4375910096143014,
+      "need_log": false
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp",
+      "min": 0.6477900000000001,
+      "max": 5.21081,
+      "skewness": 0.23344105858975653,
+      "need_log": false
+    },
+    {
+      "indicator": "researchers_per_million",
+      "min": 214.34935,
+      "max": 9434.7613,
+      "skewness": 0.02201884802002774,
+      "need_log": false
+    },
+    {
+      "indicator": "researchers_per_million_fte",
+      "min": 253.0,
+      "max": 8714.0,
+      "skewness": 0.07147093628804033,
+      "need_log": false
+    },
+    {
+      "indicator": "technicians_per_million",
+      "min": 73.05997,
+      "max": 2006.65327,
+      "skewness": -0.4360464449689986,
+      "need_log": false
+    },
+    {
+      "indicator": "tertiary_enrollment_total",
+      "min": 156613.0,
+      "max": 46993614.0,
+      "skewness": 1.083897363694252,
+      "need_log": false
+    },
+    {
+      "indicator": "tertiary_gross_enrollment_pct",
+      "min": 27.0646411471569,
+      "max": 106.709167480469,
+      "skewness": -0.39677219098652544,
+      "need_log": false
+    },
+    {
+      "indicator": "tertiary_spend_per_student_pct_gdp_pc",
+      "min": 14.76092,
+      "max": 37.99046,
+      "skewness": -0.5395424085476257,
+      "need_log": false
+    }
+  ],
+  "recent_availability": {
+    "2023": {
+      "has_data": true,
+      "indicators_with_data": [
+        "education_expenditure_pct_gdp",
+        "pop_15_64_pct",
+        "population_total",
+        "rd_expenditure_pct_gdp",
+        "tertiary_gross_enrollment_pct"
+      ],
+      "indicators_missing": [
+        "researchers_per_million",
+        "researchers_per_million_fte",
+        "stem_graduates_pct",
+        "technicians_per_million",
+        "tertiary_completion_25_34_pct",
+        "tertiary_enrollment_total",
+        "tertiary_spend_per_student_pct_gdp_pc"
+      ]
+    },
+    "2024": {
+      "has_data": true,
+      "indicators_with_data": [
+        "pop_15_64_pct",
+        "population_total",
+        "tertiary_gross_enrollment_pct"
+      ],
+      "indicators_missing": [
+        "education_expenditure_pct_gdp",
+        "rd_expenditure_pct_gdp",
+        "researchers_per_million",
+        "researchers_per_million_fte",
+        "stem_graduates_pct",
+        "technicians_per_million",
+        "tertiary_completion_25_34_pct",
+        "tertiary_enrollment_total",
+        "tertiary_spend_per_student_pct_gdp_pc"
+      ]
+    },
+    "2025": {
+      "has_data": false,
+      "indicators": []
+    }
+  },
+  "correlations": {
+    "researchers_per_million": {
+      "researchers_per_million": 1.0,
+      "tertiary_gross_enrollment_pct": 0.7920092976128422,
+      "education_expenditure_pct_gdp": 0.12388117684439974,
+      "rd_expenditure_pct_gdp": 0.8216542611193286,
+      "pop_15_64_pct": -0.21769138750249337
+    },
+    "tertiary_gross_enrollment_pct": {
+      "researchers_per_million": 0.7920092976128422,
+      "tertiary_gross_enrollment_pct": 1.0,
+      "education_expenditure_pct_gdp": 0.34274869529871055,
+      "rd_expenditure_pct_gdp": 0.7994116176799347,
+      "pop_15_64_pct": 0.0003986938539604276
+    },
+    "education_expenditure_pct_gdp": {
+      "researchers_per_million": 0.12388117684439974,
+      "tertiary_gross_enrollment_pct": 0.34274869529871055,
+      "education_expenditure_pct_gdp": 1.0,
+      "rd_expenditure_pct_gdp": 0.08586833875889133,
+      "pop_15_64_pct": -0.037149796459738094
+    },
+    "rd_expenditure_pct_gdp": {
+      "researchers_per_million": 0.8216542611193286,
+      "tertiary_gross_enrollment_pct": 0.7994116176799347,
+      "education_expenditure_pct_gdp": 0.08586833875889133,
+      "rd_expenditure_pct_gdp": 1.0,
+      "pop_15_64_pct": -0.175933207050626
+    },
+    "pop_15_64_pct": {
+      "researchers_per_million": -0.21769138750249337,
+      "tertiary_gross_enrollment_pct": 0.0003986938539604276,
+      "education_expenditure_pct_gdp": -0.037149796459738094,
+      "rd_expenditure_pct_gdp": -0.175933207050626,
+      "pop_15_64_pct": 1.0
+    }
+  },
+  "alignment_issues": [
+    {
+      "indicator": "education_expenditure_pct_gdp",
+      "indicator_cn": "教育支出占GDP比例(%)",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "pop_15_64_pct",
+      "indicator_cn": "15-64岁人口占比(%)",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "population_total",
+      "indicator_cn": "总人口",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "rd_expenditure_pct_gdp",
+      "indicator_cn": "R&D支出占GDP比例(%)",
+      "missing_years": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "researchers_per_million",
+      "indicator_cn": "每百万人研究人员数",
+      "missing_years": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "researchers_per_million_fte",
+      "indicator_cn": "每百万人研究人员数(FTE)",
+      "missing_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "stem_graduates_pct",
+      "indicator_cn": "STEM毕业生占比(%)",
+      "missing_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "technicians_per_million",
+      "indicator_cn": "每百万人研发技术人员数",
+      "missing_years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "tertiary_completion_25_34_pct",
+      "indicator_cn": "25-34岁高等教育完成率(%)",
+      "missing_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "tertiary_enrollment_total",
+      "indicator_cn": "高等教育在校生总数",
+      "missing_years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "indicator": "tertiary_gross_enrollment_pct",
+      "indicator_cn": "高等教育毛入学率(%)",
+      "missing_years": [
+        2025
+      ]
+    },
+    {
+      "indicator": "tertiary_spend_per_student_pct_gdp_pc",
+      "indicator_cn": "高等教育生均支出占人均GDP比例(%)",
+      "missing_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    }
+  ]
+}

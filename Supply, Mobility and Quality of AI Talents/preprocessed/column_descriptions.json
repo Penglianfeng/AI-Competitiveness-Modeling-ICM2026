@@ -1,0 +1,23 @@
+{
+  "country_code": "国家代码（ISO 3166-1 alpha-3）",
+  "year": "年份",
+  "country_cn": "国家中文名",
+  "researchers_per_million": "每百万人研究人员数",
+  "researchers_per_million_fte": "每百万人研究人员数(FTE)",
+  "technicians_per_million": "每百万人研发技术人员数",
+  "tertiary_gross_enrollment_pct": "高等教育毛入学率(%)",
+  "education_expenditure_pct_gdp": "教育支出占GDP比例(%)",
+  "rd_expenditure_pct_gdp": "R&D支出占GDP比例(%)",
+  "pop_15_64_pct": "15-64岁人口占比(%)",
+  "stem_graduates_pct": "STEM毕业生占比(%)",
+  "tertiary_completion_25_34_pct": "25-34岁高等教育完成率(%)",
+  "population_total": "总人口",
+  "population_total_log": "总人口(对数)",
+  "tertiary_enrollment_total": "高等教育在校生总数",
+  "tertiary_enrollment_total_log": "高等教育在校生总数(对数)",
+  "*_YoY_Growth": "年同比增长率(%)",
+  "*_MA3": "3年移动平均",
+  "*_lag1/2/3": "滞后1/2/3年特征",
+  "AI_Talent_Index": "AI人才综合指数(0-1标准化)",
+  "researcher_density_adjusted": "劳动人口调整后的研究人员密度"
+}
