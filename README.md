@@ -157,12 +157,38 @@ python scripts/run_problem4.py
 ### 5.3 DEMATEL因果权重计算
 
 **核心公式：**
-- 归一化直接影响矩阵：$N = Z / \max(\sum_j z_{ij})$
-- 总关系矩阵：$T = N \times (I - N)^{-1}$
-- 影响度：$R_j = \sum_i t_{ij}$（行和）
-- 被影响度：$C_j = \sum_i t_{ji}$（列和）
-- 中心度权重：$w_j = (R_j + C_j) / \sum_k(R_k + C_k)$
+### 核心算法公式
 
+**1. 归一化直接影响矩阵 (Normalized Direct Relation Matrix):**
+
+$$
+N = \frac{Z}{\max(\sum_{j} z_{ij})}
+$$
+
+**2. 总关系矩阵 (Total Relation Matrix):**
+
+$$
+T = N (I - N)^{-1}
+$$
+
+**3. 影响度 (Influence / Row Sum):**
+
+$$
+R_j = \sum_{i} t_{ij}
+$$
+
+**4. 被影响度 (Effect / Column Sum):**
+
+$$
+C_j = \sum_{i} t_{ji}
+$$
+
+**5. 中心度权重 (Centrality Weight):**
+
+$$
+w_j = \frac{R_j + C_j}{\sum_{k}(R_k + C_k)}
+$$
+   
 **因果分析结论：**
 - **原因因子** (驱动AI发展): F1研发投入、B1人才存量、A1算力基建、E2资本流动
 - **结果因子** (AI发展成果): E3产业转化、D1开源活跃、C1科研产出
@@ -426,3 +452,4 @@ $$X_C = A \cdot \left(\alpha \cdot X_A^\rho + (1-\alpha) \cdot X_B^\rho\right)^{
 ---
 
 *文档更新时间: 2026年1月*
+
